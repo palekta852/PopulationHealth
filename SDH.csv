@@ -1,0 +1,901 @@
+SDHID,PatientID,Factor,Severity
+1,280.0,Unemployment,High
+2,20.0,Housing Instability,Low
+3,51.0,Low Income,
+4,343.0,Housing Instability,High
+5,977.0,Low Income,High
+6,449.0,Transportation Issues,Low
+7,915.0,Food Insecurity,Low
+8,454.0,Food Insecurity,Medium
+9,775.0,Low Income,High
+10,942.0,Education Barrier,High
+11,62.0,Education Barrier,Medium
+12,99.0,,Low
+13,745.0,Low Income,
+14,,Food Insecurity,High
+15,878.0,Unemployment,High
+16,,Transportation Issues,High
+17,450.0,Low Income,High
+18,97.0,Education Barrier,Medium
+19,130.0,Education Barrier,Medium
+20,218.0,Housing Instability,High
+21,602.0,Education Barrier,Low
+22,607.0,Low Income,
+23,707.0,Transportation Issues,Low
+24,131.0,Food Insecurity,Low
+25,574.0,Transportation Issues,Medium
+26,312.0,Food Insecurity,Medium
+27,69.0,Housing Instability,High
+28,809.0,Low Income,Low
+29,69.0,Transportation Issues,
+30,967.0,Food Insecurity,High
+31,454.0,,Low
+32,,Education Barrier,Medium
+33,416.0,Low Income,Low
+34,845.0,Transportation Issues,High
+35,557.0,Housing Instability,Medium
+36,129.0,Food Insecurity,Medium
+37,67.0,Food Insecurity,Low
+38,182.0,Housing Instability,Medium
+39,,Transportation Issues,Medium
+40,,Food Insecurity,Low
+41,482.0,Education Barrier,Medium
+42,192.0,Unemployment,
+43,594.0,Food Insecurity,Low
+44,,Low Income,Medium
+45,883.0,Education Barrier,Medium
+46,9.0,,Low
+47,332.0,Housing Instability,Low
+48,713.0,Education Barrier,Medium
+49,801.0,Food Insecurity,Medium
+50,805.0,Transportation Issues,Medium
+51,402.0,Housing Instability,Medium
+52,726.0,,Medium
+53,,Housing Instability,Low
+54,612.0,Unemployment,Low
+55,975.0,Transportation Issues,Medium
+56,866.0,Low Income,
+57,927.0,Housing Instability,
+58,811.0,,
+59,228.0,Food Insecurity,Medium
+60,460.0,Transportation Issues,Medium
+61,770.0,Low Income,Low
+62,198.0,Housing Instability,Low
+63,560.0,Low Income,High
+64,338.0,Food Insecurity,High
+65,742.0,Unemployment,Medium
+66,180.0,Unemployment,Medium
+67,67.0,Transportation Issues,Low
+68,181.0,Transportation Issues,High
+69,812.0,,Medium
+70,,Unemployment,High
+71,842.0,Food Insecurity,Medium
+72,,Low Income,Low
+73,690.0,,Medium
+74,924.0,Education Barrier,Low
+75,473.0,Low Income,High
+76,,Transportation Issues,Low
+77,388.0,Unemployment,
+78,894.0,Education Barrier,Medium
+79,604.0,Education Barrier,Medium
+80,304.0,Housing Instability,High
+81,83.0,Low Income,High
+82,577.0,Transportation Issues,Low
+83,262.0,Unemployment,Low
+84,,,High
+85,953.0,Education Barrier,Low
+86,,Housing Instability,Medium
+87,494.0,Low Income,Medium
+88,369.0,Low Income,High
+89,51.0,Transportation Issues,High
+90,908.0,Transportation Issues,High
+91,706.0,Housing Instability,Low
+92,654.0,Unemployment,Medium
+93,544.0,Unemployment,Medium
+94,135.0,Transportation Issues,High
+95,654.0,Low Income,
+96,943.0,Housing Instability,Low
+97,,Education Barrier,Low
+98,505.0,Transportation Issues,Low
+99,139.0,Low Income,Medium
+100,,Education Barrier,High
+101,267.0,Transportation Issues,Low
+102,567.0,Unemployment,
+103,509.0,Education Barrier,High
+104,732.0,Unemployment,Medium
+105,558.0,Education Barrier,Low
+106,73.0,Education Barrier,Medium
+107,405.0,Unemployment,Low
+108,987.0,Food Insecurity,
+109,607.0,Housing Instability,Low
+110,898.0,Low Income,High
+111,764.0,Transportation Issues,High
+112,933.0,Low Income,High
+113,841.0,Low Income,High
+114,957.0,Housing Instability,
+115,886.0,,Medium
+116,592.0,Low Income,Low
+117,991.0,Unemployment,High
+118,382.0,Transportation Issues,
+119,973.0,,Low
+120,,Unemployment,Low
+121,915.0,Food Insecurity,Medium
+122,428.0,Transportation Issues,Low
+123,376.0,Unemployment,
+124,282.0,Housing Instability,Low
+125,970.0,Education Barrier,High
+126,594.0,Low Income,High
+127,736.0,Low Income,Low
+128,713.0,Unemployment,Low
+129,809.0,Education Barrier,
+130,981.0,Housing Instability,High
+131,,Food Insecurity,High
+132,577.0,Transportation Issues,Medium
+133,932.0,Education Barrier,High
+134,,Transportation Issues,Low
+135,740.0,Education Barrier,Low
+136,766.0,Unemployment,Medium
+137,932.0,,Low
+138,341.0,Education Barrier,High
+139,,,Low
+140,414.0,Transportation Issues,Medium
+141,913.0,,Medium
+142,17.0,Unemployment,Low
+143,923.0,Transportation Issues,
+144,227.0,Housing Instability,Medium
+145,113.0,Transportation Issues,Medium
+146,895.0,Housing Instability,
+147,143.0,Housing Instability,High
+148,266.0,Low Income,Low
+149,51.0,Unemployment,Low
+150,795.0,Housing Instability,
+151,331.0,Low Income,High
+152,83.0,Education Barrier,High
+153,520.0,,Medium
+154,501.0,Housing Instability,Low
+155,285.0,Education Barrier,High
+156,125.0,Transportation Issues,High
+157,986.0,Unemployment,Low
+158,134.0,Unemployment,
+159,986.0,Unemployment,Low
+160,243.0,Education Barrier,Low
+161,947.0,,High
+162,907.0,Housing Instability,High
+163,516.0,Food Insecurity,Medium
+164,924.0,Food Insecurity,Low
+165,151.0,Education Barrier,Medium
+166,891.0,Low Income,Medium
+167,987.0,Food Insecurity,Medium
+168,164.0,Unemployment,High
+169,559.0,,Low
+170,72.0,Low Income,Low
+171,,Low Income,Low
+172,209.0,Housing Instability,
+173,366.0,Education Barrier,Low
+174,300.0,Education Barrier,High
+175,370.0,Transportation Issues,High
+176,480.0,Education Barrier,Medium
+177,838.0,Housing Instability,High
+178,376.0,Unemployment,Low
+179,447.0,Unemployment,Medium
+180,500.0,Low Income,
+181,608.0,Education Barrier,High
+182,,Food Insecurity,Medium
+183,816.0,Education Barrier,Low
+184,,Food Insecurity,Medium
+185,350.0,Food Insecurity,Medium
+186,698.0,Food Insecurity,Medium
+187,,Education Barrier,Low
+188,878.0,Transportation Issues,High
+189,876.0,Unemployment,Medium
+190,547.0,Food Insecurity,
+191,485.0,Transportation Issues,Medium
+192,896.0,Unemployment,Low
+193,142.0,Unemployment,High
+194,445.0,Housing Instability,Medium
+195,934.0,Transportation Issues,Medium
+196,460.0,Housing Instability,Medium
+197,752.0,Housing Instability,High
+198,90.0,Unemployment,Medium
+199,168.0,Transportation Issues,High
+200,860.0,Low Income,
+201,494.0,Housing Instability,Low
+202,60.0,Education Barrier,High
+203,632.0,Unemployment,Medium
+204,698.0,Housing Instability,Medium
+205,191.0,Education Barrier,Low
+206,677.0,Unemployment,High
+207,5.0,Low Income,Medium
+208,428.0,Housing Instability,Low
+209,71.0,Food Insecurity,Low
+210,283.0,Food Insecurity,High
+211,,Transportation Issues,High
+212,32.0,Transportation Issues,Low
+213,734.0,Food Insecurity,Low
+214,841.0,Unemployment,
+215,145.0,Education Barrier,High
+216,228.0,Low Income,Medium
+217,369.0,Food Insecurity,Low
+218,76.0,Transportation Issues,
+219,222.0,Food Insecurity,
+220,138.0,Food Insecurity,High
+221,,Food Insecurity,
+222,877.0,Education Barrier,
+223,962.0,Transportation Issues,Low
+224,846.0,,Low
+225,665.0,Transportation Issues,Medium
+226,338.0,,Low
+227,300.0,Low Income,
+228,308.0,Food Insecurity,Low
+229,36.0,Transportation Issues,High
+230,821.0,Low Income,High
+231,428.0,Housing Instability,
+232,594.0,Housing Instability,Medium
+233,944.0,,
+234,111.0,Low Income,Medium
+235,985.0,Education Barrier,Medium
+236,539.0,Transportation Issues,High
+237,196.0,Education Barrier,High
+238,,Housing Instability,High
+239,194.0,,
+240,821.0,Low Income,High
+241,167.0,Housing Instability,Medium
+242,535.0,Education Barrier,Medium
+243,120.0,Transportation Issues,Medium
+244,151.0,Education Barrier,Low
+245,785.0,Housing Instability,Low
+246,729.0,Unemployment,Low
+247,729.0,Unemployment,Low
+248,95.0,Unemployment,Medium
+249,,Food Insecurity,High
+250,418.0,Transportation Issues,High
+251,738.0,Low Income,High
+252,91.0,Housing Instability,Low
+253,,Food Insecurity,Low
+254,40.0,Unemployment,Medium
+255,721.0,,Medium
+256,,Low Income,Low
+257,593.0,,High
+258,114.0,Education Barrier,High
+259,64.0,Food Insecurity,
+260,729.0,Low Income,
+261,428.0,Low Income,High
+262,441.0,,Low
+263,430.0,Low Income,Low
+264,218.0,Education Barrier,Low
+265,90.0,Education Barrier,High
+266,439.0,Food Insecurity,Medium
+267,496.0,,Medium
+268,,Food Insecurity,Low
+269,571.0,Transportation Issues,Low
+270,444.0,Low Income,Medium
+271,236.0,Education Barrier,High
+272,727.0,Low Income,High
+273,915.0,Low Income,High
+274,591.0,,Medium
+275,482.0,,Medium
+276,794.0,Education Barrier,Medium
+277,,Food Insecurity,High
+278,710.0,Housing Instability,Low
+279,657.0,Housing Instability,High
+280,856.0,Food Insecurity,Medium
+281,179.0,,Medium
+282,887.0,Unemployment,Low
+283,485.0,Education Barrier,Medium
+284,498.0,Education Barrier,Medium
+285,396.0,Education Barrier,High
+286,258.0,Housing Instability,Medium
+287,,Education Barrier,High
+288,860.0,Low Income,Medium
+289,778.0,Low Income,High
+290,572.0,Housing Instability,High
+291,257.0,Housing Instability,
+292,379.0,,Medium
+293,839.0,Housing Instability,
+294,243.0,Low Income,Low
+295,787.0,Low Income,Medium
+296,274.0,Education Barrier,Low
+297,420.0,Food Insecurity,Low
+298,456.0,Low Income,Low
+299,792.0,Unemployment,Medium
+300,601.0,Food Insecurity,Low
+301,225.0,Food Insecurity,Low
+302,92.0,Transportation Issues,Medium
+303,35.0,,High
+304,744.0,Low Income,Medium
+305,41.0,Low Income,Medium
+306,551.0,Transportation Issues,High
+307,438.0,Low Income,Medium
+308,552.0,Low Income,High
+309,537.0,Unemployment,Low
+310,,Low Income,
+311,597.0,Education Barrier,High
+312,749.0,Housing Instability,Low
+313,486.0,Education Barrier,Medium
+314,1000.0,Transportation Issues,Medium
+315,21.0,Food Insecurity,Medium
+316,253.0,Transportation Issues,
+317,,Unemployment,High
+318,851.0,Transportation Issues,High
+319,149.0,Education Barrier,
+320,772.0,Low Income,Low
+321,,Low Income,Low
+322,544.0,Low Income,Low
+323,467.0,Unemployment,Low
+324,305.0,Unemployment,Low
+325,232.0,Education Barrier,Low
+326,496.0,Food Insecurity,Low
+327,,Housing Instability,Medium
+328,104.0,Food Insecurity,High
+329,101.0,Education Barrier,Low
+330,931.0,Food Insecurity,Medium
+331,688.0,Low Income,Medium
+332,15.0,Food Insecurity,High
+333,751.0,Unemployment,Low
+334,204.0,Education Barrier,Low
+335,209.0,Housing Instability,High
+336,770.0,Education Barrier,Medium
+337,380.0,Food Insecurity,Low
+338,,Low Income,High
+339,617.0,Unemployment,Medium
+340,14.0,Low Income,Low
+341,,Housing Instability,High
+342,,Low Income,Medium
+343,385.0,Low Income,High
+344,448.0,Transportation Issues,High
+345,97.0,Food Insecurity,Low
+346,451.0,Education Barrier,Low
+347,741.0,Housing Instability,High
+348,,,Medium
+349,448.0,Housing Instability,High
+350,470.0,Housing Instability,High
+351,330.0,Unemployment,
+352,561.0,Housing Instability,Low
+353,449.0,Transportation Issues,Low
+354,,Transportation Issues,Low
+355,512.0,Food Insecurity,Low
+356,,Low Income,High
+357,182.0,Transportation Issues,High
+358,597.0,Low Income,Medium
+359,865.0,Low Income,Medium
+360,608.0,Housing Instability,Low
+361,441.0,Unemployment,High
+362,,,Medium
+363,842.0,Education Barrier,Low
+364,126.0,Education Barrier,Low
+365,442.0,Education Barrier,Low
+366,154.0,Low Income,
+367,17.0,Education Barrier,Medium
+368,496.0,Transportation Issues,Low
+369,256.0,Transportation Issues,Medium
+370,127.0,Education Barrier,Low
+371,262.0,Housing Instability,
+372,856.0,Housing Instability,Low
+373,994.0,Low Income,Low
+374,802.0,Education Barrier,High
+375,628.0,Unemployment,Low
+376,483.0,Housing Instability,
+377,712.0,Food Insecurity,High
+378,435.0,Education Barrier,High
+379,857.0,Unemployment,Medium
+380,805.0,,Medium
+381,509.0,,High
+382,170.0,Transportation Issues,Low
+383,531.0,Unemployment,High
+384,342.0,Unemployment,Low
+385,743.0,,Medium
+386,,Transportation Issues,
+387,,Food Insecurity,Low
+388,566.0,Education Barrier,Low
+389,598.0,Unemployment,High
+390,518.0,Unemployment,Medium
+391,85.0,Food Insecurity,High
+392,800.0,Food Insecurity,Medium
+393,888.0,Unemployment,High
+394,452.0,Housing Instability,High
+395,294.0,Low Income,Medium
+396,978.0,Unemployment,
+397,768.0,Food Insecurity,High
+398,978.0,Housing Instability,Medium
+399,802.0,Housing Instability,High
+400,320.0,Low Income,High
+401,132.0,Unemployment,High
+402,392.0,Transportation Issues,High
+403,588.0,,Low
+404,495.0,Transportation Issues,High
+405,919.0,Unemployment,Medium
+406,74.0,Education Barrier,Low
+407,1000.0,,High
+408,565.0,Transportation Issues,Medium
+409,201.0,Low Income,High
+410,171.0,Unemployment,Low
+411,808.0,Housing Instability,Low
+412,13.0,Housing Instability,Medium
+413,998.0,Unemployment,High
+414,150.0,,Low
+415,500.0,Education Barrier,High
+416,642.0,Low Income,High
+417,645.0,Low Income,High
+418,697.0,Food Insecurity,High
+419,236.0,Education Barrier,High
+420,344.0,Low Income,Low
+421,908.0,Transportation Issues,High
+422,308.0,Unemployment,Low
+423,437.0,,Medium
+424,588.0,Food Insecurity,High
+425,519.0,Unemployment,High
+426,213.0,,Low
+427,400.0,,Medium
+428,498.0,Food Insecurity,High
+429,680.0,Unemployment,High
+430,114.0,Low Income,
+431,912.0,Transportation Issues,Medium
+432,222.0,Low Income,Low
+433,333.0,Unemployment,Medium
+434,,Education Barrier,Low
+435,759.0,Transportation Issues,Low
+436,,Transportation Issues,Medium
+437,924.0,Transportation Issues,Low
+438,325.0,Unemployment,
+439,742.0,Food Insecurity,Medium
+440,13.0,Low Income,Low
+441,869.0,Low Income,Low
+442,391.0,Low Income,Medium
+443,164.0,Transportation Issues,High
+444,771.0,Education Barrier,
+445,325.0,,
+446,,,Medium
+447,915.0,Transportation Issues,Low
+448,101.0,,Low
+449,463.0,Education Barrier,High
+450,776.0,Transportation Issues,Low
+451,881.0,Food Insecurity,Medium
+452,587.0,Low Income,High
+453,105.0,,Medium
+454,216.0,Housing Instability,High
+455,685.0,Education Barrier,
+456,,,Low
+457,21.0,Housing Instability,Low
+458,374.0,Housing Instability,High
+459,529.0,Low Income,Medium
+460,238.0,Food Insecurity,
+461,434.0,Transportation Issues,
+462,776.0,Food Insecurity,High
+463,487.0,Transportation Issues,High
+464,,Education Barrier,Medium
+465,879.0,Transportation Issues,Low
+466,776.0,Transportation Issues,Medium
+467,865.0,Food Insecurity,Medium
+468,473.0,Food Insecurity,High
+469,6.0,Low Income,
+470,817.0,Transportation Issues,Medium
+471,627.0,Transportation Issues,High
+472,448.0,Unemployment,
+473,787.0,Unemployment,Low
+474,574.0,Housing Instability,Medium
+475,998.0,Unemployment,High
+476,125.0,Transportation Issues,Low
+477,325.0,Housing Instability,High
+478,535.0,Unemployment,Medium
+479,846.0,,Low
+480,573.0,Transportation Issues,Medium
+481,253.0,,Low
+482,549.0,Low Income,High
+483,485.0,Unemployment,Medium
+484,465.0,Unemployment,Low
+485,418.0,Housing Instability,Low
+486,584.0,Food Insecurity,Low
+487,820.0,Housing Instability,Low
+488,,Housing Instability,High
+489,267.0,Housing Instability,High
+490,,Housing Instability,Medium
+491,674.0,Food Insecurity,Medium
+492,117.0,Education Barrier,Low
+493,259.0,Housing Instability,
+494,376.0,,Low
+495,693.0,Transportation Issues,High
+496,55.0,Housing Instability,Medium
+497,236.0,Unemployment,High
+498,338.0,Low Income,Low
+499,927.0,Education Barrier,Medium
+500,462.0,Housing Instability,Low
+501,215.0,Low Income,Low
+502,111.0,Food Insecurity,Medium
+503,740.0,Food Insecurity,Medium
+504,45.0,Transportation Issues,Low
+505,241.0,Housing Instability,High
+506,948.0,Housing Instability,Medium
+507,38.0,Housing Instability,
+508,,Low Income,High
+509,646.0,,High
+510,715.0,Housing Instability,Low
+511,915.0,Unemployment,Medium
+512,769.0,Food Insecurity,Medium
+513,311.0,Food Insecurity,High
+514,482.0,Low Income,Medium
+515,796.0,Food Insecurity,High
+516,472.0,Education Barrier,Medium
+517,535.0,Education Barrier,Low
+518,633.0,Housing Instability,Low
+519,707.0,Transportation Issues,Medium
+520,,Transportation Issues,Low
+521,66.0,Transportation Issues,Medium
+522,23.0,Low Income,
+523,380.0,Food Insecurity,Medium
+524,445.0,Food Insecurity,High
+525,474.0,Education Barrier,
+526,447.0,Food Insecurity,Medium
+527,539.0,Education Barrier,Low
+528,,Housing Instability,Medium
+529,212.0,Education Barrier,Low
+530,359.0,,Medium
+531,,Housing Instability,
+532,223.0,Low Income,
+533,419.0,Education Barrier,Medium
+534,24.0,Low Income,High
+535,149.0,Education Barrier,Medium
+536,953.0,Transportation Issues,Low
+537,308.0,Transportation Issues,Low
+538,819.0,Low Income,High
+539,37.0,Food Insecurity,Medium
+540,257.0,Food Insecurity,
+541,334.0,,High
+542,,Food Insecurity,Low
+543,602.0,Transportation Issues,Low
+544,873.0,,
+545,760.0,Low Income,High
+546,827.0,Transportation Issues,Medium
+547,494.0,Food Insecurity,Medium
+548,422.0,Low Income,Low
+549,440.0,Housing Instability,High
+550,11.0,Education Barrier,Low
+551,588.0,Education Barrier,Medium
+552,640.0,Low Income,Low
+553,159.0,Unemployment,Medium
+554,487.0,Education Barrier,High
+555,179.0,,High
+556,286.0,Education Barrier,High
+557,843.0,Food Insecurity,High
+558,9.0,Education Barrier,Medium
+559,186.0,Food Insecurity,High
+560,805.0,,Low
+561,505.0,Transportation Issues,
+562,468.0,,High
+563,626.0,Unemployment,High
+564,326.0,Education Barrier,Low
+565,938.0,Low Income,High
+566,508.0,Education Barrier,
+567,87.0,Food Insecurity,Low
+568,684.0,Food Insecurity,High
+569,162.0,Transportation Issues,Medium
+570,,Education Barrier,Low
+571,812.0,Food Insecurity,High
+572,,Food Insecurity,High
+573,426.0,Education Barrier,High
+574,348.0,Transportation Issues,
+575,485.0,Unemployment,Medium
+576,431.0,Housing Instability,
+577,811.0,Unemployment,High
+578,240.0,Housing Instability,High
+579,864.0,,Medium
+580,350.0,Low Income,Medium
+581,560.0,Food Insecurity,Medium
+582,69.0,Transportation Issues,Low
+583,574.0,Food Insecurity,High
+584,838.0,Low Income,Medium
+585,640.0,Food Insecurity,High
+586,671.0,Low Income,Low
+587,178.0,Unemployment,
+588,768.0,Education Barrier,Medium
+589,373.0,,Low
+590,855.0,Housing Instability,Low
+591,872.0,Transportation Issues,High
+592,182.0,Transportation Issues,Medium
+593,152.0,Low Income,High
+594,868.0,Transportation Issues,High
+595,420.0,Education Barrier,High
+596,382.0,Food Insecurity,Medium
+597,923.0,,High
+598,46.0,Low Income,High
+599,694.0,Housing Instability,Low
+600,958.0,Housing Instability,Medium
+601,695.0,Low Income,Low
+602,336.0,Education Barrier,High
+603,,Food Insecurity,Medium
+604,802.0,Education Barrier,Low
+605,882.0,Education Barrier,Low
+606,336.0,Food Insecurity,Medium
+607,47.0,Unemployment,High
+608,159.0,Food Insecurity,High
+609,365.0,Unemployment,High
+610,996.0,Low Income,Low
+611,930.0,,Medium
+612,266.0,Transportation Issues,Medium
+613,212.0,Housing Instability,Medium
+614,458.0,Food Insecurity,Medium
+615,154.0,Housing Instability,Low
+616,908.0,Education Barrier,
+617,461.0,Transportation Issues,High
+618,609.0,,Medium
+619,521.0,Education Barrier,High
+620,362.0,Food Insecurity,Low
+621,218.0,,High
+622,43.0,Education Barrier,Low
+623,769.0,Low Income,Low
+624,244.0,Housing Instability,Medium
+625,644.0,Transportation Issues,Low
+626,508.0,Transportation Issues,Low
+627,864.0,Food Insecurity,
+628,692.0,Education Barrier,High
+629,61.0,Transportation Issues,High
+630,387.0,Education Barrier,Medium
+631,,Unemployment,High
+632,934.0,Food Insecurity,High
+633,,Unemployment,Medium
+634,37.0,Education Barrier,Low
+635,,Low Income,Low
+636,215.0,Education Barrier,
+637,739.0,Low Income,
+638,548.0,,High
+639,735.0,Education Barrier,Medium
+640,300.0,Education Barrier,Low
+641,180.0,,High
+642,185.0,Low Income,Low
+643,,Education Barrier,Medium
+644,707.0,Food Insecurity,Low
+645,464.0,Food Insecurity,High
+646,775.0,Housing Instability,Low
+647,831.0,Low Income,High
+648,69.0,Food Insecurity,
+649,909.0,Food Insecurity,
+650,92.0,Low Income,Medium
+651,941.0,Food Insecurity,Low
+652,139.0,Food Insecurity,Low
+653,569.0,Low Income,Low
+654,226.0,Transportation Issues,Medium
+655,386.0,Education Barrier,Low
+656,807.0,,Medium
+657,612.0,Low Income,Medium
+658,367.0,Housing Instability,High
+659,559.0,Housing Instability,Medium
+660,906.0,Housing Instability,Low
+661,707.0,Housing Instability,High
+662,922.0,Unemployment,High
+663,272.0,Housing Instability,High
+664,119.0,,Medium
+665,527.0,Transportation Issues,Medium
+666,140.0,Transportation Issues,
+667,17.0,Education Barrier,High
+668,100.0,Transportation Issues,Medium
+669,407.0,Education Barrier,Medium
+670,726.0,,Low
+671,400.0,Housing Instability,High
+672,553.0,Education Barrier,High
+673,973.0,Transportation Issues,High
+674,739.0,Low Income,Low
+675,672.0,Education Barrier,Medium
+676,551.0,Low Income,Medium
+677,373.0,Unemployment,High
+678,384.0,Transportation Issues,Medium
+679,141.0,Transportation Issues,Medium
+680,860.0,Low Income,Medium
+681,817.0,Low Income,High
+682,404.0,Education Barrier,High
+683,319.0,,Low
+684,655.0,Low Income,High
+685,780.0,Low Income,Medium
+686,146.0,Low Income,Medium
+687,42.0,Housing Instability,Low
+688,474.0,Education Barrier,Low
+689,48.0,Unemployment,Medium
+690,578.0,Low Income,Low
+691,657.0,Unemployment,Low
+692,645.0,Unemployment,Low
+693,258.0,,High
+694,469.0,Education Barrier,Low
+695,725.0,Low Income,Low
+696,524.0,Transportation Issues,Low
+697,,Food Insecurity,Medium
+698,755.0,Transportation Issues,
+699,318.0,Education Barrier,Low
+700,917.0,Housing Instability,Low
+701,157.0,Housing Instability,High
+702,713.0,Food Insecurity,
+703,154.0,Low Income,Medium
+704,514.0,Housing Instability,Medium
+705,942.0,Education Barrier,Low
+706,997.0,Housing Instability,
+707,944.0,Transportation Issues,Medium
+708,872.0,Low Income,Medium
+709,503.0,Unemployment,High
+710,399.0,Transportation Issues,High
+711,44.0,Education Barrier,High
+712,113.0,Food Insecurity,Medium
+713,57.0,Food Insecurity,Medium
+714,625.0,Food Insecurity,High
+715,891.0,Education Barrier,Low
+716,575.0,Low Income,
+717,819.0,Transportation Issues,High
+718,99.0,Transportation Issues,High
+719,453.0,Housing Instability,Medium
+720,987.0,Low Income,High
+721,653.0,Education Barrier,Medium
+722,915.0,Housing Instability,High
+723,762.0,Food Insecurity,High
+724,220.0,Transportation Issues,High
+725,667.0,Education Barrier,Low
+726,,Unemployment,Medium
+727,133.0,Food Insecurity,High
+728,948.0,Food Insecurity,Medium
+729,314.0,Unemployment,Medium
+730,492.0,Transportation Issues,Low
+731,187.0,,Medium
+732,80.0,,Low
+733,457.0,Low Income,Medium
+734,328.0,Transportation Issues,Medium
+735,828.0,Food Insecurity,Medium
+736,975.0,Unemployment,Medium
+737,903.0,,Medium
+738,969.0,Food Insecurity,Medium
+739,32.0,Housing Instability,
+740,968.0,,Low
+741,786.0,Unemployment,Low
+742,581.0,Unemployment,Medium
+743,257.0,Education Barrier,High
+744,274.0,Unemployment,High
+745,693.0,,Medium
+746,566.0,Transportation Issues,Medium
+747,746.0,Housing Instability,High
+748,696.0,Transportation Issues,Low
+749,645.0,Food Insecurity,Low
+750,414.0,Unemployment,Low
+751,326.0,Housing Instability,Low
+752,646.0,Housing Instability,Low
+753,885.0,Low Income,
+754,17.0,Food Insecurity,High
+755,301.0,Transportation Issues,Low
+756,,Unemployment,Medium
+757,308.0,Food Insecurity,
+758,696.0,Education Barrier,High
+759,516.0,Housing Instability,Low
+760,298.0,Transportation Issues,
+761,756.0,Unemployment,
+762,107.0,Unemployment,Medium
+763,379.0,,High
+764,,,Medium
+765,904.0,Low Income,Medium
+766,978.0,Education Barrier,High
+767,,Unemployment,High
+768,158.0,Low Income,Medium
+769,449.0,Education Barrier,Medium
+770,966.0,Housing Instability,
+771,378.0,Housing Instability,High
+772,881.0,Transportation Issues,High
+773,810.0,Food Insecurity,High
+774,50.0,Unemployment,Medium
+775,148.0,Education Barrier,High
+776,381.0,Housing Instability,Medium
+777,128.0,Transportation Issues,Low
+778,402.0,Unemployment,
+779,159.0,Education Barrier,Medium
+780,674.0,Unemployment,High
+781,834.0,Unemployment,Medium
+782,596.0,,
+783,837.0,Education Barrier,High
+784,650.0,Housing Instability,High
+785,832.0,Transportation Issues,Medium
+786,328.0,Housing Instability,
+787,468.0,,Medium
+788,125.0,Unemployment,Medium
+789,724.0,Food Insecurity,Medium
+790,229.0,Education Barrier,
+791,69.0,Low Income,High
+792,85.0,Unemployment,Low
+793,151.0,,High
+794,128.0,Transportation Issues,High
+795,900.0,Food Insecurity,High
+796,783.0,Transportation Issues,High
+797,646.0,Education Barrier,Low
+798,,Unemployment,Low
+799,674.0,Transportation Issues,High
+800,,Unemployment,Medium
+801,526.0,Low Income,High
+802,349.0,Housing Instability,High
+803,307.0,Low Income,Low
+804,77.0,Transportation Issues,High
+805,945.0,,High
+806,954.0,Housing Instability,Low
+807,858.0,Transportation Issues,Low
+808,327.0,Education Barrier,High
+809,781.0,Unemployment,High
+810,192.0,Housing Instability,Low
+811,700.0,Transportation Issues,Medium
+812,316.0,Unemployment,Low
+813,771.0,Unemployment,High
+814,368.0,Food Insecurity,Medium
+815,,Education Barrier,Low
+816,351.0,Food Insecurity,High
+817,298.0,Food Insecurity,Low
+818,266.0,Low Income,Low
+819,651.0,Education Barrier,Medium
+820,13.0,Transportation Issues,Low
+821,755.0,Low Income,High
+822,444.0,Transportation Issues,Low
+823,454.0,Housing Instability,
+824,320.0,Low Income,
+825,777.0,Transportation Issues,Low
+826,240.0,Housing Instability,Low
+827,613.0,Housing Instability,Low
+828,219.0,Food Insecurity,Medium
+829,702.0,Low Income,Low
+830,745.0,Transportation Issues,Medium
+831,60.0,Housing Instability,Low
+832,635.0,Food Insecurity,
+833,332.0,Food Insecurity,Low
+834,326.0,Education Barrier,
+835,573.0,Education Barrier,High
+836,,Transportation Issues,High
+837,,Transportation Issues,High
+838,20.0,Food Insecurity,Medium
+839,65.0,Transportation Issues,Medium
+840,,Education Barrier,Low
+841,601.0,Low Income,Low
+842,835.0,Education Barrier,High
+843,,Transportation Issues,High
+844,679.0,Education Barrier,Low
+845,959.0,Low Income,Low
+846,852.0,Low Income,High
+847,874.0,Unemployment,High
+848,17.0,Transportation Issues,Medium
+849,,Transportation Issues,High
+850,725.0,Unemployment,Low
+851,774.0,Unemployment,High
+852,540.0,Transportation Issues,Low
+853,300.0,Housing Instability,High
+854,981.0,Education Barrier,Low
+855,926.0,,
+856,758.0,Education Barrier,Medium
+857,702.0,Food Insecurity,High
+858,148.0,Food Insecurity,
+859,984.0,Unemployment,Medium
+860,63.0,Housing Instability,
+861,419.0,Education Barrier,Medium
+862,275.0,,High
+863,725.0,Unemployment,High
+864,804.0,Unemployment,Medium
+865,553.0,Transportation Issues,Medium
+866,475.0,Housing Instability,High
+867,232.0,Unemployment,High
+868,529.0,,High
+869,332.0,Unemployment,Low
+870,,Housing Instability,
+871,340.0,Transportation Issues,Medium
+872,198.0,Low Income,High
+873,872.0,Housing Instability,Medium
+874,459.0,Transportation Issues,High
+875,544.0,Housing Instability,Low
+876,580.0,Education Barrier,Medium
+877,835.0,,Low
+878,890.0,Housing Instability,
+879,390.0,,Medium
+880,60.0,Unemployment,Low
+881,832.0,Housing Instability,High
+882,741.0,Low Income,Medium
+883,528.0,Education Barrier,Medium
+884,850.0,Housing Instability,Low
+885,792.0,Food Insecurity,Low
+886,484.0,Food Insecurity,Low
+887,56.0,Food Insecurity,Medium
+888,635.0,Low Income,Medium
+889,332.0,Transportation Issues,Medium
+890,498.0,Unemployment,High
+891,993.0,Food Insecurity,Medium
+892,761.0,,Medium
+893,772.0,Education Barrier,Medium
+894,606.0,Low Income,High
+895,601.0,Housing Instability,Low
+896,483.0,Unemployment,Low
+897,258.0,Low Income,High
+898,973.0,Low Income,High
+899,868.0,Transportation Issues,
+900,580.0,Transportation Issues,High

@@ -1,0 +1,401 @@
+BehavioralHealthID,PatientID,Diagnosis,VisitDate
+1,796.0,PTSD,2023-01-19
+2,902.0,PTSD,2020-08-27
+3,501.0,Depression,2021-06-30
+4,692.0,Depression,2024-10-10
+5,264.0,Substance Use Disorder,2020-01-26
+6,285.0,Depression,
+7,291.0,PTSD,2022-02-07
+8,512.0,Depression,2025-01-06
+9,852.0,Depression,2020-04-02
+10,882.0,Substance Use Disorder,2021-07-16
+11,628.0,Schizophrenia,2021-05-24
+12,509.0,Depression,2022-08-20
+13,527.0,Bipolar Disorder,2021-08-23
+14,165.0,PTSD,2021-10-24
+15,727.0,Depression,2021-12-30
+16,698.0,Depression,2024-06-06
+17,59.0,PTSD,2024-06-10
+18,424.0,Substance Use Disorder,2022-05-25
+19,107.0,Schizophrenia,2022-02-25
+20,137.0,Depression,2020-10-24
+21,374.0,Anxiety,
+22,813.0,Depression,2022-11-04
+23,544.0,Bipolar Disorder,2024-10-05
+24,995.0,Bipolar Disorder,2020-12-22
+25,854.0,,2020-05-12
+26,84.0,Anxiety,2020-04-17
+27,,Depression,2022-08-19
+28,741.0,Substance Use Disorder,2023-02-03
+29,,Schizophrenia,2021-01-08
+30,615.0,,2020-01-27
+31,734.0,Schizophrenia,2023-08-15
+32,628.0,Anxiety,
+33,229.0,Substance Use Disorder,2020-11-04
+34,287.0,Anxiety,
+35,57.0,Substance Use Disorder,2020-06-20
+36,244.0,Bipolar Disorder,2024-12-03
+37,334.0,Schizophrenia,2022-07-10
+38,970.0,Substance Use Disorder,2020-07-20
+39,584.0,PTSD,2020-08-26
+40,88.0,Anxiety,2022-10-14
+41,196.0,Substance Use Disorder,2024-06-22
+42,,Anxiety,2023-04-25
+43,,Depression,2022-10-25
+44,965.0,PTSD,2023-11-24
+45,,Depression,
+46,927.0,Anxiety,2024-04-15
+47,702.0,Anxiety,2023-05-21
+48,966.0,,2021-11-20
+49,483.0,Bipolar Disorder,2020-12-12
+50,173.0,Schizophrenia,2023-04-01
+51,87.0,Substance Use Disorder,2024-03-06
+52,146.0,Anxiety,
+53,903.0,,
+54,840.0,Bipolar Disorder,2024-03-03
+55,917.0,Anxiety,
+56,576.0,PTSD,2023-04-20
+57,114.0,Substance Use Disorder,2021-06-23
+58,85.0,Bipolar Disorder,2024-01-13
+59,,Substance Use Disorder,2024-09-16
+60,512.0,Schizophrenia,2022-07-03
+61,,PTSD,2020-09-21
+62,775.0,Substance Use Disorder,2021-09-10
+63,970.0,Substance Use Disorder,2022-06-14
+64,853.0,PTSD,2021-04-15
+65,667.0,Schizophrenia,2020-07-14
+66,658.0,Depression,2020-05-17
+67,428.0,Substance Use Disorder,
+68,619.0,Bipolar Disorder,
+69,86.0,Anxiety,2020-11-27
+70,744.0,Depression,2021-07-28
+71,69.0,PTSD,2020-04-26
+72,417.0,Depression,2020-10-02
+73,,Substance Use Disorder,2022-10-10
+74,494.0,Anxiety,2021-04-18
+75,560.0,Anxiety,2020-07-22
+76,699.0,Schizophrenia,2023-06-27
+77,663.0,Substance Use Disorder,2025-01-08
+78,750.0,Bipolar Disorder,2024-10-28
+79,62.0,Depression,2022-03-10
+80,755.0,Substance Use Disorder,2021-06-06
+81,997.0,Anxiety,2023-09-10
+82,12.0,PTSD,
+83,826.0,Depression,2023-08-12
+84,987.0,PTSD,2024-02-19
+85,,Substance Use Disorder,2023-01-20
+86,,Depression,2024-01-13
+87,728.0,PTSD,2023-12-29
+88,426.0,,2023-03-25
+89,662.0,Bipolar Disorder,2020-08-21
+90,318.0,Depression,2021-08-11
+91,24.0,Schizophrenia,2023-09-18
+92,664.0,Schizophrenia,2023-09-20
+93,474.0,,2021-12-16
+94,884.0,,2023-01-18
+95,699.0,Bipolar Disorder,2020-09-23
+96,178.0,Anxiety,2020-11-10
+97,943.0,Bipolar Disorder,2024-02-13
+98,514.0,Anxiety,2023-09-30
+99,920.0,,2022-08-03
+100,,,2021-10-10
+101,413.0,Anxiety,2020-10-25
+102,138.0,Bipolar Disorder,2021-01-25
+103,547.0,PTSD,2022-12-09
+104,497.0,Substance Use Disorder,2024-10-22
+105,,Anxiety,2020-02-15
+106,897.0,Bipolar Disorder,2023-06-03
+107,409.0,Bipolar Disorder,2023-11-11
+108,213.0,Substance Use Disorder,2022-07-29
+109,964.0,Schizophrenia,2022-11-08
+110,243.0,Substance Use Disorder,2023-01-23
+111,866.0,Bipolar Disorder,2021-03-05
+112,939.0,Bipolar Disorder,2023-06-14
+113,417.0,PTSD,2020-09-17
+114,238.0,Anxiety,2022-01-25
+115,683.0,Substance Use Disorder,2020-03-27
+116,281.0,PTSD,2024-07-19
+117,441.0,Bipolar Disorder,2022-07-12
+118,95.0,PTSD,2024-06-22
+119,627.0,,2020-04-13
+120,960.0,Anxiety,
+121,45.0,Schizophrenia,2020-10-06
+122,118.0,Anxiety,2023-01-18
+123,747.0,Anxiety,2020-07-13
+124,122.0,Anxiety,2020-12-11
+125,209.0,Depression,2023-10-02
+126,385.0,Depression,2020-07-16
+127,442.0,Depression,2021-10-01
+128,,Anxiety,2022-11-01
+129,90.0,Schizophrenia,2024-04-09
+130,302.0,Schizophrenia,2023-11-18
+131,358.0,Schizophrenia,2020-04-20
+132,313.0,Substance Use Disorder,2022-11-22
+133,207.0,Depression,
+134,583.0,PTSD,2022-08-05
+135,766.0,Substance Use Disorder,2024-01-17
+136,79.0,PTSD,2022-02-14
+137,517.0,Bipolar Disorder,2023-01-18
+138,773.0,Substance Use Disorder,2020-05-31
+139,273.0,PTSD,2021-12-25
+140,791.0,Substance Use Disorder,2024-04-30
+141,100.0,,2024-12-11
+142,,Substance Use Disorder,2021-08-10
+143,772.0,Anxiety,2021-05-28
+144,177.0,Anxiety,2020-06-22
+145,284.0,Depression,2020-10-23
+146,995.0,Depression,2021-11-25
+147,213.0,Schizophrenia,2021-11-10
+148,444.0,Depression,2020-10-27
+149,728.0,PTSD,2021-11-02
+150,1000.0,Substance Use Disorder,2020-10-17
+151,597.0,Depression,2022-03-14
+152,371.0,Bipolar Disorder,2021-01-13
+153,662.0,Schizophrenia,2023-05-31
+154,714.0,Depression,2020-06-21
+155,197.0,,2022-04-08
+156,615.0,Depression,2023-08-23
+157,452.0,Anxiety,
+158,956.0,,
+159,142.0,,2023-08-12
+160,83.0,Schizophrenia,2020-06-05
+161,259.0,Anxiety,2022-07-21
+162,324.0,PTSD,2022-10-02
+163,27.0,Schizophrenia,2023-03-25
+164,199.0,Schizophrenia,2020-07-08
+165,19.0,Anxiety,
+166,605.0,Substance Use Disorder,
+167,582.0,Depression,
+168,919.0,Schizophrenia,2020-06-06
+169,704.0,PTSD,
+170,736.0,Bipolar Disorder,2022-10-29
+171,265.0,Depression,2024-03-21
+172,899.0,Depression,2023-06-19
+173,301.0,Bipolar Disorder,2021-12-02
+174,996.0,Depression,2021-11-20
+175,133.0,Bipolar Disorder,2024-09-24
+176,749.0,Substance Use Disorder,2020-12-01
+177,433.0,PTSD,2023-10-06
+178,866.0,Anxiety,2021-02-11
+179,628.0,Schizophrenia,2021-10-06
+180,296.0,Schizophrenia,2022-08-19
+181,273.0,Substance Use Disorder,2020-09-08
+182,21.0,,
+183,786.0,Bipolar Disorder,2021-08-06
+184,918.0,Depression,2022-12-29
+185,,,2024-12-05
+186,417.0,Substance Use Disorder,2022-05-16
+187,193.0,Schizophrenia,2020-11-20
+188,,Schizophrenia,2024-08-15
+189,323.0,Substance Use Disorder,2021-12-25
+190,297.0,Depression,2023-09-21
+191,805.0,Bipolar Disorder,2022-06-27
+192,540.0,Schizophrenia,2021-09-05
+193,722.0,Substance Use Disorder,2023-08-09
+194,245.0,Substance Use Disorder,2021-12-19
+195,869.0,Anxiety,2024-06-19
+196,937.0,Depression,2023-12-04
+197,799.0,Schizophrenia,2021-08-20
+198,774.0,Anxiety,2021-10-19
+199,370.0,Depression,2024-04-18
+200,731.0,Substance Use Disorder,2022-06-03
+201,692.0,PTSD,2022-09-28
+202,947.0,Bipolar Disorder,2021-02-22
+203,435.0,Bipolar Disorder,2021-05-26
+204,462.0,Schizophrenia,2021-06-05
+205,,Anxiety,2021-04-20
+206,756.0,Bipolar Disorder,2024-03-13
+207,,Depression,2020-06-15
+208,31.0,PTSD,2024-03-27
+209,983.0,Depression,2023-11-20
+210,711.0,Schizophrenia,2021-08-05
+211,100.0,PTSD,2023-10-30
+212,365.0,Schizophrenia,2020-11-22
+213,363.0,Schizophrenia,2022-11-30
+214,995.0,Schizophrenia,2022-02-06
+215,337.0,Schizophrenia,2023-09-21
+216,,Bipolar Disorder,2022-05-03
+217,740.0,Depression,
+218,182.0,Anxiety,2022-10-10
+219,762.0,,2022-01-28
+220,682.0,Schizophrenia,2023-10-28
+221,,Depression,
+222,984.0,Bipolar Disorder,2022-01-28
+223,38.0,Anxiety,2020-08-06
+224,261.0,Schizophrenia,2023-02-26
+225,916.0,PTSD,2024-10-02
+226,605.0,Bipolar Disorder,2021-05-26
+227,224.0,PTSD,2024-03-16
+228,872.0,Substance Use Disorder,2021-05-27
+229,759.0,Bipolar Disorder,2020-03-24
+230,602.0,Bipolar Disorder,
+231,666.0,Bipolar Disorder,2024-10-29
+232,93.0,Substance Use Disorder,2022-05-29
+233,546.0,,2021-08-30
+234,519.0,Anxiety,2021-04-27
+235,,Substance Use Disorder,2021-09-04
+236,526.0,Bipolar Disorder,2024-06-27
+237,143.0,Substance Use Disorder,2022-07-25
+238,,Anxiety,2022-09-07
+239,569.0,Depression,2020-02-18
+240,424.0,Schizophrenia,2024-09-23
+241,625.0,Schizophrenia,2022-05-23
+242,28.0,Bipolar Disorder,2022-05-04
+243,178.0,Substance Use Disorder,2023-07-11
+244,,Anxiety,2022-03-19
+245,125.0,Anxiety,2024-01-26
+246,345.0,,2020-07-26
+247,24.0,PTSD,2021-03-15
+248,325.0,Bipolar Disorder,2021-10-20
+249,863.0,Depression,2022-03-03
+250,977.0,Schizophrenia,
+251,274.0,PTSD,2024-04-04
+252,268.0,PTSD,2020-03-27
+253,690.0,PTSD,2021-04-03
+254,797.0,PTSD,2021-11-15
+255,421.0,Anxiety,2024-09-05
+256,421.0,Schizophrenia,
+257,750.0,Depression,
+258,734.0,,2021-05-18
+259,485.0,Substance Use Disorder,2022-02-16
+260,323.0,Bipolar Disorder,2022-07-14
+261,,Depression,2020-05-05
+262,150.0,Schizophrenia,2020-12-03
+263,658.0,Bipolar Disorder,2021-03-15
+264,,Schizophrenia,2024-01-19
+265,598.0,Substance Use Disorder,2023-08-21
+266,556.0,Depression,2021-05-14
+267,248.0,Depression,2023-08-09
+268,126.0,Schizophrenia,2023-06-03
+269,458.0,Bipolar Disorder,2022-10-21
+270,810.0,PTSD,2022-04-05
+271,283.0,PTSD,2024-11-08
+272,603.0,PTSD,2023-11-01
+273,325.0,,2021-11-16
+274,392.0,Substance Use Disorder,2021-08-18
+275,83.0,Substance Use Disorder,2020-07-27
+276,894.0,Substance Use Disorder,2021-04-14
+277,944.0,Substance Use Disorder,2024-11-23
+278,161.0,Substance Use Disorder,2023-04-01
+279,845.0,Substance Use Disorder,2023-12-22
+280,26.0,PTSD,2020-05-09
+281,869.0,Substance Use Disorder,2023-08-14
+282,19.0,Anxiety,2021-11-18
+283,293.0,Schizophrenia,2023-04-25
+284,,PTSD,
+285,336.0,,2021-05-22
+286,383.0,Bipolar Disorder,2022-12-24
+287,58.0,Substance Use Disorder,2023-03-28
+288,473.0,Schizophrenia,2024-10-23
+289,153.0,Depression,2023-02-25
+290,947.0,PTSD,2023-11-18
+291,962.0,,2020-03-28
+292,552.0,,2023-01-13
+293,37.0,PTSD,2024-03-09
+294,704.0,Anxiety,2023-05-05
+295,379.0,Anxiety,2024-02-06
+296,177.0,Substance Use Disorder,2021-11-27
+297,311.0,Anxiety,2023-02-04
+298,35.0,Substance Use Disorder,2022-08-18
+299,401.0,Substance Use Disorder,2023-05-18
+300,554.0,Bipolar Disorder,2020-10-30
+301,645.0,Anxiety,2024-01-27
+302,802.0,PTSD,2020-04-10
+303,882.0,Depression,2020-04-10
+304,580.0,Bipolar Disorder,2023-01-18
+305,712.0,Bipolar Disorder,2020-04-12
+306,509.0,Anxiety,2023-12-24
+307,776.0,Substance Use Disorder,2022-11-06
+308,456.0,PTSD,2021-06-06
+309,572.0,Substance Use Disorder,2021-09-09
+310,280.0,Depression,2021-07-29
+311,219.0,PTSD,2023-10-29
+312,871.0,Bipolar Disorder,2022-11-17
+313,720.0,Bipolar Disorder,2023-03-18
+314,,Schizophrenia,2024-01-27
+315,190.0,,2022-05-13
+316,449.0,PTSD,
+317,,PTSD,2022-04-12
+318,611.0,PTSD,2024-10-09
+319,74.0,Depression,2023-07-15
+320,921.0,Anxiety,2022-02-24
+321,933.0,Anxiety,2020-07-03
+322,836.0,PTSD,2022-08-06
+323,578.0,Bipolar Disorder,
+324,717.0,Anxiety,2022-12-10
+325,686.0,Substance Use Disorder,2020-09-04
+326,807.0,Bipolar Disorder,2020-06-10
+327,173.0,Substance Use Disorder,2024-05-25
+328,480.0,Anxiety,
+329,253.0,,2021-12-03
+330,,,2021-09-20
+331,719.0,Schizophrenia,2021-10-18
+332,309.0,Substance Use Disorder,2024-06-03
+333,756.0,,2020-06-22
+334,334.0,Schizophrenia,2021-09-08
+335,234.0,Anxiety,2024-07-22
+336,264.0,Anxiety,2023-07-03
+337,711.0,Bipolar Disorder,2021-02-15
+338,553.0,,2023-05-07
+339,564.0,Anxiety,2021-07-31
+340,952.0,Substance Use Disorder,
+341,334.0,Anxiety,2020-02-16
+342,381.0,Schizophrenia,2023-05-07
+343,784.0,PTSD,2022-04-09
+344,23.0,Anxiety,2022-11-08
+345,23.0,Schizophrenia,2021-12-09
+346,643.0,Substance Use Disorder,2021-02-01
+347,397.0,Schizophrenia,
+348,426.0,PTSD,2025-01-13
+349,145.0,Schizophrenia,2021-07-01
+350,973.0,,2023-03-08
+351,932.0,PTSD,2020-09-29
+352,939.0,Anxiety,
+353,640.0,Substance Use Disorder,2024-08-31
+354,190.0,Depression,2023-02-17
+355,353.0,Anxiety,2020-08-20
+356,921.0,,2021-10-01
+357,366.0,Bipolar Disorder,2022-12-27
+358,756.0,Bipolar Disorder,2022-06-25
+359,992.0,Depression,2021-07-02
+360,900.0,Bipolar Disorder,2024-12-15
+361,471.0,Schizophrenia,
+362,165.0,Schizophrenia,2022-01-21
+363,937.0,Schizophrenia,2023-07-06
+364,99.0,Depression,2021-12-12
+365,43.0,Depression,2022-06-12
+366,782.0,Substance Use Disorder,2023-01-24
+367,319.0,PTSD,2021-07-01
+368,701.0,PTSD,2020-02-14
+369,,Bipolar Disorder,2022-01-29
+370,112.0,,2023-04-12
+371,742.0,,2021-06-22
+372,232.0,Anxiety,2023-12-15
+373,262.0,Substance Use Disorder,
+374,828.0,PTSD,2021-09-30
+375,168.0,PTSD,2020-11-24
+376,134.0,Depression,2022-03-29
+377,873.0,Substance Use Disorder,2020-05-08
+378,465.0,Anxiety,2021-09-05
+379,824.0,Depression,2021-12-14
+380,347.0,Depression,
+381,,Depression,2020-03-31
+382,126.0,Schizophrenia,2024-07-02
+383,,Bipolar Disorder,2023-02-11
+384,67.0,Depression,2021-11-02
+385,537.0,PTSD,2022-04-06
+386,198.0,PTSD,2024-01-19
+387,139.0,PTSD,2020-04-23
+388,578.0,Depression,2022-03-06
+389,540.0,Anxiety,
+390,309.0,Substance Use Disorder,2021-10-08
+391,433.0,Bipolar Disorder,2022-05-29
+392,161.0,Substance Use Disorder,2023-01-10
+393,609.0,Schizophrenia,2023-08-21
+394,222.0,Substance Use Disorder,
+395,,PTSD,2023-04-30
+396,40.0,Bipolar Disorder,2023-07-09
+397,438.0,Substance Use Disorder,2023-01-25
+398,,Anxiety,2024-01-05
+399,597.0,Anxiety,2021-05-29
+400,686.0,Schizophrenia,2020-08-09

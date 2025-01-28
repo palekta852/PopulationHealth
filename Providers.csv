@@ -1,0 +1,201 @@
+ProviderID,ProviderName,Specialty,ClinicName,City,State,ZIPCode
+1,Laura Dunlap,Oncology,"Patterson, Anderson and Porter",West Heatherborough,South Carolina,64460
+2,Lisa Wiggins,Primary Care,"Turner, Tucker and Sparks",Rebeccaborough,North Carolina,24569
+3,Daniel Gallegos,Pediatrics,Walker-Thompson,Lopezport,Colorado,70763
+4,Gregory Roberts,Primary Care,Olson-Taylor,Alexandraburgh,Washington,84849
+5,Sherry Dougherty,Oncology,Pearson-Wolfe,Port Peterburgh,Virginia,50660
+6,Matthew Newman,Oncology,"Harris, Hines and House",Lake Jeremyville,West Virginia,48693
+7,Courtney Evans,,"Mcdonald, Johnson and Evans",Port Jacob,South Carolina,14652
+8,Todd Campbell,Pediatrics,Griffin Inc,Riveraview,Iowa,03375
+9,Bryan Foster,Emergency Medicine,Jordan LLC,West Michaelside,Rhode Island,
+10,Caroline Gonzalez,Primary Care,"Dickson, Cox and Garcia",South Edward,Kansas,14538
+11,Brett Shaffer,Oncology,,East Jamieberg,Tennessee,32477
+12,Joseph Leon,Pediatrics,"Gates, Phillips and Porter",Sabrinatown,,10272
+13,,Cardiology,Hernandez-Monroe,Port Samuelmouth,Colorado,81443
+14,Kristi Patel,Primary Care,,North Brianview,Nevada,75880
+15,Whitney Cook,,Perez-Obrien,,,94681
+16,Jesus Banks,,Huffman-Rojas,New Hannah,Minnesota,20638
+17,,Primary Care,Green-Welch,South Rachelstad,Hawaii,23476
+18,Daniel Hunter,Pediatrics,Clarke PLC,Lake Hannahmouth,,60924
+19,George Barker,Oncology,Lopez-Davis,,Florida,
+20,Michelle Chambers,Oncology,"Roth, Reese and Smith",West Victor,Wyoming,
+21,Cassandra Garcia,Emergency Medicine,Nicholson and Sons,Port Joshuaton,Florida,04190
+22,Michelle Griffin,Oncology,,Grantbury,Nebraska,82645
+23,Jessica Barton,Cardiology,,North Michael,Kentucky,85833
+24,Caleb Torres,Primary Care,Rodriguez-Chaney,Mackton,Rhode Island,36608
+25,Garrett Peterson,Cardiology,Wilson Ltd,East Reginald,Virginia,
+26,Corey Rodriguez,Pediatrics,Hunt Group,West Tracyburgh,New Jersey,01066
+27,Tamara Mitchell,Emergency Medicine,Nguyen-Morris,Waynemouth,Idaho,52063
+28,Amy Carrillo,Oncology,"Conley, Wheeler and Moore",Robertsonstad,Colorado,58256
+29,Nicholas Ellison,Cardiology,Thomas LLC,Josephfurt,Hawaii,21084
+30,Gregory Kelley,,"Lopez, Johnson and Robinson",Craneview,,
+31,Isaac Moses,Primary Care,"Wolfe, Berry and Wilson",North Michaelstad,Tennessee,30907
+32,Elizabeth Martin DVM,Primary Care,Sampson Inc,Harrisborough,Mississippi,78860
+33,Ashley Yoder,Oncology,Porter Ltd,Thomaschester,Idaho,76790
+34,William Bradshaw,Primary Care,"Wilson, Cox and Mcgee",Ballside,Georgia,39896
+35,Hannah Little,Cardiology,,,California,46962
+36,Angela Hinton,Emergency Medicine,Vega Inc,East Emilyview,New Jersey,24359
+37,Daniel Diaz,Oncology,Vargas LLC,Angelabury,Utah,88845
+38,Elizabeth Williams,Cardiology,Ward-Reyes,Rebeccamouth,Texas,52719
+39,Steve Ryan,Pediatrics,Smith-Andrews,East Maureen,New York,92939
+40,Jared Hester,Primary Care,Barton-Moore,West Michaelstad,,16118
+41,Dustin Brown,Primary Care,Hernandez-Brown,North Samuel,,25981
+42,Diane Diaz,Cardiology,Hancock-Terry,East Saraburgh,Maine,85667
+43,John Lee,Emergency Medicine,Thompson-Neal,Proctorport,Tennessee,20970
+44,Mary Gregory,Emergency Medicine,Hensley Group,Aaronmouth,North Carolina,91672
+45,Kayla Sanchez,Cardiology,,East Connor,Idaho,58988
+46,,Primary Care,Pittman Group,West Cindy,South Carolina,89446
+47,Emily King,Emergency Medicine,"Cole, Chen and Estrada",Padillaburgh,,
+48,Michael Contreras,Cardiology,Moody and Sons,Dorothyberg,Arkansas,10261
+49,Kristina Freeman,Emergency Medicine,"Casey, Robinson and Dalton",South Michelleport,Nebraska,
+50,Kelly Hansen,Primary Care,Williams-Martinez,North Elizabeth,Kentucky,27137
+51,Sandra Murphy,Cardiology,,Allenchester,Nebraska,94761
+52,Vincent Hill,Cardiology,"Mccarthy, Esparza and Lewis",,,30245
+53,Scott Holt,,Martinez PLC,New Kevinburgh,West Virginia,93764
+54,Crystal Russo,Primary Care,Gonzalez PLC,Kylestad,Virginia,08720
+55,Kyle Taylor,Oncology,Jackson-Garcia,West Nicoleville,,50578
+56,Steven Collins,Pediatrics,Hicks Ltd,North Juliehaven,Kentucky,67139
+57,Cheryl Craig,Pediatrics,"Perez, Gonzalez and Lewis",Johnberg,California,40419
+58,Angela Williams,Emergency Medicine,Johnson-Mckinney,Kylefort,Minnesota,68730
+59,Joel Graham,,"Jones, Ball and Finley",South Catherinebury,,31826
+60,Matthew Huynh,Primary Care,Bryant-Cortez,Thompsonfort,North Carolina,27993
+61,Jason Espinoza,Emergency Medicine,Kelly-Sanchez,New Melissaville,Wisconsin,49022
+62,James Roberts,Oncology,Richmond Ltd,Phyllisshire,Idaho,57750
+63,Heather Evans,Cardiology,Morgan-Hudson,Brooksbury,Michigan,89553
+64,Jennifer Wilson,Cardiology,Cook-Fisher,North Timothystad,New Mexico,92939
+65,Erik Richards,Pediatrics,Johnson-Nelson,East Corey,,98661
+66,Sara Kelly,Cardiology,"Stewart, Bell and Griffin",Emmamouth,Arizona,46639
+67,Marcus Smith,Cardiology,"Carey, Barnes and Morgan",Kimberlyview,Mississippi,39232
+68,Sandra Wood,,Hull-Tran,West Nathanside,Montana,
+69,Veronica Kim,Oncology,Rodriguez-Arroyo,West Matthewside,Vermont,50712
+70,Alexandria Anderson,Primary Care,Farrell-Martin,Davidport,Minnesota,70301
+71,Margaret Larson,Pediatrics,Martinez-Kim,Carlaburgh,New York,30504
+72,Adam Smith,Cardiology,Lee-Walls,Ericside,Utah,16659
+73,Colton Riley,Oncology,"Curtis, Gomez and Jackson",New Timothy,Illinois,73298
+74,Sandra Owen,Cardiology,,Ricechester,Alaska,89929
+75,Alexandra Schultz,Pediatrics,Smith Group,Markville,New York,35403
+76,Sarah Munoz,Primary Care,,Lake Rebeccaberg,Ohio,28819
+77,Steven Campbell,Primary Care,"Patterson, Martin and Sanchez",New Tammy,Alabama,08486
+78,Ricky Allen,Primary Care,Johnson and Sons,Lake Charlene,Idaho,56827
+79,Tina Miller,Emergency Medicine,Pierce-Torres,Lake Jeffrey,Hawaii,47358
+80,Daniel Horn,Pediatrics,"Hines, Walker and Whitaker",East Sharon,Florida,90956
+81,Douglas Weaver,Emergency Medicine,Mercer-Williams,North Sarah,Alaska,32300
+82,William Johnson,Primary Care,"Kelly, Delgado and Gonzalez",Lynnberg,Georgia,
+83,Annette Lawrence,Pediatrics,Castro Ltd,Lake Joelshire,Delaware,70784
+84,,Oncology,Terry and Sons,,Tennessee,54520
+85,Joy Smith,Oncology,Salinas-Green,Port Tonyaburgh,Indiana,82192
+86,,Emergency Medicine,Wong and Sons,,Wisconsin,89883
+87,Michael Petersen,Pediatrics,Perry-Mendez,Port Stephanieburgh,South Carolina,06767
+88,Sara Ramos,Oncology,Knox PLC,Mcclaintown,Oklahoma,99012
+89,Andrew Wiley,Primary Care,Campbell and Sons,East Michelle,Virginia,41576
+90,Courtney Bell,Pediatrics,Dougherty Inc,West Maryhaven,Maryland,
+91,,Emergency Medicine,Gardner LLC,,Utah,
+92,,Primary Care,"Hall, Knight and Adams",Angelatown,West Virginia,52028
+93,Larry Chen,Pediatrics,Gomez-Fuller,,Maine,20789
+94,Tanya Barron,Cardiology,"Fleming, Hobbs and Franklin",Port Tammy,West Virginia,68812
+95,Paige Rubio,,"Norris, Vasquez and Henry",Port Toddton,Maryland,15001
+96,Wyatt Diaz,Cardiology,"Williams, Wallace and Lee",East Amandaburgh,Michigan,50690
+97,Grace Allen,Emergency Medicine,Thompson Group,New Thomas,Connecticut,17790
+98,Andrew Martinez,Emergency Medicine,Walker Group,Stephensbury,New Hampshire,62074
+99,Matthew Saunders,Pediatrics,Montgomery-Blake,North Robertstad,,02771
+100,Bruce Macdonald,Emergency Medicine,"Martin, Ferguson and Marshall",North Sarahview,Montana,01342
+101,Julie Clark,Primary Care,"Patterson, Jones and Scott",Audreyside,Alabama,45202
+102,Eric Case,Pediatrics,"Smith, French and Fleming",Colleenside,Colorado,51660
+103,David Palmer,Emergency Medicine,"Obrien, Richardson and Mcconnell",North Michaelview,Minnesota,85453
+104,Alexandra Maxwell,Emergency Medicine,Baker and Sons,Christianton,Texas,72237
+105,,Primary Care,Marquez-Valencia,,,55966
+106,James Taylor,Cardiology,"Wells, Graham and Hebert",Ramirezfort,,22097
+107,Heidi Norris,,,Johnathanview,Alabama,38578
+108,Angela Ayala,Primary Care,"Smith, Graham and Ochoa",Nicholasport,Nebraska,86581
+109,,Cardiology,Rodriguez-Wilson,North Mark,Mississippi,90685
+110,Thomas King,Primary Care,,West Whitneybury,Louisiana,97400
+111,Jennifer Perez MD,Oncology,Ward-Harmon,Michaelland,Idaho,65848
+112,Steven Fowler,Emergency Medicine,"Gray, Parker and Gordon",Walkerville,Ohio,
+113,Daniel Dunn,Primary Care,"Dean, Edwards and Hughes",North Ashley,,94455
+114,Kayla Frazier,Cardiology,Duncan Ltd,West Justin,Minnesota,96874
+115,,Oncology,,Lake Kathleen,South Carolina,77396
+116,Christine Yoder,Primary Care,Sosa-Castro,,Arizona,65862
+117,Luis Moore,Pediatrics,Long Ltd,North Justin,Georgia,
+118,Joseph Baldwin,Cardiology,"Smith, Howard and Perez",Wallaceside,Florida,42223
+119,Gary Simon,Emergency Medicine,Mitchell and Sons,Martinezburgh,South Carolina,07930
+120,John Mckee,Oncology,"Williams, Brown and Howard",Grahamtown,Missouri,47251
+121,Michelle Daniels,Primary Care,"Underwood, Bowman and Dalton",South Kathleenburgh,Kansas,75226
+122,Carrie Davies,Primary Care,Henderson Group,,,
+123,Rachel Gordon,Emergency Medicine,"Orozco, Owen and Taylor",East Kurtport,South Dakota,77282
+124,Collin Choi,,Reed-Hernandez,,Connecticut,51089
+125,Tiffany Miller,,Chavez PLC,Port Michelleport,North Dakota,89317
+126,Jessica Alexander,Primary Care,Lucas Ltd,Jacobburgh,,93099
+127,Richard Roth,Pediatrics,"Medina, Martinez and Burns",Vegachester,,99459
+128,,Oncology,Larsen-King,West Paulton,Delaware,32474
+129,Jordan Thomas,Cardiology,Rogers-Meyers,,,24104
+130,Jenny Brooks,,"Morrison, Anderson and King",Donovanside,South Carolina,88960
+131,Sharon Ford,Primary Care,Irwin Inc,Paulberg,Arizona,50305
+132,Morgan Hogan,,Williams and Sons,Morganport,Nebraska,23798
+133,Laura Dean,Primary Care,,Howeborough,Colorado,93857
+134,Allison Johnson,Cardiology,Parker-Johnson,Josephport,Arkansas,45613
+135,Jeffrey Greene,Primary Care,Shea-Padilla,Robertton,Utah,56395
+136,Jesse Wu,Cardiology,"Jones, Jones and Alexander",Aimeeland,Iowa,
+137,Jennifer Berger,Cardiology,Norris and Sons,Munozhaven,Kansas,20222
+138,Gwendolyn Pruitt,Cardiology,Chen-Thomas,West Jasonchester,Maine,12257
+139,,Emergency Medicine,Roach-Petty,,,44788
+140,Keith Vega,Emergency Medicine,Evans-Miranda,Chandlerville,Wyoming,96974
+141,Riley Ali,Pediatrics,Robbins-Williams,Michaelport,North Dakota,78321
+142,Brianna Davenport,Oncology,King Inc,Reevesfurt,Michigan,21895
+143,Danielle Bridges,Primary Care,Barrera-Fernandez,,South Dakota,70694
+144,,Primary Care,Lopez PLC,Port Hector,North Dakota,
+145,,Cardiology,Smith-Frazier,Annahaven,Maine,96582
+146,Mr. Christopher Mayo,Primary Care,"Mckinney, Vazquez and Robinson",Gonzalezville,Indiana,31672
+147,Karen Bowen,,May-Vargas,Lake Joseph,Indiana,35097
+148,,Oncology,"Camacho, Clark and Payne",Munozfurt,North Dakota,31545
+149,,Cardiology,,Flemingburgh,New Jersey,20329
+150,Jonathan Perez,Primary Care,Jones and Sons,Marthastad,New Jersey,94798
+151,William Dunn,,"Hopkins, Evans and Baldwin",Lake Elizabethbury,Missouri,18735
+152,Stephanie Lopez,Pediatrics,Lee-Fuller,Tarastad,Vermont,49043
+153,Julian Taylor,Emergency Medicine,Montgomery-Ryan,,South Dakota,87746
+154,April Phillips,Primary Care,Gibson-Roberts,South Charles,Iowa,06299
+155,Kyle Browning,Emergency Medicine,,Lake Calebfort,Missouri,08344
+156,Heather Gordon,Pediatrics,Parker and Sons,Smithview,Hawaii,
+157,Richard Griffin,Primary Care,Roy-Miles,Port Paulville,Colorado,46442
+158,Erin Stone,Primary Care,,South Zacharybury,Massachusetts,
+159,Erin Galvan,Emergency Medicine,,North Georgeborough,Alaska,04117
+160,Jeffrey Montgomery,Primary Care,Lee LLC,East Amandafort,Alabama,26534
+161,Pamela Williams,,Parker-Evans,North Mallory,Oklahoma,77432
+162,Kenneth Chaney,Oncology,"Faulkner, Myers and Simon",Steelebury,New York,54862
+163,Ann Gibson,Pediatrics,Vazquez-Clark,South Robertmouth,Florida,37850
+164,,Cardiology,Huber-Wright,Mortonside,,76816
+165,Joseph Williams,Emergency Medicine,Smith and Sons,West Dillonland,Maine,77719
+166,Thomas Mora,Emergency Medicine,"Ortiz, Davidson and Johnson",Andrewshaven,,
+167,Douglas Smith,Oncology,Robertson Group,West Heather,Tennessee,
+168,Timothy Fuller,,Contreras LLC,New Pamela,Ohio,96209
+169,,Primary Care,Pearson and Sons,East Brianside,Ohio,80361
+170,Laurie Burke,Primary Care,"Williams, Watts and Moore",East Kimberlyhaven,,68948
+171,Stephen Rhodes,Emergency Medicine,,Port Kristatown,Delaware,03276
+172,Chelsea Brennan,Cardiology,Rogers-Lee,Grosston,California,70774
+173,Dr. Mark Velez Jr.,Pediatrics,Walker Ltd,Beckborough,Arizona,26118
+174,Ryan Mcdowell,Oncology,Benitez-Lee,Andrewport,Nebraska,56322
+175,Kimberly Wilkins,,"Holloway, Jones and Moore",Kyleport,Montana,75684
+176,Lisa Tran,Pediatrics,"Salas, Thompson and Rangel",Sabrinabury,Maryland,79003
+177,Jose Michael,Primary Care,,South Zoeview,Maryland,54555
+178,Amanda Rose,Emergency Medicine,Montgomery-Eaton,,Hawaii,52246
+179,Walter Manning,Primary Care,"Jones, Moran and Guerrero",South Paula,Michigan,10304
+180,Todd Patterson,Pediatrics,Jordan LLC,Port Jasonburgh,Kansas,24120
+181,Kayla Ramirez,Primary Care,"Huffman, Hartman and Bautista",Gonzaleston,Idaho,78318
+182,Erika Miller,Oncology,Martin Group,Underwoodtown,Texas,51085
+183,,Pediatrics,Navarro-Ruiz,Johnchester,Wyoming,14674
+184,John Koch,Cardiology,Fleming Ltd,,,70851
+185,Joshua Medina,Emergency Medicine,White PLC,Cobbside,Idaho,34455
+186,Jessica Smith,Emergency Medicine,Wagner Ltd,Ashleyborough,Nebraska,97805
+187,Sydney Welch,Primary Care,"Sanchez, Stewart and Paul",East Michael,Colorado,27310
+188,Diane Smith,Cardiology,Norris-Jones,,North Dakota,06706
+189,Brianna Williams,Pediatrics,"Jones, Obrien and Thompson",South Rebeccafurt,Alabama,83315
+190,Yvonne Stevens,Oncology,Phelps Group,South Daniel,Alaska,
+191,Michael Valenzuela,Primary Care,Lee-Hernandez,Bautistashire,Nebraska,45632
+192,Nathan Miller,Emergency Medicine,"Kelly, Freeman and Payne",Michaeltown,Wyoming,78868
+193,Gregory Gaines,Cardiology,"Campbell, Davidson and Fowler",Wilsonbury,Vermont,
+194,David Williams,Pediatrics,,Kimberlyshire,Montana,75223
+195,William Cox,Primary Care,"Cantrell, Johnson and Morris",New John,New Mexico,97981
+196,Christopher Henry,Primary Care,Oliver-Hamilton,,New Hampshire,07534
+197,Kyle Sanchez,Primary Care,Leblanc LLC,Lake Hector,Wyoming,98177
+198,Amy Jennings,Cardiology,,,,74403
+199,Linda Thomas,Primary Care,Conner-Ryan,Pricestad,Nebraska,13745
+200,Jennifer Pacheco,Emergency Medicine,James-Collier,West Emilyton,Idaho,09695
