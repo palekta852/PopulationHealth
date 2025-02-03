@@ -1,0 +1,201 @@
+Facility_ID,Provider_ID,Facility_Name,Facility_Type,State,ZIP_Code
+1,1,Metro Health,Clinic,CA,72996
+2,2,Community Care,Hospital,TX,12883
+3,3,Community Care,Hospital,NC,46594
+4,4,Community Care,Clinic,CA,88103
+5,5,Wellness Clinic,Hospital,FL,79875
+6,6,Metro Health,Hospital,NY,98209
+7,7,Community Care,Clinic,CA,25426
+8,8,Metro Health,Hospital,IL,26486
+9,9,County Medical Center,Hospital,MI,86085
+10,10,Community Care,Hospital,NY,13993
+11,11,Community Care,Hospital,OH,22219
+12,12,Wellness Clinic,Hospital,FL,13708
+13,13,Metro Health,Hospital,PA,38788
+14,14,Wellness Clinic,Hospital,GA,11495
+15,15,Wellness Clinic,Clinic,PA,46160
+16,16,Metro Health,Hospital,CA,17537
+17,17,County Medical Center,Clinic,NY,45553
+18,18,Metro Health,Hospital,GA,32203
+19,19,County Medical Center,Hospital,GA,64032
+20,20,Wellness Clinic,Hospital,NC,81124
+21,21,County Medical Center,Hospital,PA,90747
+22,22,County Medical Center,Clinic,NY,47659
+23,23,County Medical Center,Hospital,NC,74043
+24,24,Community Care,Clinic,TX,13525
+25,25,Community Care,Hospital,PA,95437
+26,26,Wellness Clinic,Clinic,MI,14777
+27,27,Metro Health,Clinic,MI,79725
+28,28,County Medical Center,Hospital,NC,55791
+29,29,Community Care,Clinic,TX,98853
+30,30,Metro Health,Clinic,IL,41501
+31,31,County Medical Center,Private Practice,IL,75258
+32,32,Metro Health,Hospital,MI,93833
+33,33,City Hospital,Clinic,OH,86185
+34,34,County Medical Center,Clinic,FL,33719
+35,35,Metro Health,Clinic,FL,76686
+36,36,County Medical Center,Clinic,OH,89837
+37,37,County Medical Center,Private Practice,NC,38434
+38,38,City Hospital,Private Practice,FL,30520
+39,39,Metro Health,Clinic,FL,66881
+40,40,Wellness Clinic,Hospital,PA,11510
+41,41,Community Care,Clinic,PA,38546
+42,42,County Medical Center,Hospital,OH,23982
+43,43,County Medical Center,Hospital,NY,79451
+44,44,County Medical Center,Private Practice,TX,90270
+45,45,County Medical Center,Clinic,NC,98245
+46,46,Community Care,Private Practice,PA,29636
+47,47,Wellness Clinic,Clinic,PA,68087
+48,48,City Hospital,Hospital,IL,20957
+49,49,Wellness Clinic,Private Practice,TX,46706
+50,50,Community Care,Hospital,IL,72871
+51,51,Metro Health,Clinic,NY,71737
+52,52,City Hospital,Clinic,TX,50975
+53,53,City Hospital,Hospital,FL,38129
+54,54,Metro Health,Hospital,IL,47939
+55,55,County Medical Center,Hospital,MI,75059
+56,56,Community Care,Clinic,NC,18298
+57,57,Metro Health,Hospital,FL,74422
+58,58,Wellness Clinic,Hospital,TX,16480
+59,59,Wellness Clinic,Clinic,MI,70389
+60,60,Metro Health,Clinic,NY,78393
+61,61,Community Care,Hospital,MI,14349
+62,62,City Hospital,Clinic,PA,76964
+63,63,City Hospital,Hospital,OH,49491
+64,64,County Medical Center,Hospital,MI,56778
+65,65,Community Care,Hospital,GA,98699
+66,66,Wellness Clinic,Clinic,NY,37677
+67,67,Wellness Clinic,Hospital,FL,91254
+68,68,County Medical Center,Hospital,IL,90345
+69,69,Wellness Clinic,Hospital,CA,23272
+70,70,County Medical Center,Private Practice,NY,21828
+71,71,County Medical Center,Private Practice,GA,54431
+72,72,Metro Health,Hospital,PA,17856
+73,73,City Hospital,Hospital,IL,21223
+74,74,Community Care,Private Practice,NC,49413
+75,75,Community Care,Hospital,CA,66822
+76,76,City Hospital,Hospital,MI,45689
+77,77,Community Care,Hospital,GA,83702
+78,78,Wellness Clinic,Private Practice,MI,66396
+79,79,Wellness Clinic,Clinic,NC,22637
+80,80,Community Care,Hospital,NY,56534
+81,81,Metro Health,Hospital,OH,76414
+82,82,Community Care,Private Practice,GA,86240
+83,83,County Medical Center,Hospital,TX,84038
+84,84,County Medical Center,Clinic,FL,25266
+85,85,City Hospital,Hospital,TX,58068
+86,86,Wellness Clinic,Clinic,OH,54356
+87,87,Metro Health,Hospital,NC,96295
+88,88,Community Care,Clinic,TX,25046
+89,89,County Medical Center,Hospital,PA,35270
+90,90,Wellness Clinic,Hospital,GA,86342
+91,91,Wellness Clinic,Hospital,PA,47988
+92,92,Metro Health,Clinic,CA,62179
+93,93,Metro Health,Hospital,OH,45892
+94,94,Metro Health,Hospital,CA,39512
+95,95,Metro Health,Clinic,CA,69165
+96,96,County Medical Center,Clinic,CA,15099
+97,97,Metro Health,Clinic,NY,63487
+98,98,Wellness Clinic,Hospital,NY,84088
+99,99,Wellness Clinic,Hospital,OH,87163
+100,100,Community Care,Clinic,IL,60003
+101,101,Wellness Clinic,Hospital,TX,76886
+102,102,Wellness Clinic,Private Practice,NY,87812
+103,103,County Medical Center,Clinic,MI,21739
+104,104,Wellness Clinic,Hospital,PA,96838
+105,105,City Hospital,Hospital,NY,22384
+106,106,Wellness Clinic,Hospital,NC,43094
+107,107,Community Care,Clinic,CA,12120
+108,108,Community Care,Hospital,NY,10993
+109,109,Metro Health,Clinic,OH,97295
+110,110,County Medical Center,Hospital,PA,28150
+111,111,Community Care,Hospital,PA,74681
+112,112,City Hospital,Hospital,IL,55388
+113,113,City Hospital,Clinic,FL,61116
+114,114,Metro Health,Hospital,FL,65753
+115,115,County Medical Center,Hospital,TX,49787
+116,116,County Medical Center,Clinic,MI,45673
+117,117,Wellness Clinic,Hospital,GA,18290
+118,118,City Hospital,Clinic,OH,70123
+119,119,City Hospital,Clinic,NC,26627
+120,120,City Hospital,Private Practice,NY,83474
+121,121,City Hospital,Clinic,OH,68844
+122,122,Community Care,Clinic,MI,72904
+123,123,County Medical Center,Hospital,FL,74705
+124,124,Wellness Clinic,Hospital,OH,78245
+125,125,Community Care,Hospital,NY,37629
+126,126,County Medical Center,Clinic,IL,54186
+127,127,Metro Health,Hospital,TX,99621
+128,128,City Hospital,Clinic,IL,56537
+129,129,Wellness Clinic,Hospital,FL,40832
+130,130,County Medical Center,Clinic,CA,33472
+131,131,Metro Health,Hospital,FL,58850
+132,132,City Hospital,Hospital,TX,96298
+133,133,Metro Health,Private Practice,NY,19507
+134,134,Metro Health,Clinic,MI,85114
+135,135,Community Care,Hospital,GA,65696
+136,136,Metro Health,Clinic,IL,82247
+137,137,Community Care,Hospital,FL,66373
+138,138,Community Care,Clinic,MI,71264
+139,139,Metro Health,Clinic,IL,25979
+140,140,County Medical Center,Hospital,FL,25049
+141,141,Metro Health,Clinic,TX,69081
+142,142,Metro Health,Hospital,IL,34997
+143,143,County Medical Center,Clinic,FL,66144
+144,144,City Hospital,Hospital,NY,50830
+145,145,Wellness Clinic,Hospital,TX,91369
+146,146,City Hospital,Clinic,MI,95721
+147,147,Metro Health,Hospital,MI,31746
+148,148,City Hospital,Private Practice,GA,97393
+149,149,Wellness Clinic,Hospital,OH,19603
+150,150,City Hospital,Hospital,CA,86977
+151,151,Wellness Clinic,Clinic,NY,14570
+152,152,City Hospital,Hospital,TX,42316
+153,153,Community Care,Hospital,IL,61604
+154,154,Metro Health,Hospital,MI,28467
+155,155,Wellness Clinic,Private Practice,NY,88381
+156,156,Metro Health,Clinic,TX,54638
+157,157,Community Care,Hospital,TX,36943
+158,158,City Hospital,Hospital,IL,80369
+159,159,Metro Health,Hospital,TX,13340
+160,160,City Hospital,Clinic,NC,53532
+161,161,City Hospital,Private Practice,NY,87848
+162,162,Metro Health,Clinic,FL,76175
+163,163,Wellness Clinic,Hospital,MI,68918
+164,164,Wellness Clinic,Clinic,MI,54188
+165,165,Metro Health,Private Practice,FL,25211
+166,166,Wellness Clinic,Clinic,NY,23496
+167,167,County Medical Center,Private Practice,CA,67248
+168,168,City Hospital,Hospital,NY,51145
+169,169,Metro Health,Clinic,PA,39672
+170,170,Community Care,Clinic,TX,91481
+171,171,Metro Health,Clinic,OH,93238
+172,172,Metro Health,Clinic,IL,84255
+173,173,City Hospital,Hospital,NC,46027
+174,174,Community Care,Hospital,OH,46251
+175,175,City Hospital,Private Practice,FL,29403
+176,176,Wellness Clinic,Hospital,IL,35150
+177,177,Metro Health,Private Practice,IL,85762
+178,178,City Hospital,Clinic,IL,56940
+179,179,County Medical Center,Hospital,MI,60476
+180,180,Metro Health,Private Practice,NC,44202
+181,181,Wellness Clinic,Clinic,MI,18729
+182,182,City Hospital,Hospital,TX,33938
+183,183,City Hospital,Hospital,PA,85302
+184,184,County Medical Center,Clinic,GA,83920
+185,185,Wellness Clinic,Clinic,NC,35762
+186,186,County Medical Center,Clinic,OH,38724
+187,187,Metro Health,Clinic,TX,30653
+188,188,Community Care,Hospital,NY,23507
+189,189,City Hospital,Clinic,FL,82914
+190,190,County Medical Center,Hospital,PA,52773
+191,191,City Hospital,Hospital,TX,45205
+192,192,City Hospital,Hospital,NY,21571
+193,193,County Medical Center,Hospital,PA,47320
+194,194,City Hospital,Clinic,NY,58853
+195,195,Wellness Clinic,Hospital,NC,40190
+196,196,Wellness Clinic,Hospital,NY,99116
+197,197,Community Care,Hospital,PA,46522
+198,198,Wellness Clinic,Clinic,NY,81801
+199,199,County Medical Center,Hospital,OH,54489
+200,200,Wellness Clinic,Hospital,TX,82277

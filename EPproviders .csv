@@ -1,0 +1,201 @@
+Provider_ID,Provider_Type,State,Hospital_Affiliation,Years_Experience
+1,Primary Care,CA,No,16
+2,Emergency,TX,Yes,37
+3,Emergency,NC,No,15
+4,Emergency,CA,Yes,13
+5,Emergency,FL,No,13
+6,Emergency,NY,Yes,32
+7,Mental Health,CA,Yes,8
+8,Specialist,IL,Yes,18
+9,Emergency,MI,No,36
+10,Mental Health,NY,Yes,26
+11,Specialist,OH,No,10
+12,Primary Care,FL,Yes,31
+13,Emergency,PA,Yes,33
+14,Mental Health,GA,Yes,29
+15,Primary Care,PA,Yes,5
+16,Mental Health,CA,Yes,13
+17,Specialist,NY,Yes,1
+18,Specialist,GA,No,23
+19,Primary Care,GA,Yes,3
+20,Mental Health,NC,No,3
+21,Emergency,PA,Yes,7
+22,Emergency,NY,No,36
+23,Primary Care,NC,Yes,35
+24,Primary Care,TX,Yes,15
+25,Primary Care,PA,Yes,3
+26,Mental Health,MI,Yes,29
+27,Emergency,MI,No,30
+28,Emergency,NC,Yes,39
+29,Emergency,TX,Yes,18
+30,Primary Care,IL,No,11
+31,Emergency,IL,Yes,38
+32,Specialist,MI,No,1
+33,Primary Care,OH,Yes,29
+34,Emergency,FL,No,10
+35,Mental Health,FL,Yes,28
+36,Primary Care,OH,Yes,31
+37,Specialist,NC,Yes,19
+38,Specialist,FL,No,3
+39,Mental Health,FL,Yes,36
+40,Mental Health,PA,Yes,15
+41,Primary Care,PA,No,33
+42,Primary Care,OH,No,26
+43,Specialist,NY,No,16
+44,Mental Health,TX,No,36
+45,Primary Care,NC,Yes,33
+46,Specialist,PA,Yes,20
+47,Mental Health,PA,No,13
+48,Specialist,IL,No,33
+49,Emergency,TX,Yes,5
+50,Mental Health,IL,Yes,37
+51,Primary Care,NY,No,14
+52,Primary Care,TX,Yes,27
+53,Emergency,FL,Yes,23
+54,Mental Health,IL,Yes,14
+55,Specialist,MI,Yes,4
+56,Primary Care,NC,No,39
+57,Emergency,FL,Yes,19
+58,Emergency,TX,No,4
+59,Mental Health,MI,Yes,30
+60,Mental Health,NY,Yes,19
+61,Primary Care,MI,No,31
+62,Emergency,PA,Yes,31
+63,Specialist,OH,Yes,9
+64,Emergency,MI,Yes,13
+65,Specialist,GA,Yes,14
+66,Specialist,NY,Yes,10
+67,Primary Care,FL,No,31
+68,Emergency,IL,No,37
+69,Specialist,CA,No,23
+70,Mental Health,NY,Yes,27
+71,Specialist,GA,Yes,6
+72,Mental Health,PA,Yes,26
+73,Mental Health,IL,Yes,2
+74,Emergency,NC,Yes,13
+75,Mental Health,CA,Yes,19
+76,Specialist,MI,No,1
+77,Mental Health,GA,Yes,32
+78,Emergency,MI,Yes,22
+79,Primary Care,NC,No,29
+80,Specialist,NY,Yes,2
+81,Specialist,OH,No,38
+82,Emergency,GA,No,11
+83,Emergency,TX,No,17
+84,Emergency,FL,Yes,8
+85,Emergency,TX,No,22
+86,Specialist,OH,Yes,4
+87,Primary Care,NC,No,11
+88,Mental Health,TX,Yes,8
+89,Mental Health,PA,Yes,9
+90,Primary Care,GA,Yes,26
+91,Primary Care,PA,Yes,2
+92,Primary Care,CA,No,16
+93,Emergency,OH,No,31
+94,Specialist,CA,No,6
+95,Specialist,CA,Yes,21
+96,Specialist,CA,No,26
+97,Emergency,NY,Yes,19
+98,Specialist,NY,No,28
+99,Emergency,OH,No,8
+100,Specialist,IL,Yes,14
+101,Primary Care,TX,No,24
+102,Mental Health,NY,Yes,37
+103,Mental Health,MI,Yes,26
+104,Emergency,PA,Yes,31
+105,Specialist,NY,Yes,32
+106,Mental Health,NC,No,2
+107,Primary Care,CA,Yes,25
+108,Primary Care,NY,Yes,2
+109,Primary Care,OH,Yes,1
+110,Emergency,PA,No,36
+111,Emergency,PA,No,12
+112,Specialist,IL,No,9
+113,Primary Care,FL,No,36
+114,Specialist,FL,Yes,28
+115,Specialist,TX,Yes,38
+116,Primary Care,MI,Yes,33
+117,Specialist,GA,Yes,22
+118,Mental Health,OH,No,25
+119,Emergency,NC,Yes,18
+120,Specialist,NY,No,6
+121,Primary Care,OH,Yes,18
+122,Emergency,MI,Yes,16
+123,Emergency,FL,Yes,15
+124,Specialist,OH,No,8
+125,Mental Health,NY,No,13
+126,Specialist,IL,No,7
+127,Mental Health,TX,Yes,17
+128,Emergency,IL,No,32
+129,Specialist,FL,Yes,22
+130,Primary Care,CA,Yes,13
+131,Specialist,FL,No,23
+132,Mental Health,TX,Yes,29
+133,Mental Health,NY,No,22
+134,Specialist,MI,Yes,1
+135,Mental Health,GA,Yes,29
+136,Emergency,IL,No,5
+137,Specialist,FL,Yes,35
+138,Mental Health,MI,No,10
+139,Specialist,IL,Yes,19
+140,Specialist,FL,No,37
+141,Primary Care,TX,Yes,7
+142,Specialist,IL,Yes,35
+143,Primary Care,FL,Yes,13
+144,Mental Health,NY,Yes,10
+145,Primary Care,TX,No,2
+146,Primary Care,MI,Yes,6
+147,Primary Care,MI,Yes,8
+148,Emergency,GA,Yes,36
+149,Primary Care,OH,Yes,25
+150,Specialist,CA,No,7
+151,Primary Care,NY,No,23
+152,Specialist,TX,Yes,19
+153,Primary Care,IL,No,22
+154,Emergency,MI,Yes,13
+155,Mental Health,NY,Yes,21
+156,Primary Care,TX,No,1
+157,Primary Care,TX,Yes,19
+158,Emergency,IL,No,33
+159,Primary Care,TX,No,4
+160,Specialist,NC,Yes,3
+161,Primary Care,NY,No,27
+162,Primary Care,FL,No,35
+163,Mental Health,MI,Yes,28
+164,Mental Health,MI,No,6
+165,Primary Care,FL,Yes,6
+166,Emergency,NY,No,23
+167,Mental Health,CA,No,33
+168,Primary Care,NY,Yes,16
+169,Mental Health,PA,Yes,24
+170,Primary Care,TX,No,5
+171,Mental Health,OH,Yes,13
+172,Mental Health,IL,Yes,12
+173,Specialist,NC,Yes,5
+174,Primary Care,OH,Yes,37
+175,Primary Care,FL,Yes,31
+176,Primary Care,IL,Yes,28
+177,Primary Care,IL,Yes,28
+178,Mental Health,IL,No,30
+179,Specialist,MI,Yes,18
+180,Specialist,NC,Yes,27
+181,Emergency,MI,Yes,35
+182,Primary Care,TX,Yes,26
+183,Emergency,PA,Yes,39
+184,Mental Health,GA,Yes,18
+185,Emergency,NC,Yes,33
+186,Primary Care,OH,No,25
+187,Specialist,TX,No,31
+188,Specialist,NY,No,37
+189,Primary Care,FL,No,2
+190,Mental Health,PA,No,33
+191,Primary Care,TX,Yes,39
+192,Mental Health,NY,No,32
+193,Specialist,PA,Yes,18
+194,Mental Health,NY,No,17
+195,Primary Care,NC,No,34
+196,Primary Care,NY,Yes,39
+197,Primary Care,PA,Yes,7
+198,Mental Health,NY,Yes,35
+199,Mental Health,OH,No,30
+200,Mental Health,TX,No,12

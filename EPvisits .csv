@@ -1,0 +1,2001 @@
+Visit_ID,Patient_ID,Provider_ID,Visit_Date,Discharge_Date,Visit_Type,Diagnosis_Code,Total_Cost,Outcome,Claim_Type
+1,547,121,2022-11-18,2022-11-23,Mental Health,D004,7070,Ongoing Treatment,Emergency
+2,267,32,2022-08-29,2022-09-05,Mental Health,D004,9103,Referred,Inpatient
+3,317,149,2022-01-18,2022-01-22,Specialist Consultation,D007,8199,Recovered,Preventive
+4,812,10,2023-03-30,2023-04-08,Emergency,D005,4751,Referred,Preventive
+5,121,37,2023-03-19,2023-03-25,Routine Checkup,D006,6785,Admitted,Preventive
+6,836,177,2022-10-04,2022-10-10,Mental Health,D006,1063,Ongoing Treatment,Preventive
+7,25,86,2023-02-28,2023-03-03,Specialist Consultation,D006,3349,Referred,Mental Health
+8,432,13,2023-04-21,2023-04-26,Emergency,D010,1556,Recovered,Outpatient
+9,160,183,2022-01-27,2022-02-02,Emergency,D005,4853,Admitted,Outpatient
+10,596,145,2023-05-29,2023-06-02,Specialist Consultation,D005,1027,Ongoing Treatment,Mental Health
+11,114,9,2023-04-09,2023-04-12,Mental Health,D009,1867,Referred,Outpatient
+12,735,88,2022-12-29,2023-01-03,Routine Checkup,D008,4951,Recovered,Preventive
+13,900,172,2023-01-18,2023-01-25,Mental Health,D004,9190,Admitted,Outpatient
+14,502,46,2023-06-09,2023-06-15,Emergency,D007,6848,Recovered,Inpatient
+15,166,136,2023-01-17,2023-01-19,Routine Checkup,D008,523,Referred,Outpatient
+16,703,119,2022-07-03,2022-07-04,Mental Health,D009,617,Admitted,Inpatient
+17,175,165,2022-07-13,2022-07-18,Routine Checkup,D005,8016,Referred,Emergency
+18,1,19,2023-04-07,2023-04-12,Specialist Consultation,D003,2308,Ongoing Treatment,Inpatient
+19,899,191,2022-02-25,2022-03-03,Mental Health,D004,8170,Referred,Inpatient
+20,741,174,2022-08-18,2022-08-21,Emergency,D010,4360,Ongoing Treatment,Preventive
+21,86,94,2023-05-04,2023-05-05,Emergency,D006,2032,Referred,Preventive
+22,574,199,2022-01-28,2022-02-01,Routine Checkup,D010,1146,Recovered,Preventive
+23,320,26,2023-08-06,2023-08-10,Specialist Consultation,D005,6660,Recovered,Inpatient
+24,401,46,2023-12-23,2023-12-25,Mental Health,D009,3620,Admitted,Mental Health
+25,382,118,2022-07-03,2022-07-11,Specialist Consultation,D003,6547,Recovered,Preventive
+26,718,46,2023-03-01,2023-03-07,Specialist Consultation,D002,3696,Recovered,Preventive
+27,617,14,2023-01-10,2023-01-13,Routine Checkup,D006,2469,Ongoing Treatment,Inpatient
+28,318,85,2022-02-10,2022-02-11,Routine Checkup,D007,4329,Recovered,Emergency
+29,803,63,2023-04-29,2023-05-02,Mental Health,D005,723,Ongoing Treatment,Emergency
+30,250,72,2022-09-17,2022-09-25,Emergency,D001,2852,Ongoing Treatment,Outpatient
+31,525,3,2023-03-17,2023-03-21,Mental Health,D003,7362,Ongoing Treatment,Emergency
+32,675,28,2022-03-25,2022-03-28,Specialist Consultation,D003,2419,Referred,Preventive
+33,555,125,2022-02-15,2022-02-19,Routine Checkup,D004,4580,Ongoing Treatment,Mental Health
+34,898,157,2023-03-16,2023-03-20,Specialist Consultation,D010,1116,Referred,Outpatient
+35,952,87,2023-11-02,2023-11-04,Routine Checkup,D006,5482,Ongoing Treatment,Mental Health
+36,623,146,2023-06-03,2023-06-07,Emergency,D005,8123,Referred,Mental Health
+37,717,163,2023-03-14,2023-03-23,Specialist Consultation,D001,737,Admitted,Preventive
+38,896,77,2022-05-16,2022-05-20,Routine Checkup,D006,118,Admitted,Inpatient
+39,256,76,2022-07-02,2022-07-03,Mental Health,D009,6824,Referred,Inpatient
+40,307,175,2023-12-10,2023-12-11,Mental Health,D001,469,Admitted,Inpatient
+41,950,114,2022-06-21,2022-06-22,Mental Health,D008,6941,Recovered,Emergency
+42,144,133,2023-08-13,2023-08-18,Specialist Consultation,D008,5643,Ongoing Treatment,Inpatient
+43,658,75,2023-11-21,2023-11-27,Routine Checkup,D003,6154,Referred,Preventive
+44,391,59,2023-06-23,2023-06-29,Routine Checkup,D009,3942,Admitted,Emergency
+45,813,59,2022-04-30,2022-05-06,Routine Checkup,D008,489,Admitted,Inpatient
+46,676,47,2022-10-08,2022-10-17,Specialist Consultation,D003,9528,Recovered,Mental Health
+47,169,95,2022-11-04,2022-11-05,Routine Checkup,D010,1258,Ongoing Treatment,Preventive
+48,990,141,2023-12-09,2023-12-15,Emergency,D005,9320,Recovered,Preventive
+49,298,78,2022-10-04,2022-10-12,Specialist Consultation,D003,2613,Referred,Outpatient
+50,233,113,2023-06-14,2023-06-22,Emergency,D005,7516,Admitted,Preventive
+51,903,109,2022-10-22,2022-10-25,Emergency,D009,1303,Admitted,Mental Health
+52,271,106,2022-02-22,2022-02-27,Mental Health,D004,3259,Admitted,Preventive
+53,60,89,2023-03-08,2023-03-12,Specialist Consultation,D006,3599,Recovered,Outpatient
+54,296,33,2022-02-21,2022-02-22,Routine Checkup,D003,664,Recovered,Preventive
+55,467,97,2023-12-29,2024-01-07,Emergency,D003,3128,Ongoing Treatment,Preventive
+56,235,190,2022-03-13,2022-03-18,Specialist Consultation,D005,3540,Referred,Outpatient
+57,677,79,2022-01-28,2022-01-30,Routine Checkup,D008,3593,Ongoing Treatment,Preventive
+58,706,16,2023-04-14,2023-04-16,Mental Health,D008,8152,Ongoing Treatment,Emergency
+59,234,44,2023-07-01,2023-07-08,Specialist Consultation,D003,1950,Admitted,Preventive
+60,368,186,2023-02-05,2023-02-09,Specialist Consultation,D008,5730,Recovered,Inpatient
+61,695,120,2022-07-20,2022-07-21,Specialist Consultation,D008,6801,Referred,Inpatient
+62,845,134,2023-09-03,2023-09-08,Routine Checkup,D003,5912,Ongoing Treatment,Emergency
+63,232,108,2023-04-11,2023-04-13,Emergency,D010,1762,Referred,Preventive
+64,873,143,2023-10-14,2023-10-21,Emergency,D010,2379,Admitted,Mental Health
+65,491,4,2023-08-18,2023-08-27,Specialist Consultation,D002,1244,Ongoing Treatment,Preventive
+66,619,56,2023-07-14,2023-07-15,Specialist Consultation,D010,6831,Recovered,Inpatient
+67,503,64,2023-01-14,2023-01-16,Routine Checkup,D002,8212,Ongoing Treatment,Outpatient
+68,890,196,2022-06-26,2022-07-02,Mental Health,D009,4956,Admitted,Emergency
+69,735,162,2022-02-21,2022-03-01,Specialist Consultation,D007,1428,Ongoing Treatment,Outpatient
+70,592,95,2022-03-20,2022-03-27,Specialist Consultation,D006,9554,Admitted,Mental Health
+71,746,56,2023-01-20,2023-01-29,Mental Health,D007,799,Ongoing Treatment,Preventive
+72,381,32,2023-07-30,2023-08-01,Specialist Consultation,D008,5342,Referred,Mental Health
+73,696,116,2022-01-08,2022-01-17,Emergency,D001,350,Recovered,Outpatient
+74,428,9,2022-08-02,2022-08-06,Specialist Consultation,D008,4745,Admitted,Preventive
+75,697,191,2022-01-25,2022-01-28,Emergency,D003,4674,Referred,Mental Health
+76,646,105,2023-03-26,2023-04-02,Routine Checkup,D003,3887,Admitted,Inpatient
+77,732,200,2023-04-02,2023-04-07,Routine Checkup,D006,327,Ongoing Treatment,Inpatient
+78,800,78,2023-04-06,2023-04-11,Emergency,D004,3967,Admitted,Emergency
+79,364,161,2022-07-17,2022-07-19,Emergency,D004,7357,Admitted,Inpatient
+80,202,87,2022-04-04,2022-04-10,Mental Health,D004,2211,Recovered,Inpatient
+81,882,21,2023-12-20,2023-12-26,Emergency,D010,1439,Referred,Outpatient
+82,146,55,2023-03-13,2023-03-17,Emergency,D009,8932,Ongoing Treatment,Inpatient
+83,836,76,2023-06-11,2023-06-16,Specialist Consultation,D008,4782,Recovered,Inpatient
+84,639,185,2023-11-21,2023-11-28,Mental Health,D003,3518,Admitted,Outpatient
+85,457,130,2023-01-13,2023-01-21,Emergency,D001,6191,Recovered,Inpatient
+86,135,141,2023-08-10,2023-08-16,Emergency,D001,6019,Admitted,Inpatient
+87,626,126,2022-04-14,2022-04-19,Emergency,D001,3866,Ongoing Treatment,Emergency
+88,264,132,2023-11-11,2023-11-14,Specialist Consultation,D004,9181,Admitted,Inpatient
+89,64,84,2023-09-19,2023-09-26,Specialist Consultation,D006,5087,Recovered,Inpatient
+90,491,178,2022-02-08,2022-02-16,Specialist Consultation,D004,6044,Recovered,Emergency
+91,647,115,2023-04-03,2023-04-06,Routine Checkup,D003,9988,Admitted,Outpatient
+92,41,48,2022-12-30,2023-01-04,Specialist Consultation,D008,2501,Referred,Inpatient
+93,296,123,2022-05-15,2022-05-17,Emergency,D008,74,Recovered,Mental Health
+94,3,78,2023-01-09,2023-01-13,Specialist Consultation,D006,6012,Referred,Outpatient
+95,913,30,2022-08-20,2022-08-24,Specialist Consultation,D009,2606,Referred,Outpatient
+96,706,29,2022-02-08,2022-02-16,Mental Health,D010,7682,Referred,Inpatient
+97,975,136,2022-02-16,2022-02-19,Emergency,D001,110,Referred,Emergency
+98,110,140,2022-02-05,2022-02-10,Specialist Consultation,D008,7725,Recovered,Outpatient
+99,221,41,2022-04-05,2022-04-10,Routine Checkup,D006,172,Recovered,Emergency
+100,370,26,2022-12-27,2022-12-29,Mental Health,D001,5666,Referred,Mental Health
+101,368,50,2023-06-09,2023-06-18,Specialist Consultation,D004,1236,Recovered,Emergency
+102,436,2,2022-05-26,2022-05-30,Mental Health,D005,5208,Referred,Preventive
+103,918,55,2023-01-03,2023-01-12,Mental Health,D007,7914,Referred,Emergency
+104,4,104,2022-03-06,2022-03-15,Routine Checkup,D008,9972,Referred,Outpatient
+105,244,184,2022-08-16,2022-08-18,Routine Checkup,D009,4139,Admitted,Emergency
+106,902,14,2023-06-04,2023-06-13,Routine Checkup,D006,2522,Ongoing Treatment,Emergency
+107,166,134,2023-07-09,2023-07-18,Emergency,D010,7500,Recovered,Preventive
+108,26,128,2022-06-30,2022-07-02,Mental Health,D009,3014,Recovered,Preventive
+109,395,104,2023-05-16,2023-05-22,Specialist Consultation,D004,8154,Referred,Inpatient
+110,474,95,2023-08-20,2023-08-29,Routine Checkup,D008,1360,Admitted,Outpatient
+111,17,81,2022-06-04,2022-06-08,Routine Checkup,D003,8396,Admitted,Inpatient
+112,728,61,2023-06-19,2023-06-21,Mental Health,D004,2262,Recovered,Preventive
+113,92,12,2023-09-19,2023-09-26,Mental Health,D010,9504,Referred,Emergency
+114,483,13,2023-03-11,2023-03-20,Mental Health,D004,6842,Recovered,Preventive
+115,543,147,2022-04-09,2022-04-15,Specialist Consultation,D006,9604,Referred,Mental Health
+116,205,172,2023-09-08,2023-09-12,Emergency,D009,9179,Referred,Emergency
+117,502,89,2023-01-07,2023-01-08,Emergency,D006,8753,Ongoing Treatment,Inpatient
+118,931,95,2023-07-17,2023-07-21,Routine Checkup,D001,8428,Referred,Emergency
+119,400,59,2022-12-28,2022-12-31,Emergency,D005,1895,Ongoing Treatment,Mental Health
+120,207,37,2022-04-22,2022-04-29,Specialist Consultation,D009,7710,Recovered,Preventive
+121,619,25,2023-03-29,2023-04-03,Emergency,D005,1752,Recovered,Outpatient
+122,146,16,2022-06-18,2022-06-21,Specialist Consultation,D006,440,Admitted,Outpatient
+123,879,166,2023-08-07,2023-08-09,Routine Checkup,D003,704,Ongoing Treatment,Outpatient
+124,101,171,2022-05-19,2022-05-21,Mental Health,D008,5885,Recovered,Preventive
+125,880,87,2022-08-19,2022-08-24,Specialist Consultation,D010,4321,Ongoing Treatment,Outpatient
+126,830,142,2022-08-27,2022-09-04,Mental Health,D004,9005,Recovered,Mental Health
+127,880,134,2022-09-10,2022-09-18,Routine Checkup,D004,3450,Ongoing Treatment,Preventive
+128,241,23,2023-03-12,2023-03-17,Specialist Consultation,D005,5369,Ongoing Treatment,Outpatient
+129,923,126,2023-07-15,2023-07-17,Specialist Consultation,D010,6782,Referred,Inpatient
+130,759,60,2023-02-26,2023-03-02,Emergency,D009,6724,Recovered,Preventive
+131,163,140,2022-10-30,2022-11-06,Specialist Consultation,D008,1135,Admitted,Preventive
+132,884,141,2022-03-13,2022-03-19,Routine Checkup,D007,5496,Referred,Emergency
+133,173,100,2022-09-20,2022-09-27,Mental Health,D005,4426,Admitted,Outpatient
+134,502,103,2022-08-10,2022-08-15,Specialist Consultation,D009,2013,Ongoing Treatment,Inpatient
+135,547,134,2022-03-18,2022-03-20,Routine Checkup,D009,5227,Referred,Mental Health
+136,284,63,2022-03-03,2022-03-11,Routine Checkup,D010,4622,Ongoing Treatment,Preventive
+137,359,38,2023-04-16,2023-04-18,Specialist Consultation,D010,7593,Recovered,Mental Health
+138,381,128,2022-06-06,2022-06-14,Emergency,D002,8957,Recovered,Mental Health
+139,870,50,2022-05-05,2022-05-12,Specialist Consultation,D004,292,Admitted,Mental Health
+140,905,180,2022-06-10,2022-06-13,Specialist Consultation,D008,6560,Recovered,Emergency
+141,972,40,2023-06-25,2023-06-29,Emergency,D001,3965,Admitted,Mental Health
+142,911,8,2023-09-18,2023-09-25,Routine Checkup,D005,9765,Ongoing Treatment,Outpatient
+143,533,189,2023-08-14,2023-08-18,Specialist Consultation,D008,887,Referred,Outpatient
+144,820,8,2023-06-19,2023-06-28,Emergency,D002,3373,Recovered,Inpatient
+145,163,104,2022-04-16,2022-04-23,Mental Health,D002,3003,Ongoing Treatment,Inpatient
+146,609,34,2022-05-11,2022-05-12,Mental Health,D008,9587,Referred,Mental Health
+147,307,188,2022-12-23,2022-12-24,Emergency,D010,1482,Ongoing Treatment,Mental Health
+148,339,57,2023-11-16,2023-11-20,Routine Checkup,D009,6904,Admitted,Emergency
+149,55,174,2022-01-02,2022-01-11,Emergency,D007,7705,Ongoing Treatment,Mental Health
+150,983,22,2022-08-21,2022-08-25,Routine Checkup,D008,8481,Admitted,Mental Health
+151,333,87,2023-01-04,2023-01-09,Mental Health,D005,8380,Admitted,Mental Health
+152,127,40,2022-09-08,2022-09-09,Specialist Consultation,D001,8661,Recovered,Preventive
+153,940,173,2022-04-18,2022-04-20,Emergency,D004,353,Admitted,Preventive
+154,705,183,2022-10-03,2022-10-07,Mental Health,D002,2212,Admitted,Emergency
+155,243,179,2022-06-29,2022-07-03,Specialist Consultation,D003,6536,Ongoing Treatment,Emergency
+156,861,86,2023-12-26,2024-01-01,Mental Health,D003,4152,Admitted,Outpatient
+157,600,133,2022-10-20,2022-10-26,Emergency,D009,6924,Admitted,Emergency
+158,848,95,2023-08-07,2023-08-15,Emergency,D010,1218,Ongoing Treatment,Outpatient
+159,409,13,2022-06-24,2022-07-03,Specialist Consultation,D004,465,Referred,Mental Health
+160,503,28,2022-05-03,2022-05-04,Emergency,D002,5293,Recovered,Emergency
+161,727,84,2022-08-15,2022-08-16,Mental Health,D003,199,Ongoing Treatment,Emergency
+162,604,62,2023-03-20,2023-03-26,Specialist Consultation,D003,6574,Admitted,Emergency
+163,303,93,2023-03-04,2023-03-08,Specialist Consultation,D007,5949,Ongoing Treatment,Outpatient
+164,464,87,2022-03-24,2022-03-28,Mental Health,D008,888,Referred,Outpatient
+165,235,24,2023-10-20,2023-10-21,Routine Checkup,D006,6194,Ongoing Treatment,Inpatient
+166,696,98,2023-09-24,2023-10-03,Specialist Consultation,D004,9938,Ongoing Treatment,Outpatient
+167,38,7,2022-03-06,2022-03-09,Routine Checkup,D006,9663,Ongoing Treatment,Outpatient
+168,139,166,2022-10-08,2022-10-13,Mental Health,D001,7516,Ongoing Treatment,Preventive
+169,195,37,2023-01-26,2023-01-27,Mental Health,D010,1370,Admitted,Emergency
+170,527,68,2023-03-04,2023-03-12,Specialist Consultation,D008,1573,Ongoing Treatment,Outpatient
+171,769,170,2023-09-10,2023-09-13,Emergency,D001,5284,Referred,Emergency
+172,647,86,2022-04-17,2022-04-18,Specialist Consultation,D005,6194,Ongoing Treatment,Emergency
+173,1,133,2023-07-02,2023-07-08,Emergency,D002,602,Ongoing Treatment,Preventive
+174,561,192,2023-10-21,2023-10-22,Routine Checkup,D006,3806,Admitted,Emergency
+175,96,178,2022-09-19,2022-09-22,Emergency,D009,3721,Admitted,Outpatient
+176,713,87,2022-06-08,2022-06-13,Specialist Consultation,D005,531,Ongoing Treatment,Emergency
+177,413,15,2022-09-22,2022-09-26,Emergency,D004,649,Admitted,Inpatient
+178,538,123,2023-04-13,2023-04-20,Mental Health,D002,7727,Admitted,Inpatient
+179,855,107,2022-07-21,2022-07-27,Routine Checkup,D003,9406,Ongoing Treatment,Preventive
+180,429,181,2022-06-04,2022-06-07,Mental Health,D006,9245,Admitted,Outpatient
+181,235,153,2022-01-13,2022-01-21,Mental Health,D008,2032,Recovered,Preventive
+182,349,89,2022-10-24,2022-11-01,Mental Health,D008,1684,Recovered,Inpatient
+183,756,125,2023-05-13,2023-05-15,Mental Health,D005,7880,Recovered,Outpatient
+184,870,113,2023-08-20,2023-08-27,Emergency,D005,3047,Admitted,Emergency
+185,481,137,2022-09-02,2022-09-03,Mental Health,D010,736,Recovered,Outpatient
+186,839,166,2022-10-27,2022-10-29,Emergency,D003,5579,Referred,Mental Health
+187,396,150,2022-12-28,2023-01-05,Mental Health,D007,1809,Recovered,Outpatient
+188,351,107,2022-12-20,2022-12-21,Specialist Consultation,D006,7073,Referred,Emergency
+189,416,87,2023-06-05,2023-06-07,Mental Health,D001,6258,Admitted,Mental Health
+190,886,177,2023-01-21,2023-01-22,Specialist Consultation,D004,7284,Recovered,Preventive
+191,916,68,2022-11-08,2022-11-13,Emergency,D006,2530,Referred,Outpatient
+192,887,15,2023-02-18,2023-02-25,Routine Checkup,D006,9579,Admitted,Preventive
+193,51,65,2022-10-05,2022-10-11,Emergency,D003,7526,Recovered,Outpatient
+194,81,54,2023-12-16,2023-12-22,Routine Checkup,D006,7820,Ongoing Treatment,Inpatient
+195,36,158,2023-08-16,2023-08-22,Routine Checkup,D010,164,Recovered,Inpatient
+196,67,93,2022-12-22,2022-12-30,Mental Health,D006,618,Recovered,Emergency
+197,641,20,2023-06-09,2023-06-14,Routine Checkup,D009,9795,Recovered,Inpatient
+198,882,33,2022-01-16,2022-01-23,Emergency,D009,8001,Ongoing Treatment,Mental Health
+199,667,100,2022-02-14,2022-02-17,Mental Health,D002,2739,Referred,Mental Health
+200,757,77,2022-11-17,2022-11-26,Routine Checkup,D004,4640,Referred,Outpatient
+201,623,135,2023-10-13,2023-10-16,Emergency,D009,3390,Ongoing Treatment,Preventive
+202,680,136,2022-11-22,2022-11-28,Routine Checkup,D004,3038,Recovered,Mental Health
+203,481,156,2022-05-28,2022-05-31,Routine Checkup,D008,3201,Recovered,Outpatient
+204,468,173,2022-12-21,2022-12-22,Mental Health,D010,3065,Recovered,Preventive
+205,142,107,2022-08-24,2022-08-25,Mental Health,D003,9063,Referred,Inpatient
+206,356,120,2023-12-04,2023-12-07,Emergency,D003,6395,Referred,Outpatient
+207,709,74,2023-09-05,2023-09-09,Mental Health,D009,3624,Ongoing Treatment,Preventive
+208,471,11,2022-04-15,2022-04-17,Mental Health,D010,7888,Admitted,Emergency
+209,621,31,2023-04-19,2023-04-28,Specialist Consultation,D008,1658,Ongoing Treatment,Emergency
+210,888,12,2023-01-31,2023-02-08,Specialist Consultation,D001,609,Referred,Mental Health
+211,591,124,2023-03-22,2023-03-25,Emergency,D010,6671,Recovered,Preventive
+212,902,78,2023-08-29,2023-09-05,Mental Health,D002,7176,Recovered,Emergency
+213,673,179,2022-08-08,2022-08-12,Emergency,D003,5615,Recovered,Mental Health
+214,439,172,2023-03-18,2023-03-23,Specialist Consultation,D002,4485,Recovered,Outpatient
+215,531,96,2023-10-07,2023-10-11,Specialist Consultation,D003,5700,Admitted,Outpatient
+216,127,50,2023-10-29,2023-11-07,Specialist Consultation,D008,8853,Ongoing Treatment,Preventive
+217,205,117,2022-01-28,2022-02-04,Emergency,D006,1931,Ongoing Treatment,Preventive
+218,29,17,2023-04-20,2023-04-24,Mental Health,D007,4219,Referred,Preventive
+219,445,163,2023-09-20,2023-09-28,Routine Checkup,D010,3913,Ongoing Treatment,Preventive
+220,966,129,2022-11-01,2022-11-03,Mental Health,D010,7486,Admitted,Emergency
+221,719,157,2023-02-09,2023-02-16,Emergency,D006,3758,Admitted,Emergency
+222,464,179,2023-05-28,2023-05-29,Specialist Consultation,D001,1759,Admitted,Mental Health
+223,280,64,2023-05-17,2023-05-25,Routine Checkup,D003,7910,Recovered,Emergency
+224,151,132,2022-12-14,2022-12-20,Emergency,D001,1742,Referred,Outpatient
+225,240,87,2022-08-28,2022-09-02,Specialist Consultation,D010,9487,Admitted,Mental Health
+226,266,156,2023-07-24,2023-08-02,Emergency,D009,175,Ongoing Treatment,Emergency
+227,694,16,2023-11-26,2023-12-05,Routine Checkup,D009,1249,Ongoing Treatment,Preventive
+228,105,63,2022-12-03,2022-12-06,Specialist Consultation,D005,6142,Ongoing Treatment,Emergency
+229,937,76,2022-01-26,2022-02-04,Mental Health,D004,2761,Admitted,Inpatient
+230,433,181,2023-02-13,2023-02-22,Emergency,D009,9232,Admitted,Mental Health
+231,913,85,2022-03-18,2022-03-20,Routine Checkup,D009,9763,Ongoing Treatment,Emergency
+232,497,109,2022-08-05,2022-08-10,Mental Health,D003,6278,Admitted,Emergency
+233,440,17,2022-11-24,2022-11-26,Routine Checkup,D005,6045,Ongoing Treatment,Outpatient
+234,748,168,2022-01-23,2022-01-24,Emergency,D003,8232,Recovered,Preventive
+235,685,141,2023-11-01,2023-11-08,Routine Checkup,D010,5552,Admitted,Preventive
+236,158,180,2023-12-19,2023-12-23,Specialist Consultation,D002,5810,Recovered,Outpatient
+237,172,58,2022-11-06,2022-11-11,Routine Checkup,D001,5632,Recovered,Outpatient
+238,494,165,2023-08-22,2023-08-26,Emergency,D010,2548,Admitted,Inpatient
+239,970,79,2022-09-24,2022-09-30,Specialist Consultation,D002,2615,Ongoing Treatment,Mental Health
+240,311,61,2023-02-19,2023-02-21,Routine Checkup,D008,7039,Referred,Preventive
+241,403,113,2023-10-08,2023-10-16,Routine Checkup,D008,4840,Recovered,Outpatient
+242,669,121,2022-09-24,2022-09-28,Specialist Consultation,D003,5074,Admitted,Outpatient
+243,770,34,2022-11-29,2022-12-07,Mental Health,D007,8357,Recovered,Mental Health
+244,676,70,2023-03-26,2023-03-29,Mental Health,D007,1081,Ongoing Treatment,Outpatient
+245,659,17,2023-07-19,2023-07-24,Specialist Consultation,D002,1291,Admitted,Inpatient
+246,903,20,2023-09-03,2023-09-06,Routine Checkup,D009,1792,Referred,Mental Health
+247,666,59,2022-09-04,2022-09-11,Mental Health,D003,5759,Admitted,Inpatient
+248,463,69,2022-02-05,2022-02-08,Specialist Consultation,D002,6049,Recovered,Emergency
+249,367,161,2023-02-05,2023-02-13,Emergency,D003,4140,Admitted,Preventive
+250,550,102,2022-01-28,2022-02-06,Routine Checkup,D002,8210,Admitted,Outpatient
+251,643,120,2022-08-08,2022-08-10,Emergency,D008,6933,Recovered,Mental Health
+252,870,145,2023-02-10,2023-02-13,Routine Checkup,D005,5179,Referred,Inpatient
+253,255,57,2023-09-06,2023-09-13,Mental Health,D003,4453,Ongoing Treatment,Preventive
+254,208,83,2022-09-28,2022-10-03,Emergency,D005,6627,Admitted,Preventive
+255,450,129,2023-10-13,2023-10-20,Emergency,D008,4947,Referred,Outpatient
+256,95,13,2023-05-26,2023-05-28,Specialist Consultation,D007,213,Ongoing Treatment,Preventive
+257,860,155,2022-10-13,2022-10-17,Mental Health,D006,3360,Recovered,Outpatient
+258,839,198,2023-03-30,2023-03-31,Mental Health,D001,3438,Referred,Emergency
+259,478,187,2022-11-13,2022-11-18,Routine Checkup,D010,1045,Referred,Outpatient
+260,683,6,2023-08-13,2023-08-21,Specialist Consultation,D001,6211,Admitted,Inpatient
+261,762,97,2022-10-24,2022-10-25,Specialist Consultation,D001,1927,Recovered,Preventive
+262,190,94,2022-12-04,2022-12-11,Routine Checkup,D010,8153,Admitted,Preventive
+263,711,110,2022-11-03,2022-11-10,Emergency,D008,3314,Recovered,Preventive
+264,484,151,2023-03-04,2023-03-11,Routine Checkup,D008,1398,Ongoing Treatment,Outpatient
+265,733,138,2022-12-17,2022-12-18,Routine Checkup,D007,2301,Admitted,Mental Health
+266,536,51,2023-05-26,2023-05-29,Routine Checkup,D006,7340,Recovered,Outpatient
+267,756,147,2023-06-09,2023-06-11,Specialist Consultation,D004,9835,Recovered,Inpatient
+268,423,51,2023-05-07,2023-05-12,Routine Checkup,D001,8068,Referred,Outpatient
+269,836,87,2023-08-17,2023-08-19,Routine Checkup,D009,6640,Admitted,Preventive
+270,640,68,2022-01-09,2022-01-14,Routine Checkup,D001,7708,Admitted,Emergency
+271,605,84,2023-05-12,2023-05-17,Mental Health,D004,482,Ongoing Treatment,Inpatient
+272,812,42,2023-12-26,2023-12-30,Emergency,D003,5793,Recovered,Emergency
+273,133,57,2023-07-14,2023-07-21,Emergency,D007,5297,Referred,Inpatient
+274,55,196,2023-07-15,2023-07-21,Emergency,D005,7765,Recovered,Inpatient
+275,989,166,2023-03-16,2023-03-18,Emergency,D005,3867,Recovered,Preventive
+276,510,62,2023-07-06,2023-07-10,Specialist Consultation,D004,1120,Recovered,Outpatient
+277,670,7,2022-04-18,2022-04-25,Specialist Consultation,D001,4650,Admitted,Preventive
+278,541,112,2022-09-02,2022-09-11,Routine Checkup,D005,8356,Recovered,Preventive
+279,410,199,2022-09-12,2022-09-21,Specialist Consultation,D004,9681,Ongoing Treatment,Preventive
+280,211,178,2022-02-02,2022-02-05,Emergency,D010,1044,Referred,Emergency
+281,666,180,2022-01-23,2022-01-24,Mental Health,D008,4368,Referred,Inpatient
+282,293,26,2023-07-20,2023-07-29,Routine Checkup,D002,4781,Recovered,Mental Health
+283,987,154,2022-02-18,2022-02-26,Routine Checkup,D008,6118,Referred,Outpatient
+284,734,19,2023-04-07,2023-04-14,Emergency,D001,7720,Recovered,Preventive
+285,115,9,2023-08-13,2023-08-19,Emergency,D004,4817,Admitted,Inpatient
+286,949,61,2022-12-02,2022-12-09,Emergency,D003,1007,Referred,Outpatient
+287,670,20,2022-12-24,2023-01-02,Specialist Consultation,D005,8337,Admitted,Mental Health
+288,259,106,2022-05-02,2022-05-08,Routine Checkup,D005,2204,Admitted,Mental Health
+289,763,50,2023-03-20,2023-03-23,Emergency,D005,681,Ongoing Treatment,Preventive
+290,122,81,2022-12-25,2022-12-28,Mental Health,D004,9943,Ongoing Treatment,Mental Health
+291,299,150,2023-08-25,2023-08-29,Routine Checkup,D008,6095,Referred,Mental Health
+292,775,141,2022-12-12,2022-12-20,Routine Checkup,D003,747,Recovered,Outpatient
+293,381,140,2022-07-12,2022-07-21,Specialist Consultation,D004,81,Recovered,Outpatient
+294,561,10,2023-02-20,2023-02-28,Routine Checkup,D001,6259,Recovered,Preventive
+295,889,65,2023-01-12,2023-01-14,Emergency,D007,4924,Recovered,Inpatient
+296,841,158,2023-04-08,2023-04-12,Emergency,D001,5612,Ongoing Treatment,Preventive
+297,501,8,2023-10-23,2023-10-27,Mental Health,D002,8790,Recovered,Emergency
+298,297,149,2022-05-26,2022-05-28,Routine Checkup,D007,2298,Recovered,Mental Health
+299,362,22,2023-04-23,2023-05-01,Routine Checkup,D001,6242,Admitted,Inpatient
+300,589,18,2023-10-15,2023-10-18,Specialist Consultation,D003,9945,Recovered,Outpatient
+301,463,194,2023-02-12,2023-02-14,Emergency,D006,6456,Recovered,Emergency
+302,438,176,2022-10-13,2022-10-20,Mental Health,D006,1206,Ongoing Treatment,Emergency
+303,127,172,2022-04-21,2022-04-22,Emergency,D006,8585,Referred,Mental Health
+304,197,9,2023-09-12,2023-09-18,Routine Checkup,D002,5345,Admitted,Outpatient
+305,221,195,2022-02-19,2022-02-22,Routine Checkup,D002,6204,Admitted,Inpatient
+306,995,54,2022-01-14,2022-01-17,Mental Health,D006,2298,Referred,Outpatient
+307,91,26,2022-05-14,2022-05-19,Routine Checkup,D010,9186,Admitted,Mental Health
+308,411,94,2023-08-11,2023-08-14,Mental Health,D005,3335,Recovered,Emergency
+309,8,100,2023-08-19,2023-08-23,Mental Health,D007,9572,Recovered,Mental Health
+310,544,26,2022-12-09,2022-12-12,Emergency,D007,2053,Referred,Preventive
+311,468,34,2023-11-01,2023-11-08,Mental Health,D005,3665,Ongoing Treatment,Emergency
+312,320,8,2022-10-13,2022-10-16,Routine Checkup,D008,3722,Ongoing Treatment,Mental Health
+313,394,138,2022-11-10,2022-11-14,Specialist Consultation,D010,7508,Admitted,Inpatient
+314,269,48,2023-08-29,2023-08-31,Specialist Consultation,D006,2205,Ongoing Treatment,Inpatient
+315,191,183,2022-10-24,2022-10-26,Routine Checkup,D005,3529,Ongoing Treatment,Inpatient
+316,861,107,2023-08-29,2023-09-07,Specialist Consultation,D004,101,Ongoing Treatment,Preventive
+317,675,54,2023-07-23,2023-07-24,Specialist Consultation,D007,2209,Ongoing Treatment,Outpatient
+318,61,168,2022-06-13,2022-06-14,Mental Health,D004,4440,Ongoing Treatment,Inpatient
+319,438,119,2023-05-12,2023-05-13,Specialist Consultation,D005,3701,Ongoing Treatment,Preventive
+320,264,143,2023-09-02,2023-09-05,Specialist Consultation,D005,7406,Ongoing Treatment,Inpatient
+321,797,81,2022-01-16,2022-01-18,Specialist Consultation,D001,2162,Admitted,Preventive
+322,95,146,2022-12-10,2022-12-13,Emergency,D001,5815,Recovered,Inpatient
+323,553,96,2022-03-19,2022-03-24,Routine Checkup,D003,1404,Ongoing Treatment,Outpatient
+324,926,102,2022-12-12,2022-12-21,Mental Health,D003,5670,Recovered,Mental Health
+325,470,151,2022-03-13,2022-03-15,Specialist Consultation,D002,3804,Referred,Inpatient
+326,661,62,2022-09-27,2022-09-28,Routine Checkup,D002,259,Recovered,Mental Health
+327,716,46,2022-10-14,2022-10-20,Specialist Consultation,D006,6282,Referred,Inpatient
+328,779,87,2022-03-07,2022-03-10,Emergency,D001,7896,Admitted,Outpatient
+329,514,99,2022-03-09,2022-03-16,Emergency,D006,6221,Recovered,Mental Health
+330,690,39,2022-07-12,2022-07-18,Specialist Consultation,D005,287,Referred,Preventive
+331,937,143,2022-02-24,2022-03-03,Specialist Consultation,D006,8577,Recovered,Inpatient
+332,194,53,2023-01-14,2023-01-19,Specialist Consultation,D005,8125,Admitted,Inpatient
+333,482,192,2022-06-17,2022-06-18,Emergency,D007,1626,Recovered,Preventive
+334,899,191,2023-02-13,2023-02-16,Emergency,D001,8741,Referred,Outpatient
+335,336,80,2023-05-23,2023-05-26,Routine Checkup,D003,9806,Ongoing Treatment,Emergency
+336,435,16,2023-06-21,2023-06-28,Mental Health,D006,9032,Ongoing Treatment,Inpatient
+337,196,104,2023-10-05,2023-10-08,Mental Health,D001,3590,Ongoing Treatment,Preventive
+338,855,70,2022-04-12,2022-04-17,Emergency,D007,9377,Admitted,Emergency
+339,249,194,2023-02-26,2023-03-02,Mental Health,D004,7307,Ongoing Treatment,Inpatient
+340,498,141,2023-04-23,2023-04-27,Specialist Consultation,D003,199,Admitted,Mental Health
+341,212,108,2022-04-30,2022-05-07,Routine Checkup,D010,1674,Ongoing Treatment,Preventive
+342,665,47,2022-10-18,2022-10-19,Emergency,D009,7711,Admitted,Mental Health
+343,670,9,2023-05-03,2023-05-10,Emergency,D001,2624,Admitted,Outpatient
+344,466,191,2022-06-10,2022-06-18,Mental Health,D008,4478,Recovered,Emergency
+345,874,34,2023-11-04,2023-11-07,Specialist Consultation,D001,7579,Ongoing Treatment,Preventive
+346,651,157,2022-03-19,2022-03-22,Routine Checkup,D005,4319,Recovered,Inpatient
+347,221,165,2022-02-07,2022-02-11,Mental Health,D010,7819,Referred,Inpatient
+348,273,171,2023-01-29,2023-02-04,Emergency,D008,2158,Ongoing Treatment,Emergency
+349,154,86,2023-03-17,2023-03-24,Emergency,D006,3997,Ongoing Treatment,Mental Health
+350,249,115,2023-06-24,2023-06-25,Mental Health,D007,7949,Ongoing Treatment,Mental Health
+351,279,64,2023-04-07,2023-04-11,Specialist Consultation,D008,4964,Ongoing Treatment,Preventive
+352,440,152,2023-09-04,2023-09-11,Routine Checkup,D006,6717,Recovered,Preventive
+353,948,199,2022-10-21,2022-10-23,Routine Checkup,D006,2313,Recovered,Mental Health
+354,816,34,2023-02-04,2023-02-05,Routine Checkup,D006,9854,Admitted,Preventive
+355,276,176,2023-09-28,2023-09-29,Routine Checkup,D005,3865,Recovered,Mental Health
+356,514,12,2022-04-02,2022-04-08,Specialist Consultation,D008,627,Admitted,Emergency
+357,88,151,2023-09-01,2023-09-06,Emergency,D002,472,Referred,Preventive
+358,799,97,2022-01-06,2022-01-07,Emergency,D007,2813,Recovered,Mental Health
+359,923,121,2023-11-12,2023-11-15,Routine Checkup,D004,1279,Admitted,Preventive
+360,642,141,2022-09-28,2022-10-05,Routine Checkup,D001,3226,Ongoing Treatment,Inpatient
+361,505,87,2023-09-12,2023-09-21,Routine Checkup,D005,8995,Referred,Inpatient
+362,590,102,2023-07-13,2023-07-22,Mental Health,D003,737,Admitted,Outpatient
+363,772,96,2022-04-09,2022-04-15,Mental Health,D004,772,Referred,Mental Health
+364,241,173,2023-06-10,2023-06-13,Emergency,D007,796,Ongoing Treatment,Outpatient
+365,653,114,2022-07-13,2022-07-14,Emergency,D005,4387,Ongoing Treatment,Mental Health
+366,740,193,2022-06-06,2022-06-09,Routine Checkup,D004,2762,Admitted,Preventive
+367,675,47,2023-10-28,2023-10-30,Mental Health,D001,757,Admitted,Mental Health
+368,236,58,2022-04-25,2022-04-30,Specialist Consultation,D006,8676,Ongoing Treatment,Inpatient
+369,128,133,2023-01-31,2023-02-08,Mental Health,D010,533,Admitted,Preventive
+370,503,121,2023-10-19,2023-10-24,Emergency,D006,1583,Ongoing Treatment,Inpatient
+371,200,118,2023-06-06,2023-06-07,Mental Health,D007,219,Recovered,Preventive
+372,962,5,2022-08-02,2022-08-05,Emergency,D001,1070,Admitted,Mental Health
+373,902,188,2023-11-14,2023-11-19,Routine Checkup,D004,7143,Referred,Mental Health
+374,543,96,2023-06-17,2023-06-24,Specialist Consultation,D009,6516,Ongoing Treatment,Inpatient
+375,502,21,2022-01-15,2022-01-20,Routine Checkup,D010,897,Recovered,Emergency
+376,650,152,2023-02-23,2023-02-28,Routine Checkup,D006,8937,Admitted,Mental Health
+377,492,128,2023-01-03,2023-01-10,Specialist Consultation,D002,3396,Ongoing Treatment,Emergency
+378,21,124,2023-09-30,2023-10-08,Specialist Consultation,D004,4063,Recovered,Preventive
+379,234,146,2022-08-01,2022-08-09,Specialist Consultation,D006,8128,Admitted,Emergency
+380,714,21,2023-12-01,2023-12-08,Emergency,D004,81,Ongoing Treatment,Inpatient
+381,791,54,2023-11-15,2023-11-18,Routine Checkup,D010,8418,Ongoing Treatment,Outpatient
+382,643,138,2022-01-05,2022-01-07,Emergency,D007,7927,Ongoing Treatment,Outpatient
+383,416,152,2022-08-19,2022-08-20,Specialist Consultation,D003,6220,Admitted,Inpatient
+384,148,104,2022-07-20,2022-07-26,Emergency,D006,7880,Recovered,Outpatient
+385,970,111,2023-02-06,2023-02-15,Specialist Consultation,D004,9744,Ongoing Treatment,Inpatient
+386,29,116,2022-05-29,2022-06-01,Mental Health,D003,2365,Recovered,Mental Health
+387,361,188,2023-08-07,2023-08-12,Specialist Consultation,D003,115,Recovered,Emergency
+388,308,57,2023-05-07,2023-05-16,Routine Checkup,D002,1978,Referred,Outpatient
+389,883,128,2022-08-14,2022-08-23,Routine Checkup,D003,5061,Recovered,Mental Health
+390,942,151,2023-08-09,2023-08-16,Routine Checkup,D010,7583,Recovered,Outpatient
+391,162,150,2022-06-18,2022-06-22,Emergency,D001,6275,Recovered,Preventive
+392,869,196,2022-06-01,2022-06-03,Routine Checkup,D003,5497,Recovered,Inpatient
+393,852,162,2022-08-12,2022-08-14,Specialist Consultation,D009,634,Recovered,Inpatient
+394,61,120,2023-05-19,2023-05-23,Mental Health,D004,6520,Admitted,Mental Health
+395,125,70,2023-07-04,2023-07-05,Routine Checkup,D003,6735,Referred,Preventive
+396,456,156,2022-02-13,2022-02-17,Emergency,D008,5294,Ongoing Treatment,Emergency
+397,71,95,2023-11-28,2023-12-04,Mental Health,D001,8204,Referred,Preventive
+398,838,99,2023-05-19,2023-05-25,Routine Checkup,D005,8001,Referred,Preventive
+399,907,167,2022-08-29,2022-09-05,Routine Checkup,D001,1798,Ongoing Treatment,Emergency
+400,876,42,2022-12-17,2022-12-22,Mental Health,D007,7720,Recovered,Emergency
+401,466,151,2023-12-23,2024-01-01,Routine Checkup,D005,2254,Ongoing Treatment,Preventive
+402,243,70,2022-01-23,2022-01-25,Emergency,D002,1942,Recovered,Outpatient
+403,490,2,2023-09-28,2023-09-30,Specialist Consultation,D001,7068,Ongoing Treatment,Outpatient
+404,761,152,2023-08-21,2023-08-25,Specialist Consultation,D007,3143,Admitted,Preventive
+405,221,145,2022-02-12,2022-02-16,Mental Health,D001,1023,Referred,Outpatient
+406,473,109,2023-04-11,2023-04-15,Specialist Consultation,D003,4074,Recovered,Emergency
+407,959,65,2022-02-09,2022-02-10,Routine Checkup,D006,9684,Referred,Emergency
+408,533,70,2022-10-30,2022-11-03,Routine Checkup,D006,6665,Recovered,Outpatient
+409,494,69,2023-11-12,2023-11-17,Emergency,D007,4379,Ongoing Treatment,Emergency
+410,899,121,2022-06-24,2022-07-03,Specialist Consultation,D001,6765,Ongoing Treatment,Inpatient
+411,82,109,2023-06-16,2023-06-19,Mental Health,D007,1527,Ongoing Treatment,Emergency
+412,856,60,2023-04-06,2023-04-09,Routine Checkup,D002,5739,Admitted,Preventive
+413,879,178,2023-09-13,2023-09-18,Mental Health,D006,9012,Ongoing Treatment,Mental Health
+414,998,93,2022-07-12,2022-07-18,Routine Checkup,D008,7379,Ongoing Treatment,Outpatient
+415,522,12,2022-09-01,2022-09-04,Routine Checkup,D005,6494,Admitted,Outpatient
+416,923,103,2022-10-07,2022-10-08,Emergency,D010,8547,Referred,Emergency
+417,12,175,2022-02-05,2022-02-13,Specialist Consultation,D003,51,Referred,Emergency
+418,263,195,2023-07-11,2023-07-12,Emergency,D008,8512,Recovered,Mental Health
+419,657,112,2023-06-24,2023-06-26,Specialist Consultation,D008,6893,Referred,Mental Health
+420,449,65,2022-06-03,2022-06-06,Mental Health,D004,9105,Recovered,Preventive
+421,192,155,2022-01-23,2022-01-29,Specialist Consultation,D008,6022,Recovered,Inpatient
+422,762,48,2023-12-20,2023-12-24,Mental Health,D005,7953,Referred,Preventive
+423,114,88,2022-04-01,2022-04-05,Routine Checkup,D005,5155,Referred,Outpatient
+424,26,62,2023-01-25,2023-02-03,Mental Health,D003,7752,Admitted,Emergency
+425,783,44,2022-12-25,2022-12-31,Mental Health,D007,2964,Recovered,Preventive
+426,499,147,2023-07-04,2023-07-06,Routine Checkup,D009,5206,Referred,Emergency
+427,508,187,2022-08-16,2022-08-23,Mental Health,D009,8348,Referred,Emergency
+428,545,136,2022-07-21,2022-07-24,Mental Health,D001,3218,Admitted,Preventive
+429,62,55,2022-12-16,2022-12-25,Routine Checkup,D001,2649,Referred,Preventive
+430,229,108,2022-02-07,2022-02-13,Routine Checkup,D010,5766,Ongoing Treatment,Mental Health
+431,815,47,2023-05-15,2023-05-23,Routine Checkup,D005,2285,Ongoing Treatment,Inpatient
+432,607,2,2023-11-30,2023-12-01,Specialist Consultation,D001,2849,Recovered,Mental Health
+433,35,113,2022-02-12,2022-02-14,Routine Checkup,D004,7063,Admitted,Inpatient
+434,705,167,2023-09-18,2023-09-24,Routine Checkup,D001,9753,Referred,Preventive
+435,456,173,2023-06-01,2023-06-04,Mental Health,D002,5523,Recovered,Inpatient
+436,588,160,2022-03-09,2022-03-10,Emergency,D002,68,Referred,Outpatient
+437,891,193,2022-05-03,2022-05-09,Emergency,D004,908,Ongoing Treatment,Mental Health
+438,502,166,2023-11-16,2023-11-21,Specialist Consultation,D008,9658,Referred,Mental Health
+439,761,11,2022-12-02,2022-12-11,Specialist Consultation,D002,5430,Referred,Mental Health
+440,595,138,2022-06-02,2022-06-08,Emergency,D009,3082,Referred,Emergency
+441,25,112,2023-10-31,2023-11-05,Emergency,D009,4555,Ongoing Treatment,Emergency
+442,569,187,2022-06-11,2022-06-12,Routine Checkup,D002,9668,Ongoing Treatment,Preventive
+443,32,90,2022-08-02,2022-08-03,Mental Health,D001,5839,Admitted,Preventive
+444,831,55,2023-01-11,2023-01-12,Routine Checkup,D010,2581,Ongoing Treatment,Emergency
+445,12,148,2023-03-19,2023-03-26,Specialist Consultation,D010,7521,Recovered,Mental Health
+446,319,17,2023-02-27,2023-03-05,Emergency,D009,4769,Referred,Emergency
+447,845,68,2023-06-22,2023-06-27,Specialist Consultation,D002,4913,Ongoing Treatment,Inpatient
+448,604,133,2023-12-02,2023-12-06,Routine Checkup,D008,4088,Recovered,Mental Health
+449,1,188,2023-09-26,2023-10-04,Specialist Consultation,D003,2502,Ongoing Treatment,Emergency
+450,435,151,2022-08-18,2022-08-26,Specialist Consultation,D001,2896,Referred,Preventive
+451,838,174,2022-02-28,2022-03-05,Mental Health,D001,8114,Recovered,Emergency
+452,136,52,2022-04-06,2022-04-10,Specialist Consultation,D010,6672,Ongoing Treatment,Outpatient
+453,196,138,2022-09-19,2022-09-21,Routine Checkup,D002,8946,Ongoing Treatment,Emergency
+454,133,174,2022-12-20,2022-12-27,Mental Health,D007,9583,Recovered,Mental Health
+455,985,156,2022-11-08,2022-11-13,Specialist Consultation,D006,3512,Admitted,Emergency
+456,86,97,2022-05-16,2022-05-19,Routine Checkup,D002,1209,Recovered,Preventive
+457,476,171,2023-04-18,2023-04-27,Emergency,D004,4676,Recovered,Inpatient
+458,807,154,2023-09-24,2023-10-03,Mental Health,D002,7106,Recovered,Outpatient
+459,791,183,2023-03-06,2023-03-14,Specialist Consultation,D001,3772,Recovered,Mental Health
+460,324,48,2023-06-21,2023-06-22,Specialist Consultation,D003,3610,Ongoing Treatment,Preventive
+461,180,29,2022-05-26,2022-05-29,Mental Health,D004,6167,Recovered,Outpatient
+462,516,27,2023-06-08,2023-06-10,Routine Checkup,D010,6639,Recovered,Emergency
+463,638,146,2022-03-28,2022-04-01,Specialist Consultation,D005,9957,Referred,Outpatient
+464,175,104,2022-04-19,2022-04-21,Routine Checkup,D005,6899,Ongoing Treatment,Inpatient
+465,763,60,2023-02-27,2023-03-07,Mental Health,D007,2293,Referred,Outpatient
+466,21,106,2022-12-11,2022-12-12,Specialist Consultation,D010,8227,Ongoing Treatment,Outpatient
+467,997,69,2022-09-23,2022-09-27,Emergency,D008,1810,Admitted,Emergency
+468,952,114,2023-08-09,2023-08-14,Emergency,D009,5492,Admitted,Emergency
+469,105,21,2023-05-09,2023-05-13,Emergency,D007,7729,Ongoing Treatment,Mental Health
+470,578,152,2022-11-29,2022-12-07,Mental Health,D005,2725,Admitted,Emergency
+471,443,102,2023-02-17,2023-02-19,Specialist Consultation,D009,7174,Admitted,Outpatient
+472,775,131,2023-09-06,2023-09-15,Mental Health,D008,5831,Ongoing Treatment,Inpatient
+473,49,95,2023-10-11,2023-10-13,Specialist Consultation,D010,3286,Recovered,Emergency
+474,528,190,2022-07-10,2022-07-12,Emergency,D009,5948,Referred,Mental Health
+475,145,105,2022-05-22,2022-05-24,Emergency,D010,8285,Ongoing Treatment,Mental Health
+476,340,125,2022-03-14,2022-03-22,Routine Checkup,D008,8730,Ongoing Treatment,Outpatient
+477,762,2,2022-06-16,2022-06-19,Mental Health,D006,4326,Ongoing Treatment,Emergency
+478,855,66,2022-06-17,2022-06-25,Mental Health,D004,4773,Referred,Emergency
+479,354,113,2023-07-20,2023-07-27,Routine Checkup,D009,9198,Ongoing Treatment,Mental Health
+480,75,170,2022-09-16,2022-09-20,Emergency,D009,5694,Referred,Emergency
+481,802,162,2023-03-15,2023-03-22,Emergency,D010,1165,Referred,Outpatient
+482,929,42,2022-04-21,2022-04-29,Mental Health,D010,1831,Admitted,Inpatient
+483,794,20,2023-11-04,2023-11-10,Specialist Consultation,D009,8892,Recovered,Outpatient
+484,578,97,2023-06-15,2023-06-21,Emergency,D010,1926,Admitted,Emergency
+485,637,68,2022-10-17,2022-10-20,Routine Checkup,D003,5413,Ongoing Treatment,Outpatient
+486,319,173,2023-07-16,2023-07-21,Routine Checkup,D003,8582,Ongoing Treatment,Preventive
+487,87,75,2023-05-25,2023-05-27,Routine Checkup,D006,3425,Referred,Preventive
+488,553,125,2022-06-24,2022-06-29,Mental Health,D006,2800,Admitted,Emergency
+489,982,170,2022-10-29,2022-11-03,Mental Health,D006,9596,Referred,Emergency
+490,698,47,2023-11-27,2023-12-04,Mental Health,D005,3326,Admitted,Inpatient
+491,866,5,2022-07-04,2022-07-08,Mental Health,D005,498,Admitted,Outpatient
+492,892,49,2022-12-05,2022-12-11,Routine Checkup,D002,5587,Admitted,Inpatient
+493,847,124,2023-05-25,2023-06-03,Routine Checkup,D007,4222,Admitted,Emergency
+494,778,37,2022-11-06,2022-11-10,Mental Health,D004,9039,Admitted,Emergency
+495,783,162,2023-05-22,2023-05-28,Mental Health,D003,3546,Recovered,Mental Health
+496,42,198,2022-12-12,2022-12-21,Routine Checkup,D008,2232,Ongoing Treatment,Inpatient
+497,93,146,2022-03-22,2022-03-23,Mental Health,D004,3376,Admitted,Emergency
+498,697,19,2023-01-09,2023-01-17,Mental Health,D004,8887,Admitted,Preventive
+499,727,40,2022-06-05,2022-06-06,Mental Health,D008,769,Referred,Mental Health
+500,507,17,2023-03-08,2023-03-12,Mental Health,D001,1572,Ongoing Treatment,Outpatient
+501,529,188,2023-05-15,2023-05-18,Emergency,D009,6806,Ongoing Treatment,Mental Health
+502,956,99,2022-05-27,2022-05-31,Mental Health,D007,6677,Ongoing Treatment,Outpatient
+503,265,93,2023-04-26,2023-05-03,Routine Checkup,D002,1119,Admitted,Preventive
+504,626,42,2023-03-11,2023-03-20,Routine Checkup,D006,5612,Referred,Outpatient
+505,292,123,2023-06-03,2023-06-12,Routine Checkup,D008,7799,Ongoing Treatment,Inpatient
+506,969,107,2023-10-31,2023-11-01,Routine Checkup,D005,4937,Referred,Outpatient
+507,464,72,2023-11-14,2023-11-15,Mental Health,D006,4724,Recovered,Outpatient
+508,804,65,2022-03-10,2022-03-19,Emergency,D010,2206,Recovered,Mental Health
+509,560,109,2023-08-29,2023-09-02,Specialist Consultation,D008,7994,Referred,Preventive
+510,819,53,2022-07-05,2022-07-08,Specialist Consultation,D006,4189,Admitted,Outpatient
+511,97,135,2023-11-13,2023-11-22,Specialist Consultation,D009,5679,Ongoing Treatment,Inpatient
+512,887,133,2022-07-23,2022-07-28,Specialist Consultation,D009,7137,Recovered,Mental Health
+513,95,24,2023-07-08,2023-07-14,Routine Checkup,D009,5128,Recovered,Preventive
+514,326,28,2022-01-13,2022-01-14,Mental Health,D006,6455,Referred,Preventive
+515,74,62,2023-10-28,2023-10-29,Mental Health,D009,6921,Admitted,Emergency
+516,336,17,2022-10-01,2022-10-08,Specialist Consultation,D003,682,Referred,Inpatient
+517,68,20,2022-10-25,2022-11-02,Specialist Consultation,D005,2249,Referred,Mental Health
+518,758,3,2022-02-20,2022-02-28,Emergency,D002,5403,Referred,Mental Health
+519,918,165,2023-05-15,2023-05-22,Emergency,D008,2960,Referred,Inpatient
+520,77,143,2023-01-04,2023-01-13,Emergency,D004,672,Referred,Preventive
+521,208,51,2023-12-25,2023-12-26,Routine Checkup,D006,6123,Admitted,Outpatient
+522,884,176,2023-10-18,2023-10-20,Mental Health,D006,410,Referred,Inpatient
+523,766,136,2022-12-23,2022-12-26,Routine Checkup,D005,6415,Admitted,Mental Health
+524,221,141,2022-01-03,2022-01-08,Routine Checkup,D001,8451,Ongoing Treatment,Inpatient
+525,262,176,2022-09-11,2022-09-15,Mental Health,D007,9172,Ongoing Treatment,Preventive
+526,410,3,2023-04-20,2023-04-24,Emergency,D010,3993,Ongoing Treatment,Emergency
+527,331,193,2023-05-21,2023-05-29,Mental Health,D008,4919,Ongoing Treatment,Emergency
+528,344,73,2022-09-13,2022-09-21,Specialist Consultation,D001,8178,Recovered,Outpatient
+529,989,159,2023-09-02,2023-09-09,Emergency,D010,927,Admitted,Outpatient
+530,771,105,2023-11-16,2023-11-17,Mental Health,D007,4845,Ongoing Treatment,Preventive
+531,820,118,2022-05-30,2022-06-03,Routine Checkup,D004,7841,Recovered,Outpatient
+532,74,154,2023-05-03,2023-05-04,Mental Health,D006,2573,Admitted,Emergency
+533,637,184,2022-10-06,2022-10-11,Emergency,D009,6320,Recovered,Preventive
+534,700,34,2022-02-28,2022-03-03,Specialist Consultation,D005,8633,Recovered,Preventive
+535,254,137,2023-03-22,2023-03-25,Routine Checkup,D008,6673,Referred,Preventive
+536,959,62,2022-04-23,2022-04-27,Specialist Consultation,D005,5138,Recovered,Inpatient
+537,833,120,2023-07-23,2023-07-25,Specialist Consultation,D002,7614,Recovered,Outpatient
+538,820,115,2023-05-04,2023-05-11,Routine Checkup,D004,7116,Admitted,Mental Health
+539,747,13,2023-02-11,2023-02-15,Mental Health,D002,6595,Recovered,Emergency
+540,986,69,2023-01-02,2023-01-07,Mental Health,D007,2371,Referred,Outpatient
+541,762,169,2022-03-01,2022-03-03,Specialist Consultation,D007,8199,Ongoing Treatment,Emergency
+542,332,77,2022-11-25,2022-12-01,Mental Health,D003,8175,Ongoing Treatment,Outpatient
+543,398,1,2023-12-29,2024-01-07,Emergency,D007,8380,Admitted,Mental Health
+544,345,89,2023-04-14,2023-04-22,Specialist Consultation,D001,8344,Admitted,Emergency
+545,584,47,2023-07-21,2023-07-29,Specialist Consultation,D001,5383,Recovered,Mental Health
+546,747,4,2023-12-21,2023-12-23,Specialist Consultation,D009,8725,Admitted,Emergency
+547,836,191,2022-03-04,2022-03-08,Emergency,D006,7908,Recovered,Inpatient
+548,668,180,2022-07-03,2022-07-11,Specialist Consultation,D005,4369,Admitted,Inpatient
+549,455,10,2022-11-07,2022-11-08,Mental Health,D006,5439,Ongoing Treatment,Emergency
+550,906,28,2023-06-22,2023-06-30,Mental Health,D006,1898,Ongoing Treatment,Emergency
+551,115,121,2022-06-26,2022-06-29,Mental Health,D001,3255,Ongoing Treatment,Mental Health
+552,313,126,2023-07-29,2023-08-06,Mental Health,D005,2211,Ongoing Treatment,Preventive
+553,228,134,2023-03-05,2023-03-11,Specialist Consultation,D009,1514,Recovered,Emergency
+554,834,155,2022-03-14,2022-03-21,Emergency,D004,693,Recovered,Outpatient
+555,858,140,2022-06-16,2022-06-18,Routine Checkup,D003,5401,Recovered,Outpatient
+556,245,62,2022-08-13,2022-08-14,Mental Health,D001,4603,Ongoing Treatment,Outpatient
+557,818,180,2023-07-31,2023-08-06,Routine Checkup,D002,6568,Referred,Inpatient
+558,526,176,2023-08-04,2023-08-07,Routine Checkup,D003,5773,Ongoing Treatment,Mental Health
+559,528,67,2022-01-09,2022-01-13,Specialist Consultation,D004,7996,Ongoing Treatment,Inpatient
+560,950,174,2022-08-24,2022-09-02,Mental Health,D007,660,Referred,Outpatient
+561,427,74,2023-12-11,2023-12-14,Mental Health,D006,4352,Referred,Emergency
+562,42,95,2023-11-16,2023-11-18,Mental Health,D008,1593,Admitted,Outpatient
+563,465,143,2022-01-28,2022-01-30,Routine Checkup,D009,1516,Ongoing Treatment,Emergency
+564,622,199,2023-10-08,2023-10-10,Mental Health,D006,9158,Referred,Mental Health
+565,278,36,2022-01-27,2022-02-02,Mental Health,D007,6286,Admitted,Preventive
+566,836,142,2023-07-04,2023-07-06,Emergency,D004,1231,Referred,Emergency
+567,19,112,2022-07-15,2022-07-22,Specialist Consultation,D002,2196,Referred,Inpatient
+568,66,131,2022-07-22,2022-07-29,Mental Health,D009,2322,Admitted,Outpatient
+569,167,113,2022-03-26,2022-04-02,Mental Health,D009,9093,Ongoing Treatment,Outpatient
+570,585,110,2022-01-30,2022-02-01,Specialist Consultation,D004,4586,Admitted,Outpatient
+571,403,114,2023-04-11,2023-04-18,Specialist Consultation,D003,769,Ongoing Treatment,Emergency
+572,912,67,2022-04-09,2022-04-17,Routine Checkup,D010,4730,Referred,Mental Health
+573,822,126,2022-07-09,2022-07-17,Routine Checkup,D006,3522,Admitted,Emergency
+574,409,86,2022-01-12,2022-01-14,Routine Checkup,D003,3692,Recovered,Inpatient
+575,112,19,2023-08-26,2023-08-31,Specialist Consultation,D001,113,Referred,Outpatient
+576,274,182,2022-01-30,2022-02-05,Emergency,D004,609,Admitted,Emergency
+577,407,69,2023-12-26,2024-01-04,Mental Health,D001,7496,Referred,Outpatient
+578,373,10,2022-02-07,2022-02-13,Specialist Consultation,D002,1783,Admitted,Inpatient
+579,597,161,2023-07-26,2023-08-01,Emergency,D003,8911,Ongoing Treatment,Preventive
+580,651,141,2022-10-21,2022-10-27,Specialist Consultation,D008,3944,Recovered,Preventive
+581,39,128,2022-12-26,2023-01-04,Emergency,D010,1592,Referred,Preventive
+582,105,99,2023-10-17,2023-10-24,Specialist Consultation,D004,9513,Recovered,Outpatient
+583,324,179,2022-06-29,2022-06-30,Specialist Consultation,D004,2465,Ongoing Treatment,Emergency
+584,793,32,2022-04-22,2022-04-23,Emergency,D010,6140,Admitted,Outpatient
+585,959,112,2023-03-20,2023-03-24,Emergency,D009,5267,Recovered,Mental Health
+586,992,24,2022-01-21,2022-01-23,Emergency,D007,5437,Admitted,Emergency
+587,414,35,2022-05-25,2022-05-28,Emergency,D002,5229,Ongoing Treatment,Inpatient
+588,429,83,2023-05-14,2023-05-21,Emergency,D003,8237,Referred,Preventive
+589,635,70,2022-05-26,2022-06-02,Emergency,D004,6693,Ongoing Treatment,Emergency
+590,730,168,2023-03-17,2023-03-20,Emergency,D004,7710,Recovered,Emergency
+591,889,182,2023-02-25,2023-02-27,Emergency,D010,2508,Recovered,Preventive
+592,61,109,2022-11-12,2022-11-13,Specialist Consultation,D008,9405,Recovered,Inpatient
+593,612,172,2022-06-15,2022-06-24,Emergency,D010,6078,Admitted,Outpatient
+594,307,190,2023-10-14,2023-10-17,Emergency,D010,5497,Referred,Outpatient
+595,354,99,2022-07-22,2022-07-31,Specialist Consultation,D006,4609,Recovered,Emergency
+596,393,196,2023-05-11,2023-05-15,Specialist Consultation,D003,2799,Recovered,Preventive
+597,204,33,2023-09-17,2023-09-23,Routine Checkup,D009,1998,Recovered,Mental Health
+598,258,56,2023-04-13,2023-04-20,Routine Checkup,D010,6356,Ongoing Treatment,Inpatient
+599,486,164,2023-12-14,2023-12-20,Emergency,D008,8301,Recovered,Outpatient
+600,517,182,2023-01-20,2023-01-21,Emergency,D009,8142,Ongoing Treatment,Inpatient
+601,446,147,2022-11-10,2022-11-16,Routine Checkup,D005,8574,Recovered,Inpatient
+602,709,171,2022-09-12,2022-09-18,Routine Checkup,D003,239,Ongoing Treatment,Inpatient
+603,180,12,2022-01-23,2022-01-28,Mental Health,D004,6058,Admitted,Preventive
+604,342,11,2022-12-05,2022-12-08,Mental Health,D005,7532,Admitted,Preventive
+605,133,70,2023-05-08,2023-05-11,Emergency,D009,345,Ongoing Treatment,Preventive
+606,443,140,2023-05-26,2023-06-02,Mental Health,D009,8418,Referred,Emergency
+607,836,41,2023-01-01,2023-01-09,Routine Checkup,D003,8218,Referred,Preventive
+608,253,153,2023-01-07,2023-01-10,Emergency,D007,849,Ongoing Treatment,Emergency
+609,265,106,2023-08-22,2023-08-25,Specialist Consultation,D006,9047,Admitted,Outpatient
+610,93,3,2022-08-07,2022-08-14,Specialist Consultation,D004,7053,Ongoing Treatment,Outpatient
+611,662,3,2023-04-20,2023-04-27,Routine Checkup,D005,9984,Referred,Outpatient
+612,411,84,2023-02-27,2023-03-08,Mental Health,D010,8456,Ongoing Treatment,Outpatient
+613,138,156,2022-12-22,2022-12-28,Specialist Consultation,D002,2750,Admitted,Outpatient
+614,208,151,2023-04-05,2023-04-12,Mental Health,D007,8838,Referred,Preventive
+615,637,176,2023-05-18,2023-05-19,Specialist Consultation,D004,9959,Referred,Mental Health
+616,746,195,2022-01-27,2022-02-03,Mental Health,D002,9597,Recovered,Preventive
+617,573,170,2022-08-11,2022-08-13,Specialist Consultation,D006,9534,Recovered,Mental Health
+618,307,107,2023-11-21,2023-11-28,Specialist Consultation,D002,5923,Referred,Preventive
+619,266,168,2022-05-28,2022-05-31,Emergency,D010,4764,Referred,Outpatient
+620,646,134,2023-02-28,2023-03-09,Emergency,D002,6541,Ongoing Treatment,Inpatient
+621,318,20,2022-12-17,2022-12-22,Routine Checkup,D007,8383,Admitted,Mental Health
+622,113,139,2022-07-05,2022-07-12,Specialist Consultation,D001,2889,Referred,Inpatient
+623,901,96,2023-02-19,2023-02-27,Mental Health,D007,3563,Admitted,Outpatient
+624,378,124,2023-03-05,2023-03-07,Specialist Consultation,D010,9956,Referred,Mental Health
+625,454,155,2022-02-10,2022-02-11,Mental Health,D005,1185,Admitted,Inpatient
+626,191,21,2023-01-28,2023-02-04,Mental Health,D001,6407,Recovered,Preventive
+627,891,114,2023-12-04,2023-12-10,Specialist Consultation,D006,2297,Referred,Outpatient
+628,440,13,2022-03-20,2022-03-26,Mental Health,D007,6598,Ongoing Treatment,Preventive
+629,187,86,2023-12-18,2023-12-20,Routine Checkup,D001,4566,Admitted,Preventive
+630,831,35,2023-06-28,2023-07-01,Emergency,D009,4152,Referred,Outpatient
+631,367,47,2023-03-26,2023-03-30,Mental Health,D007,1598,Recovered,Mental Health
+632,89,156,2023-04-19,2023-04-22,Specialist Consultation,D001,6582,Recovered,Emergency
+633,187,149,2022-05-22,2022-05-24,Emergency,D003,4561,Recovered,Emergency
+634,819,146,2022-09-08,2022-09-11,Routine Checkup,D005,2881,Recovered,Outpatient
+635,946,159,2022-10-21,2022-10-27,Mental Health,D004,9248,Referred,Emergency
+636,132,188,2023-09-02,2023-09-11,Mental Health,D002,3112,Ongoing Treatment,Inpatient
+637,872,125,2022-05-16,2022-05-20,Emergency,D001,8025,Admitted,Mental Health
+638,635,110,2023-04-29,2023-05-05,Mental Health,D004,3102,Ongoing Treatment,Preventive
+639,560,37,2022-11-08,2022-11-09,Specialist Consultation,D007,7260,Admitted,Preventive
+640,800,21,2023-07-09,2023-07-15,Emergency,D004,3589,Ongoing Treatment,Outpatient
+641,376,14,2023-09-24,2023-09-27,Emergency,D009,576,Referred,Preventive
+642,691,91,2022-02-15,2022-02-24,Mental Health,D008,2857,Referred,Inpatient
+643,692,60,2022-08-24,2022-08-28,Routine Checkup,D008,9437,Admitted,Inpatient
+644,99,124,2022-02-17,2022-02-24,Routine Checkup,D005,1803,Referred,Outpatient
+645,842,23,2022-07-17,2022-07-21,Routine Checkup,D001,9914,Admitted,Preventive
+646,34,111,2022-03-25,2022-03-31,Routine Checkup,D009,6932,Ongoing Treatment,Emergency
+647,932,124,2023-06-27,2023-07-04,Emergency,D002,1704,Referred,Emergency
+648,582,157,2022-06-10,2022-06-12,Emergency,D006,4891,Referred,Mental Health
+649,171,175,2023-03-04,2023-03-10,Mental Health,D010,4091,Admitted,Outpatient
+650,366,30,2022-03-12,2022-03-20,Routine Checkup,D005,5074,Admitted,Mental Health
+651,784,115,2023-06-04,2023-06-10,Routine Checkup,D010,9089,Admitted,Emergency
+652,59,90,2022-02-21,2022-02-23,Mental Health,D008,9109,Admitted,Emergency
+653,181,38,2022-02-14,2022-02-18,Mental Health,D003,9015,Recovered,Emergency
+654,19,83,2022-10-20,2022-10-21,Mental Health,D006,8784,Admitted,Mental Health
+655,226,27,2023-04-10,2023-04-17,Specialist Consultation,D006,4467,Recovered,Outpatient
+656,473,104,2023-07-04,2023-07-12,Mental Health,D010,9027,Ongoing Treatment,Inpatient
+657,95,116,2023-01-15,2023-01-17,Mental Health,D003,4685,Admitted,Inpatient
+658,881,15,2023-04-23,2023-04-28,Specialist Consultation,D007,2933,Recovered,Emergency
+659,297,187,2022-09-19,2022-09-27,Routine Checkup,D004,5934,Recovered,Outpatient
+660,593,3,2023-08-03,2023-08-11,Emergency,D005,498,Recovered,Outpatient
+661,175,10,2022-06-28,2022-07-03,Routine Checkup,D009,3360,Referred,Preventive
+662,222,120,2022-12-23,2022-12-31,Emergency,D006,4635,Recovered,Preventive
+663,615,145,2023-02-23,2023-03-01,Emergency,D010,8158,Admitted,Mental Health
+664,54,128,2023-11-29,2023-12-04,Mental Health,D004,4459,Admitted,Preventive
+665,695,11,2022-07-20,2022-07-24,Mental Health,D008,7923,Admitted,Mental Health
+666,863,176,2022-01-13,2022-01-18,Specialist Consultation,D009,6101,Recovered,Inpatient
+667,403,133,2023-03-19,2023-03-23,Routine Checkup,D010,8626,Recovered,Emergency
+668,318,69,2023-12-27,2023-12-28,Routine Checkup,D005,344,Referred,Outpatient
+669,867,64,2022-10-13,2022-10-16,Emergency,D002,1288,Ongoing Treatment,Inpatient
+670,349,14,2022-09-15,2022-09-23,Mental Health,D006,8091,Referred,Inpatient
+671,443,50,2023-07-24,2023-07-31,Mental Health,D008,2866,Admitted,Mental Health
+672,833,154,2023-07-02,2023-07-09,Routine Checkup,D005,1148,Admitted,Emergency
+673,580,72,2023-05-05,2023-05-08,Specialist Consultation,D001,1787,Admitted,Mental Health
+674,540,69,2023-05-13,2023-05-22,Mental Health,D008,2239,Referred,Inpatient
+675,786,135,2023-12-06,2023-12-12,Specialist Consultation,D009,2815,Admitted,Outpatient
+676,282,127,2022-11-29,2022-12-07,Routine Checkup,D001,1272,Admitted,Preventive
+677,360,16,2023-07-16,2023-07-24,Routine Checkup,D008,6599,Admitted,Mental Health
+678,915,183,2022-02-01,2022-02-04,Specialist Consultation,D010,460,Recovered,Inpatient
+679,823,78,2023-09-02,2023-09-06,Mental Health,D002,2995,Ongoing Treatment,Preventive
+680,631,101,2022-02-12,2022-02-18,Routine Checkup,D004,8152,Recovered,Preventive
+681,892,56,2022-12-17,2022-12-19,Emergency,D002,4836,Recovered,Inpatient
+682,953,105,2022-11-30,2022-12-07,Routine Checkup,D002,9119,Ongoing Treatment,Emergency
+683,646,132,2023-07-13,2023-07-15,Mental Health,D010,836,Ongoing Treatment,Inpatient
+684,641,48,2022-09-27,2022-10-02,Emergency,D003,2159,Referred,Outpatient
+685,8,17,2023-02-17,2023-02-21,Routine Checkup,D008,5496,Ongoing Treatment,Preventive
+686,993,111,2023-07-29,2023-08-07,Mental Health,D004,5885,Referred,Outpatient
+687,563,164,2022-01-19,2022-01-21,Mental Health,D007,2036,Referred,Mental Health
+688,491,70,2022-12-13,2022-12-20,Routine Checkup,D010,8176,Recovered,Preventive
+689,341,80,2023-09-05,2023-09-12,Mental Health,D003,9120,Admitted,Emergency
+690,472,93,2022-02-06,2022-02-13,Specialist Consultation,D010,7350,Recovered,Inpatient
+691,793,38,2023-09-11,2023-09-12,Emergency,D003,9849,Recovered,Mental Health
+692,687,101,2022-04-02,2022-04-10,Specialist Consultation,D002,5759,Ongoing Treatment,Outpatient
+693,695,62,2022-07-04,2022-07-06,Routine Checkup,D006,2453,Ongoing Treatment,Mental Health
+694,704,121,2023-12-29,2024-01-03,Specialist Consultation,D006,8312,Referred,Emergency
+695,249,48,2022-01-28,2022-01-30,Routine Checkup,D001,4451,Referred,Inpatient
+696,235,10,2023-07-02,2023-07-07,Routine Checkup,D007,6751,Referred,Mental Health
+697,83,36,2023-01-07,2023-01-14,Mental Health,D004,3345,Ongoing Treatment,Outpatient
+698,93,157,2023-06-14,2023-06-20,Mental Health,D003,9003,Referred,Mental Health
+699,885,4,2022-12-11,2022-12-16,Routine Checkup,D008,2171,Referred,Inpatient
+700,394,44,2023-02-23,2023-02-27,Emergency,D002,3632,Ongoing Treatment,Mental Health
+701,824,56,2022-07-15,2022-07-23,Emergency,D009,4247,Admitted,Outpatient
+702,268,42,2022-03-19,2022-03-27,Emergency,D008,9871,Recovered,Inpatient
+703,417,114,2022-06-16,2022-06-17,Specialist Consultation,D008,5750,Ongoing Treatment,Emergency
+704,632,141,2022-03-31,2022-04-02,Routine Checkup,D003,7282,Referred,Emergency
+705,583,174,2022-09-21,2022-09-24,Mental Health,D004,4338,Recovered,Preventive
+706,529,161,2023-04-17,2023-04-18,Specialist Consultation,D002,1135,Ongoing Treatment,Mental Health
+707,253,21,2022-07-27,2022-07-30,Specialist Consultation,D002,8695,Recovered,Outpatient
+708,957,79,2023-12-25,2024-01-02,Mental Health,D004,2671,Recovered,Mental Health
+709,122,185,2022-09-28,2022-10-02,Routine Checkup,D006,8860,Admitted,Inpatient
+710,892,69,2022-09-20,2022-09-27,Specialist Consultation,D005,8878,Referred,Preventive
+711,10,70,2023-05-21,2023-05-28,Routine Checkup,D001,2398,Ongoing Treatment,Outpatient
+712,799,67,2023-05-27,2023-06-01,Routine Checkup,D010,4924,Referred,Mental Health
+713,316,48,2023-12-27,2023-12-28,Routine Checkup,D001,3086,Admitted,Outpatient
+714,838,161,2023-07-30,2023-08-03,Mental Health,D006,2399,Admitted,Inpatient
+715,273,36,2023-06-08,2023-06-15,Routine Checkup,D003,5793,Ongoing Treatment,Preventive
+716,306,161,2023-12-23,2023-12-28,Specialist Consultation,D003,4482,Ongoing Treatment,Outpatient
+717,805,159,2022-11-08,2022-11-10,Mental Health,D007,6225,Admitted,Inpatient
+718,210,149,2022-06-23,2022-07-01,Mental Health,D001,7315,Ongoing Treatment,Emergency
+719,958,27,2023-03-07,2023-03-09,Specialist Consultation,D001,6153,Recovered,Outpatient
+720,730,72,2023-04-08,2023-04-16,Mental Health,D010,7408,Recovered,Preventive
+721,753,101,2022-04-11,2022-04-13,Specialist Consultation,D003,9313,Admitted,Outpatient
+722,886,190,2022-01-16,2022-01-21,Emergency,D008,2081,Referred,Outpatient
+723,464,96,2023-12-10,2023-12-14,Specialist Consultation,D001,1299,Ongoing Treatment,Inpatient
+724,712,128,2022-09-15,2022-09-16,Mental Health,D010,9537,Ongoing Treatment,Mental Health
+725,728,26,2022-09-01,2022-09-09,Specialist Consultation,D004,6858,Recovered,Mental Health
+726,717,66,2022-12-14,2022-12-17,Emergency,D009,3606,Ongoing Treatment,Outpatient
+727,925,140,2022-09-06,2022-09-10,Routine Checkup,D004,8569,Referred,Preventive
+728,416,22,2022-04-15,2022-04-19,Routine Checkup,D010,9038,Ongoing Treatment,Preventive
+729,216,17,2023-11-25,2023-11-30,Routine Checkup,D008,5349,Ongoing Treatment,Inpatient
+730,80,7,2023-10-29,2023-11-01,Mental Health,D007,3144,Recovered,Outpatient
+731,779,107,2022-10-14,2022-10-23,Emergency,D003,3027,Ongoing Treatment,Outpatient
+732,480,68,2022-06-18,2022-06-22,Specialist Consultation,D007,1012,Admitted,Mental Health
+733,902,128,2023-02-24,2023-02-28,Specialist Consultation,D007,5775,Admitted,Inpatient
+734,891,37,2022-02-16,2022-02-22,Specialist Consultation,D010,5539,Referred,Emergency
+735,547,38,2022-02-12,2022-02-20,Specialist Consultation,D003,1318,Referred,Preventive
+736,801,96,2022-11-17,2022-11-24,Mental Health,D002,5329,Referred,Preventive
+737,18,139,2022-08-09,2022-08-13,Mental Health,D009,422,Referred,Outpatient
+738,165,1,2023-05-28,2023-06-01,Emergency,D001,4430,Recovered,Inpatient
+739,525,153,2023-12-13,2023-12-18,Specialist Consultation,D007,7667,Ongoing Treatment,Emergency
+740,202,42,2023-03-17,2023-03-22,Routine Checkup,D004,9846,Recovered,Preventive
+741,741,180,2022-05-24,2022-05-25,Mental Health,D002,6329,Referred,Inpatient
+742,346,152,2022-01-28,2022-02-05,Emergency,D002,145,Ongoing Treatment,Emergency
+743,366,181,2023-07-07,2023-07-12,Emergency,D008,4419,Admitted,Outpatient
+744,977,184,2023-10-21,2023-10-24,Mental Health,D007,3991,Recovered,Mental Health
+745,448,63,2023-11-21,2023-11-24,Routine Checkup,D007,7071,Ongoing Treatment,Preventive
+746,513,81,2022-06-16,2022-06-20,Routine Checkup,D005,9442,Admitted,Preventive
+747,319,8,2023-09-27,2023-10-04,Specialist Consultation,D010,3994,Admitted,Emergency
+748,217,187,2023-08-09,2023-08-14,Mental Health,D008,5918,Referred,Mental Health
+749,34,173,2022-09-06,2022-09-07,Routine Checkup,D002,5446,Admitted,Inpatient
+750,871,27,2022-12-23,2022-12-28,Mental Health,D002,8091,Admitted,Outpatient
+751,266,52,2022-04-21,2022-04-26,Emergency,D005,181,Referred,Inpatient
+752,640,146,2023-11-23,2023-11-29,Emergency,D001,7340,Ongoing Treatment,Emergency
+753,724,91,2023-12-01,2023-12-08,Emergency,D006,9632,Ongoing Treatment,Preventive
+754,775,86,2023-12-20,2023-12-25,Mental Health,D004,6566,Referred,Preventive
+755,824,16,2022-08-22,2022-08-24,Specialist Consultation,D006,9391,Recovered,Inpatient
+756,80,66,2022-01-24,2022-01-26,Specialist Consultation,D007,5956,Referred,Outpatient
+757,677,5,2022-01-26,2022-01-30,Routine Checkup,D003,857,Ongoing Treatment,Emergency
+758,413,82,2023-01-16,2023-01-17,Mental Health,D008,100,Recovered,Outpatient
+759,252,131,2023-12-31,2024-01-07,Specialist Consultation,D007,5327,Referred,Emergency
+760,12,118,2022-12-12,2022-12-13,Mental Health,D001,105,Ongoing Treatment,Outpatient
+761,401,81,2023-01-13,2023-01-16,Specialist Consultation,D006,3714,Ongoing Treatment,Inpatient
+762,816,70,2023-06-06,2023-06-13,Emergency,D007,793,Ongoing Treatment,Mental Health
+763,724,115,2022-01-17,2022-01-23,Emergency,D004,6080,Admitted,Emergency
+764,282,7,2022-09-02,2022-09-09,Routine Checkup,D002,8181,Admitted,Inpatient
+765,112,50,2023-12-19,2023-12-24,Emergency,D010,129,Recovered,Preventive
+766,723,142,2023-09-16,2023-09-24,Specialist Consultation,D009,3016,Recovered,Preventive
+767,378,166,2023-12-18,2023-12-24,Routine Checkup,D007,3778,Recovered,Outpatient
+768,751,111,2023-06-23,2023-06-27,Routine Checkup,D001,4586,Admitted,Preventive
+769,268,47,2023-08-06,2023-08-07,Emergency,D008,175,Recovered,Mental Health
+770,917,112,2023-11-19,2023-11-21,Mental Health,D003,5863,Ongoing Treatment,Emergency
+771,298,161,2022-07-21,2022-07-27,Emergency,D004,8460,Ongoing Treatment,Outpatient
+772,317,43,2022-09-05,2022-09-09,Emergency,D005,997,Recovered,Emergency
+773,570,91,2022-04-28,2022-05-01,Routine Checkup,D001,644,Recovered,Emergency
+774,509,29,2022-01-09,2022-01-16,Emergency,D006,5080,Admitted,Inpatient
+775,950,128,2023-08-21,2023-08-28,Specialist Consultation,D010,190,Ongoing Treatment,Preventive
+776,546,185,2022-01-23,2022-01-25,Routine Checkup,D006,3105,Referred,Emergency
+777,775,133,2022-08-28,2022-09-05,Emergency,D002,9872,Referred,Mental Health
+778,365,96,2023-08-08,2023-08-09,Mental Health,D010,9118,Admitted,Mental Health
+779,547,188,2022-01-27,2022-02-03,Specialist Consultation,D006,4255,Admitted,Preventive
+780,271,117,2022-03-22,2022-03-23,Mental Health,D008,5221,Admitted,Preventive
+781,961,70,2023-08-19,2023-08-22,Specialist Consultation,D006,7832,Ongoing Treatment,Outpatient
+782,474,130,2022-07-18,2022-07-21,Mental Health,D004,2710,Recovered,Outpatient
+783,739,70,2023-07-09,2023-07-11,Emergency,D004,6906,Recovered,Outpatient
+784,537,110,2022-04-02,2022-04-07,Specialist Consultation,D009,6139,Admitted,Preventive
+785,234,171,2022-03-25,2022-03-29,Routine Checkup,D006,5368,Ongoing Treatment,Emergency
+786,59,132,2022-10-27,2022-11-02,Routine Checkup,D008,2602,Referred,Inpatient
+787,251,56,2022-10-23,2022-10-25,Mental Health,D008,3661,Admitted,Outpatient
+788,847,187,2023-10-09,2023-10-13,Mental Health,D007,8112,Ongoing Treatment,Inpatient
+789,86,89,2023-03-30,2023-04-06,Mental Health,D003,1090,Admitted,Mental Health
+790,763,137,2022-10-08,2022-10-09,Specialist Consultation,D010,8556,Ongoing Treatment,Preventive
+791,390,131,2022-02-28,2022-03-03,Routine Checkup,D001,7653,Ongoing Treatment,Mental Health
+792,180,176,2022-12-08,2022-12-09,Emergency,D005,4222,Admitted,Outpatient
+793,719,171,2023-04-10,2023-04-12,Specialist Consultation,D010,2996,Recovered,Emergency
+794,856,100,2022-12-08,2022-12-17,Mental Health,D010,3286,Admitted,Outpatient
+795,149,129,2023-09-02,2023-09-07,Routine Checkup,D002,3730,Recovered,Inpatient
+796,583,57,2022-03-03,2022-03-07,Mental Health,D010,4857,Recovered,Outpatient
+797,121,181,2023-09-17,2023-09-21,Emergency,D002,1587,Referred,Emergency
+798,765,144,2023-03-05,2023-03-13,Emergency,D007,3922,Ongoing Treatment,Emergency
+799,605,51,2023-10-20,2023-10-23,Routine Checkup,D003,1917,Admitted,Preventive
+800,256,112,2023-12-29,2024-01-02,Specialist Consultation,D008,1211,Ongoing Treatment,Preventive
+801,766,104,2022-09-13,2022-09-15,Emergency,D009,3970,Referred,Emergency
+802,864,127,2023-12-07,2023-12-13,Emergency,D008,5743,Recovered,Emergency
+803,800,55,2022-12-13,2022-12-22,Emergency,D006,3932,Admitted,Inpatient
+804,309,1,2023-06-10,2023-06-14,Emergency,D005,7788,Ongoing Treatment,Outpatient
+805,59,90,2022-10-31,2022-11-06,Mental Health,D003,8506,Referred,Preventive
+806,69,156,2023-09-07,2023-09-11,Mental Health,D003,6381,Recovered,Inpatient
+807,446,53,2022-09-02,2022-09-04,Specialist Consultation,D007,5232,Recovered,Outpatient
+808,388,186,2023-02-16,2023-02-22,Routine Checkup,D005,9544,Ongoing Treatment,Preventive
+809,86,73,2022-08-05,2022-08-12,Routine Checkup,D006,9436,Recovered,Inpatient
+810,786,188,2023-05-31,2023-06-04,Routine Checkup,D006,1576,Referred,Mental Health
+811,227,187,2023-04-19,2023-04-26,Emergency,D009,8181,Recovered,Mental Health
+812,593,108,2022-02-05,2022-02-13,Mental Health,D001,4444,Admitted,Preventive
+813,626,150,2022-06-27,2022-06-30,Mental Health,D008,1208,Admitted,Inpatient
+814,184,8,2023-01-22,2023-01-24,Specialist Consultation,D010,4417,Ongoing Treatment,Outpatient
+815,792,177,2022-01-17,2022-01-22,Routine Checkup,D005,4680,Referred,Outpatient
+816,322,42,2023-12-12,2023-12-14,Mental Health,D006,3563,Recovered,Inpatient
+817,909,155,2022-02-17,2022-02-22,Specialist Consultation,D006,1194,Recovered,Mental Health
+818,318,167,2022-03-03,2022-03-09,Routine Checkup,D001,118,Recovered,Inpatient
+819,566,25,2022-03-10,2022-03-18,Emergency,D003,3767,Admitted,Mental Health
+820,399,38,2023-10-21,2023-10-27,Mental Health,D006,9068,Referred,Mental Health
+821,709,85,2023-01-01,2023-01-05,Mental Health,D009,9411,Recovered,Outpatient
+822,899,152,2022-06-11,2022-06-14,Routine Checkup,D006,9225,Ongoing Treatment,Preventive
+823,293,24,2023-05-03,2023-05-05,Emergency,D006,9694,Referred,Emergency
+824,293,60,2023-03-07,2023-03-08,Emergency,D001,9281,Referred,Inpatient
+825,485,178,2023-05-04,2023-05-06,Mental Health,D009,4773,Recovered,Mental Health
+826,899,111,2022-08-18,2022-08-20,Routine Checkup,D004,4263,Admitted,Inpatient
+827,447,66,2023-01-05,2023-01-10,Specialist Consultation,D002,6463,Referred,Preventive
+828,803,142,2022-06-27,2022-07-06,Mental Health,D001,3516,Ongoing Treatment,Preventive
+829,692,53,2023-02-14,2023-02-15,Emergency,D003,3076,Referred,Emergency
+830,983,160,2023-07-22,2023-07-26,Specialist Consultation,D003,7048,Admitted,Emergency
+831,892,106,2023-08-13,2023-08-20,Routine Checkup,D005,2797,Ongoing Treatment,Mental Health
+832,412,96,2022-09-27,2022-09-30,Emergency,D001,7321,Admitted,Emergency
+833,508,176,2022-07-25,2022-08-02,Specialist Consultation,D007,6221,Recovered,Mental Health
+834,734,39,2022-03-23,2022-03-26,Mental Health,D001,3905,Referred,Outpatient
+835,786,168,2022-07-12,2022-07-20,Emergency,D004,8803,Ongoing Treatment,Mental Health
+836,890,42,2023-09-10,2023-09-12,Routine Checkup,D006,2253,Admitted,Emergency
+837,244,111,2022-07-08,2022-07-13,Emergency,D001,3469,Recovered,Inpatient
+838,420,104,2022-10-03,2022-10-07,Mental Health,D007,1194,Ongoing Treatment,Emergency
+839,929,77,2022-03-15,2022-03-24,Routine Checkup,D010,2749,Referred,Preventive
+840,960,8,2022-01-10,2022-01-13,Mental Health,D007,9793,Referred,Emergency
+841,154,26,2023-09-27,2023-10-02,Specialist Consultation,D003,610,Admitted,Outpatient
+842,816,140,2022-08-04,2022-08-13,Emergency,D004,1237,Ongoing Treatment,Mental Health
+843,424,43,2022-10-17,2022-10-23,Mental Health,D006,3183,Recovered,Preventive
+844,273,179,2023-03-21,2023-03-23,Specialist Consultation,D007,3461,Recovered,Mental Health
+845,936,110,2023-07-06,2023-07-07,Routine Checkup,D004,1739,Recovered,Mental Health
+846,647,100,2022-07-12,2022-07-13,Routine Checkup,D010,4457,Admitted,Emergency
+847,825,63,2023-10-01,2023-10-08,Specialist Consultation,D009,2473,Recovered,Inpatient
+848,520,49,2022-10-16,2022-10-18,Specialist Consultation,D009,1419,Ongoing Treatment,Preventive
+849,128,115,2023-08-06,2023-08-13,Routine Checkup,D009,6057,Admitted,Outpatient
+850,373,155,2023-10-11,2023-10-12,Mental Health,D010,6778,Referred,Outpatient
+851,568,137,2022-05-24,2022-05-28,Specialist Consultation,D006,8822,Admitted,Inpatient
+852,638,167,2023-01-24,2023-01-28,Mental Health,D002,1026,Admitted,Inpatient
+853,159,65,2023-02-11,2023-02-16,Routine Checkup,D002,4322,Admitted,Emergency
+854,571,199,2023-01-05,2023-01-06,Mental Health,D004,6547,Ongoing Treatment,Outpatient
+855,570,71,2023-03-17,2023-03-24,Mental Health,D009,168,Referred,Preventive
+856,652,7,2023-10-13,2023-10-15,Specialist Consultation,D003,1592,Referred,Inpatient
+857,176,200,2023-07-18,2023-07-20,Mental Health,D006,4912,Admitted,Inpatient
+858,927,80,2023-06-13,2023-06-21,Mental Health,D002,3093,Admitted,Inpatient
+859,620,67,2023-11-08,2023-11-17,Mental Health,D001,1022,Admitted,Preventive
+860,211,138,2022-01-13,2022-01-19,Routine Checkup,D005,965,Ongoing Treatment,Outpatient
+861,447,199,2023-12-03,2023-12-04,Routine Checkup,D008,6671,Ongoing Treatment,Preventive
+862,586,181,2022-12-06,2022-12-07,Emergency,D010,9679,Recovered,Preventive
+863,167,101,2022-11-08,2022-11-15,Routine Checkup,D010,636,Referred,Emergency
+864,460,95,2022-04-14,2022-04-22,Routine Checkup,D002,8592,Recovered,Inpatient
+865,916,87,2022-12-05,2022-12-08,Emergency,D010,5675,Recovered,Outpatient
+866,357,185,2022-07-17,2022-07-26,Emergency,D009,7404,Admitted,Emergency
+867,304,91,2022-10-27,2022-10-31,Specialist Consultation,D008,4641,Ongoing Treatment,Emergency
+868,233,103,2023-03-20,2023-03-24,Specialist Consultation,D003,2612,Recovered,Mental Health
+869,327,126,2022-12-25,2022-12-28,Routine Checkup,D001,6889,Recovered,Inpatient
+870,884,155,2023-01-03,2023-01-11,Mental Health,D004,8514,Recovered,Outpatient
+871,182,182,2022-06-18,2022-06-27,Specialist Consultation,D008,2977,Admitted,Outpatient
+872,634,113,2022-05-29,2022-05-30,Specialist Consultation,D003,6245,Admitted,Outpatient
+873,334,4,2022-02-11,2022-02-13,Routine Checkup,D010,6326,Ongoing Treatment,Inpatient
+874,715,88,2022-07-21,2022-07-22,Mental Health,D002,4340,Recovered,Outpatient
+875,967,151,2022-09-01,2022-09-05,Emergency,D007,5932,Recovered,Preventive
+876,29,176,2023-10-31,2023-11-07,Emergency,D004,6496,Ongoing Treatment,Preventive
+877,714,170,2023-04-09,2023-04-16,Routine Checkup,D006,5217,Ongoing Treatment,Inpatient
+878,93,3,2023-03-25,2023-03-31,Routine Checkup,D005,1572,Ongoing Treatment,Outpatient
+879,841,91,2023-03-13,2023-03-18,Mental Health,D002,9073,Referred,Mental Health
+880,868,3,2023-06-15,2023-06-19,Routine Checkup,D010,611,Ongoing Treatment,Mental Health
+881,688,156,2023-07-19,2023-07-27,Routine Checkup,D002,3590,Admitted,Mental Health
+882,330,191,2023-08-20,2023-08-27,Routine Checkup,D009,1529,Referred,Preventive
+883,723,81,2022-09-30,2022-10-01,Mental Health,D010,6727,Ongoing Treatment,Mental Health
+884,184,159,2023-03-06,2023-03-12,Routine Checkup,D002,1255,Admitted,Outpatient
+885,95,138,2022-08-01,2022-08-03,Specialist Consultation,D008,6710,Ongoing Treatment,Outpatient
+886,785,177,2022-04-14,2022-04-18,Mental Health,D008,8898,Ongoing Treatment,Mental Health
+887,649,94,2022-07-11,2022-07-16,Specialist Consultation,D001,639,Referred,Emergency
+888,749,126,2023-11-20,2023-11-28,Mental Health,D001,4376,Admitted,Mental Health
+889,353,113,2023-10-21,2023-10-27,Specialist Consultation,D004,4954,Recovered,Emergency
+890,930,149,2023-01-15,2023-01-17,Mental Health,D002,9613,Ongoing Treatment,Inpatient
+891,941,100,2022-03-22,2022-03-27,Emergency,D001,6471,Referred,Inpatient
+892,984,53,2023-12-06,2023-12-11,Routine Checkup,D009,3809,Admitted,Outpatient
+893,265,87,2023-07-03,2023-07-09,Routine Checkup,D003,8989,Ongoing Treatment,Preventive
+894,647,89,2023-01-12,2023-01-13,Mental Health,D001,8705,Recovered,Outpatient
+895,656,54,2022-06-03,2022-06-11,Specialist Consultation,D002,8995,Admitted,Outpatient
+896,19,185,2023-10-04,2023-10-07,Emergency,D008,5986,Admitted,Preventive
+897,743,20,2023-07-25,2023-07-30,Specialist Consultation,D005,8824,Referred,Outpatient
+898,646,113,2022-08-28,2022-09-04,Routine Checkup,D007,2255,Ongoing Treatment,Preventive
+899,626,49,2023-01-09,2023-01-12,Routine Checkup,D006,4164,Ongoing Treatment,Outpatient
+900,499,135,2022-07-23,2022-07-29,Specialist Consultation,D001,4077,Admitted,Inpatient
+901,139,29,2023-09-03,2023-09-08,Mental Health,D006,4866,Ongoing Treatment,Emergency
+902,637,48,2022-12-16,2022-12-23,Mental Health,D007,7238,Admitted,Outpatient
+903,716,13,2023-11-19,2023-11-22,Specialist Consultation,D004,2858,Recovered,Emergency
+904,573,3,2022-05-23,2022-05-25,Routine Checkup,D008,3653,Referred,Mental Health
+905,762,2,2022-07-08,2022-07-12,Specialist Consultation,D008,3963,Ongoing Treatment,Outpatient
+906,810,16,2022-09-29,2022-10-02,Routine Checkup,D007,1469,Ongoing Treatment,Inpatient
+907,525,94,2023-06-16,2023-06-20,Specialist Consultation,D002,2217,Referred,Preventive
+908,908,102,2022-10-27,2022-11-03,Mental Health,D006,2194,Recovered,Inpatient
+909,255,134,2023-03-02,2023-03-07,Emergency,D006,2217,Recovered,Emergency
+910,85,45,2022-02-15,2022-02-19,Routine Checkup,D007,9802,Recovered,Preventive
+911,458,71,2022-04-05,2022-04-11,Emergency,D006,9418,Recovered,Inpatient
+912,532,133,2022-03-05,2022-03-12,Mental Health,D002,9510,Recovered,Inpatient
+913,562,56,2023-02-17,2023-02-22,Specialist Consultation,D008,5941,Admitted,Inpatient
+914,676,199,2023-10-05,2023-10-12,Mental Health,D004,6586,Ongoing Treatment,Preventive
+915,92,127,2022-01-09,2022-01-12,Emergency,D009,1216,Ongoing Treatment,Inpatient
+916,600,32,2023-04-04,2023-04-11,Mental Health,D008,3625,Ongoing Treatment,Inpatient
+917,69,49,2023-12-16,2023-12-19,Mental Health,D003,2891,Admitted,Emergency
+918,37,13,2023-02-13,2023-02-19,Specialist Consultation,D003,1920,Referred,Inpatient
+919,765,158,2023-04-15,2023-04-23,Emergency,D008,2936,Recovered,Inpatient
+920,764,25,2023-05-21,2023-05-27,Emergency,D002,209,Referred,Mental Health
+921,140,60,2023-11-17,2023-11-20,Emergency,D009,7293,Recovered,Preventive
+922,867,59,2022-03-14,2022-03-19,Routine Checkup,D004,3813,Recovered,Mental Health
+923,893,156,2022-03-25,2022-04-03,Mental Health,D006,1105,Referred,Emergency
+924,680,58,2022-02-28,2022-03-08,Emergency,D003,383,Ongoing Treatment,Mental Health
+925,566,20,2022-01-21,2022-01-27,Mental Health,D003,3646,Admitted,Outpatient
+926,898,162,2023-04-03,2023-04-12,Specialist Consultation,D003,7657,Referred,Preventive
+927,178,133,2022-06-06,2022-06-08,Specialist Consultation,D010,9133,Ongoing Treatment,Inpatient
+928,809,188,2022-11-25,2022-12-04,Routine Checkup,D002,1412,Recovered,Mental Health
+929,813,171,2023-07-27,2023-08-02,Routine Checkup,D008,975,Ongoing Treatment,Mental Health
+930,871,57,2023-07-30,2023-08-08,Specialist Consultation,D009,5569,Recovered,Inpatient
+931,618,185,2023-11-11,2023-11-15,Emergency,D008,2493,Recovered,Inpatient
+932,137,54,2022-07-22,2022-07-27,Specialist Consultation,D010,4030,Ongoing Treatment,Emergency
+933,190,112,2023-10-03,2023-10-05,Mental Health,D003,7310,Recovered,Mental Health
+934,640,173,2022-04-16,2022-04-19,Routine Checkup,D007,1469,Admitted,Mental Health
+935,342,86,2022-05-02,2022-05-03,Routine Checkup,D010,109,Ongoing Treatment,Outpatient
+936,559,37,2022-11-14,2022-11-18,Specialist Consultation,D002,2574,Referred,Outpatient
+937,5,84,2022-07-01,2022-07-03,Emergency,D004,3847,Recovered,Mental Health
+938,972,48,2023-09-07,2023-09-09,Emergency,D006,1628,Recovered,Outpatient
+939,257,118,2022-11-12,2022-11-13,Mental Health,D005,7251,Admitted,Mental Health
+940,812,182,2023-09-17,2023-09-19,Routine Checkup,D009,757,Admitted,Preventive
+941,662,48,2023-02-10,2023-02-14,Specialist Consultation,D010,8215,Referred,Emergency
+942,806,112,2022-03-11,2022-03-17,Specialist Consultation,D004,5327,Recovered,Outpatient
+943,243,110,2022-06-09,2022-06-16,Routine Checkup,D005,1830,Referred,Mental Health
+944,787,6,2022-08-28,2022-09-04,Specialist Consultation,D004,2463,Referred,Outpatient
+945,720,162,2023-06-07,2023-06-14,Routine Checkup,D008,7800,Recovered,Emergency
+946,415,191,2022-05-18,2022-05-22,Emergency,D008,2211,Referred,Preventive
+947,627,78,2023-05-10,2023-05-15,Emergency,D003,8850,Referred,Inpatient
+948,707,176,2023-11-10,2023-11-13,Specialist Consultation,D001,358,Admitted,Inpatient
+949,343,23,2022-09-04,2022-09-05,Emergency,D006,5489,Admitted,Outpatient
+950,682,126,2023-06-27,2023-07-05,Emergency,D002,4357,Referred,Mental Health
+951,379,84,2023-06-08,2023-06-15,Mental Health,D002,2414,Recovered,Emergency
+952,594,13,2022-08-31,2022-09-09,Routine Checkup,D003,234,Admitted,Preventive
+953,666,47,2023-09-12,2023-09-16,Routine Checkup,D008,5374,Referred,Preventive
+954,653,44,2022-12-02,2022-12-07,Specialist Consultation,D003,5533,Ongoing Treatment,Preventive
+955,826,105,2023-02-26,2023-03-03,Routine Checkup,D007,295,Ongoing Treatment,Inpatient
+956,146,160,2022-07-13,2022-07-20,Mental Health,D010,8480,Referred,Emergency
+957,323,154,2022-11-04,2022-11-13,Specialist Consultation,D010,8233,Ongoing Treatment,Inpatient
+958,122,181,2023-10-07,2023-10-15,Specialist Consultation,D009,5974,Admitted,Outpatient
+959,252,14,2023-05-21,2023-05-28,Routine Checkup,D008,569,Recovered,Preventive
+960,855,180,2022-10-08,2022-10-09,Emergency,D001,3957,Referred,Emergency
+961,899,121,2023-11-06,2023-11-12,Emergency,D007,326,Admitted,Preventive
+962,311,36,2023-03-15,2023-03-24,Emergency,D007,5151,Recovered,Inpatient
+963,601,8,2023-12-16,2023-12-23,Emergency,D008,8847,Ongoing Treatment,Inpatient
+964,475,168,2023-08-31,2023-09-01,Mental Health,D010,4623,Ongoing Treatment,Inpatient
+965,570,150,2023-04-28,2023-05-07,Specialist Consultation,D005,4653,Ongoing Treatment,Preventive
+966,492,16,2022-08-11,2022-08-14,Emergency,D010,4103,Ongoing Treatment,Emergency
+967,575,91,2022-04-27,2022-05-06,Mental Health,D009,6862,Admitted,Emergency
+968,347,120,2022-07-11,2022-07-15,Specialist Consultation,D009,6123,Admitted,Outpatient
+969,820,188,2023-09-10,2023-09-19,Routine Checkup,D008,191,Recovered,Preventive
+970,487,60,2023-05-31,2023-06-08,Routine Checkup,D006,1767,Referred,Outpatient
+971,473,10,2023-06-14,2023-06-21,Mental Health,D006,7363,Recovered,Outpatient
+972,382,153,2022-11-03,2022-11-07,Specialist Consultation,D001,5764,Referred,Outpatient
+973,280,31,2023-06-16,2023-06-25,Emergency,D006,449,Ongoing Treatment,Outpatient
+974,72,21,2022-05-02,2022-05-06,Specialist Consultation,D004,4813,Ongoing Treatment,Inpatient
+975,521,81,2023-10-11,2023-10-12,Emergency,D004,9764,Ongoing Treatment,Outpatient
+976,366,33,2023-08-15,2023-08-21,Mental Health,D002,9576,Ongoing Treatment,Emergency
+977,933,31,2022-06-03,2022-06-07,Emergency,D004,6305,Admitted,Outpatient
+978,94,149,2023-06-21,2023-06-24,Mental Health,D005,288,Recovered,Inpatient
+979,373,36,2023-03-28,2023-04-02,Specialist Consultation,D005,3265,Referred,Mental Health
+980,339,193,2022-06-18,2022-06-21,Specialist Consultation,D005,7591,Referred,Mental Health
+981,437,132,2022-02-28,2022-03-09,Emergency,D004,3697,Admitted,Mental Health
+982,336,68,2022-10-28,2022-11-03,Specialist Consultation,D001,5458,Ongoing Treatment,Preventive
+983,664,90,2023-07-07,2023-07-10,Emergency,D010,9858,Recovered,Emergency
+984,492,132,2023-07-04,2023-07-09,Specialist Consultation,D008,6390,Ongoing Treatment,Inpatient
+985,917,9,2022-04-27,2022-05-05,Routine Checkup,D003,2479,Admitted,Mental Health
+986,868,30,2022-05-07,2022-05-15,Emergency,D002,3702,Referred,Inpatient
+987,40,115,2023-02-09,2023-02-15,Mental Health,D009,9963,Admitted,Inpatient
+988,359,45,2023-02-03,2023-02-08,Routine Checkup,D007,6357,Referred,Preventive
+989,574,4,2023-05-30,2023-06-04,Mental Health,D009,9514,Recovered,Mental Health
+990,254,69,2023-05-13,2023-05-14,Specialist Consultation,D002,5190,Referred,Outpatient
+991,966,23,2023-06-12,2023-06-14,Routine Checkup,D009,2928,Recovered,Inpatient
+992,581,16,2023-02-02,2023-02-06,Specialist Consultation,D010,1585,Ongoing Treatment,Mental Health
+993,398,22,2022-09-22,2022-09-28,Emergency,D009,8777,Ongoing Treatment,Inpatient
+994,757,72,2022-09-20,2022-09-27,Mental Health,D009,6304,Admitted,Preventive
+995,877,48,2023-02-02,2023-02-03,Specialist Consultation,D010,998,Recovered,Preventive
+996,170,190,2023-10-08,2023-10-16,Mental Health,D010,3991,Ongoing Treatment,Outpatient
+997,690,188,2023-12-26,2023-12-27,Mental Health,D004,9263,Recovered,Preventive
+998,701,107,2023-06-11,2023-06-20,Specialist Consultation,D010,6653,Ongoing Treatment,Mental Health
+999,511,133,2023-03-12,2023-03-16,Emergency,D003,8675,Ongoing Treatment,Preventive
+1000,260,7,2022-12-26,2023-01-02,Mental Health,D006,1453,Referred,Outpatient
+1001,584,51,2022-05-09,2022-05-15,Specialist Consultation,D003,7869,Admitted,Emergency
+1002,984,65,2023-09-26,2023-10-05,Emergency,D009,3561,Referred,Inpatient
+1003,459,9,2022-08-29,2022-08-31,Specialist Consultation,D003,2985,Recovered,Inpatient
+1004,529,82,2023-09-19,2023-09-26,Emergency,D002,4928,Ongoing Treatment,Mental Health
+1005,882,45,2023-12-10,2023-12-15,Mental Health,D008,7556,Admitted,Outpatient
+1006,341,122,2022-08-10,2022-08-17,Routine Checkup,D006,7641,Ongoing Treatment,Outpatient
+1007,57,175,2022-08-02,2022-08-03,Specialist Consultation,D008,5110,Ongoing Treatment,Outpatient
+1008,218,195,2023-08-15,2023-08-24,Mental Health,D007,3383,Referred,Inpatient
+1009,619,152,2022-05-15,2022-05-16,Specialist Consultation,D003,1652,Recovered,Preventive
+1010,816,10,2023-01-21,2023-01-26,Specialist Consultation,D008,8470,Admitted,Inpatient
+1011,940,73,2022-10-30,2022-11-07,Emergency,D010,2246,Admitted,Inpatient
+1012,685,48,2022-10-14,2022-10-15,Specialist Consultation,D001,160,Admitted,Inpatient
+1013,731,163,2023-07-16,2023-07-23,Emergency,D001,9486,Recovered,Preventive
+1014,464,182,2022-07-08,2022-07-10,Mental Health,D010,6073,Admitted,Emergency
+1015,247,87,2022-10-24,2022-10-31,Specialist Consultation,D008,4209,Recovered,Mental Health
+1016,730,111,2023-06-10,2023-06-17,Mental Health,D009,3917,Admitted,Emergency
+1017,373,199,2023-01-24,2023-02-02,Routine Checkup,D010,9619,Ongoing Treatment,Emergency
+1018,417,16,2023-04-04,2023-04-10,Mental Health,D006,7691,Recovered,Inpatient
+1019,31,53,2022-09-18,2022-09-22,Specialist Consultation,D005,5054,Referred,Emergency
+1020,368,40,2023-12-05,2023-12-12,Routine Checkup,D002,8254,Admitted,Inpatient
+1021,559,100,2023-12-16,2023-12-23,Emergency,D009,7127,Referred,Inpatient
+1022,646,20,2022-04-23,2022-04-27,Routine Checkup,D006,3311,Recovered,Mental Health
+1023,108,69,2022-02-05,2022-02-07,Specialist Consultation,D008,712,Ongoing Treatment,Outpatient
+1024,584,45,2022-03-20,2022-03-29,Specialist Consultation,D009,8935,Referred,Inpatient
+1025,839,6,2022-10-02,2022-10-10,Mental Health,D009,3440,Referred,Emergency
+1026,418,197,2022-10-05,2022-10-10,Emergency,D008,9423,Ongoing Treatment,Mental Health
+1027,620,177,2023-11-05,2023-11-10,Specialist Consultation,D010,3068,Ongoing Treatment,Emergency
+1028,821,39,2022-11-08,2022-11-09,Specialist Consultation,D008,9746,Recovered,Outpatient
+1029,398,102,2023-06-13,2023-06-22,Emergency,D003,1952,Admitted,Preventive
+1030,272,130,2022-07-23,2022-07-31,Emergency,D003,4221,Referred,Outpatient
+1031,683,107,2022-01-17,2022-01-22,Mental Health,D002,378,Referred,Mental Health
+1032,116,39,2023-12-15,2023-12-21,Routine Checkup,D001,9681,Recovered,Outpatient
+1033,841,118,2023-04-21,2023-04-29,Emergency,D004,6345,Admitted,Outpatient
+1034,586,149,2023-05-26,2023-06-01,Specialist Consultation,D002,3896,Recovered,Mental Health
+1035,256,168,2022-07-29,2022-08-02,Emergency,D002,274,Referred,Mental Health
+1036,81,82,2023-05-14,2023-05-17,Specialist Consultation,D005,2570,Referred,Emergency
+1037,780,54,2023-02-06,2023-02-13,Mental Health,D004,8114,Ongoing Treatment,Inpatient
+1038,128,110,2023-03-05,2023-03-07,Routine Checkup,D001,3764,Ongoing Treatment,Preventive
+1039,838,12,2022-03-19,2022-03-26,Mental Health,D009,2457,Admitted,Preventive
+1040,915,165,2023-07-22,2023-07-23,Emergency,D004,6733,Referred,Preventive
+1041,235,110,2022-03-21,2022-03-26,Specialist Consultation,D005,860,Referred,Outpatient
+1042,553,38,2022-11-02,2022-11-11,Emergency,D007,6802,Ongoing Treatment,Mental Health
+1043,181,143,2022-02-27,2022-02-28,Emergency,D002,3167,Recovered,Mental Health
+1044,157,7,2023-06-14,2023-06-22,Emergency,D008,4823,Recovered,Mental Health
+1045,454,78,2022-07-27,2022-08-05,Emergency,D002,3340,Referred,Inpatient
+1046,571,178,2023-05-26,2023-06-04,Routine Checkup,D010,2301,Referred,Mental Health
+1047,857,65,2022-05-15,2022-05-23,Specialist Consultation,D005,4711,Admitted,Mental Health
+1048,761,102,2023-06-06,2023-06-10,Emergency,D002,4656,Admitted,Outpatient
+1049,704,195,2023-08-04,2023-08-11,Specialist Consultation,D002,9165,Ongoing Treatment,Emergency
+1050,24,101,2022-03-24,2022-03-25,Routine Checkup,D004,6471,Referred,Preventive
+1051,473,44,2023-09-13,2023-09-20,Specialist Consultation,D004,3102,Recovered,Outpatient
+1052,400,31,2022-02-13,2022-02-19,Specialist Consultation,D008,8257,Admitted,Outpatient
+1053,948,171,2023-04-28,2023-05-03,Routine Checkup,D006,4501,Ongoing Treatment,Outpatient
+1054,592,77,2023-10-06,2023-10-07,Emergency,D010,4975,Ongoing Treatment,Preventive
+1055,134,48,2023-05-08,2023-05-16,Specialist Consultation,D008,2696,Recovered,Outpatient
+1056,421,82,2023-05-14,2023-05-15,Mental Health,D007,9343,Admitted,Emergency
+1057,213,127,2022-01-18,2022-01-19,Specialist Consultation,D010,9332,Recovered,Mental Health
+1058,900,189,2023-08-28,2023-08-31,Emergency,D004,2956,Ongoing Treatment,Emergency
+1059,482,84,2022-10-21,2022-10-29,Mental Health,D002,1796,Referred,Mental Health
+1060,348,10,2022-05-28,2022-06-05,Emergency,D009,4359,Recovered,Mental Health
+1061,166,29,2023-04-17,2023-04-24,Specialist Consultation,D002,9962,Ongoing Treatment,Outpatient
+1062,937,48,2022-06-21,2022-06-26,Routine Checkup,D001,498,Referred,Outpatient
+1063,348,190,2023-07-17,2023-07-25,Emergency,D008,3062,Referred,Preventive
+1064,849,116,2023-06-15,2023-06-17,Emergency,D010,1618,Admitted,Inpatient
+1065,398,13,2022-04-30,2022-05-08,Routine Checkup,D009,3541,Admitted,Emergency
+1066,583,172,2022-03-07,2022-03-09,Specialist Consultation,D001,7360,Ongoing Treatment,Preventive
+1067,726,47,2022-05-21,2022-05-26,Emergency,D007,6933,Recovered,Preventive
+1068,435,103,2023-03-22,2023-03-26,Specialist Consultation,D002,6034,Referred,Emergency
+1069,577,192,2023-05-21,2023-05-22,Specialist Consultation,D006,9289,Admitted,Emergency
+1070,221,91,2022-07-08,2022-07-13,Specialist Consultation,D005,7138,Admitted,Mental Health
+1071,308,53,2022-06-07,2022-06-14,Routine Checkup,D001,4818,Recovered,Inpatient
+1072,991,92,2023-09-02,2023-09-03,Specialist Consultation,D002,1114,Admitted,Outpatient
+1073,798,77,2023-11-01,2023-11-03,Specialist Consultation,D002,3871,Ongoing Treatment,Inpatient
+1074,697,44,2022-09-03,2022-09-12,Mental Health,D010,8809,Recovered,Inpatient
+1075,719,156,2022-02-02,2022-02-07,Mental Health,D010,1486,Referred,Outpatient
+1076,466,2,2022-12-27,2023-01-03,Mental Health,D006,6147,Ongoing Treatment,Inpatient
+1077,99,101,2022-11-26,2022-11-28,Emergency,D001,2533,Referred,Preventive
+1078,242,57,2023-05-27,2023-06-03,Emergency,D004,7769,Referred,Preventive
+1079,158,57,2022-03-12,2022-03-19,Mental Health,D010,4850,Admitted,Outpatient
+1080,610,34,2022-11-09,2022-11-16,Routine Checkup,D005,6432,Ongoing Treatment,Outpatient
+1081,554,58,2023-12-29,2024-01-03,Routine Checkup,D002,4879,Ongoing Treatment,Emergency
+1082,651,180,2022-03-20,2022-03-29,Mental Health,D002,6203,Recovered,Emergency
+1083,795,157,2022-06-18,2022-06-20,Emergency,D007,2844,Ongoing Treatment,Inpatient
+1084,920,35,2022-06-29,2022-07-03,Emergency,D007,7662,Recovered,Inpatient
+1085,227,75,2023-09-20,2023-09-22,Routine Checkup,D006,1147,Ongoing Treatment,Outpatient
+1086,423,176,2022-09-17,2022-09-25,Specialist Consultation,D001,1688,Referred,Inpatient
+1087,72,33,2023-05-01,2023-05-02,Routine Checkup,D003,9900,Recovered,Mental Health
+1088,243,115,2022-01-05,2022-01-14,Specialist Consultation,D009,9367,Ongoing Treatment,Preventive
+1089,530,75,2022-10-24,2022-10-29,Emergency,D010,8505,Recovered,Inpatient
+1090,589,73,2023-09-12,2023-09-15,Emergency,D001,210,Admitted,Inpatient
+1091,45,78,2022-12-26,2022-12-30,Mental Health,D002,9498,Admitted,Emergency
+1092,472,9,2022-04-27,2022-04-28,Emergency,D008,5956,Recovered,Mental Health
+1093,371,48,2022-12-23,2022-12-26,Specialist Consultation,D007,8552,Recovered,Inpatient
+1094,855,67,2023-03-15,2023-03-23,Routine Checkup,D009,8468,Referred,Preventive
+1095,652,164,2022-11-27,2022-11-29,Mental Health,D010,8514,Ongoing Treatment,Inpatient
+1096,689,199,2023-06-09,2023-06-11,Specialist Consultation,D004,7131,Admitted,Outpatient
+1097,734,119,2023-10-16,2023-10-25,Routine Checkup,D004,4462,Admitted,Mental Health
+1098,927,172,2022-07-07,2022-07-12,Routine Checkup,D007,3207,Ongoing Treatment,Inpatient
+1099,92,188,2022-10-08,2022-10-13,Routine Checkup,D001,2388,Admitted,Mental Health
+1100,22,191,2023-05-26,2023-05-27,Emergency,D010,5638,Admitted,Inpatient
+1101,172,133,2023-04-11,2023-04-17,Routine Checkup,D009,1651,Recovered,Preventive
+1102,604,119,2022-04-25,2022-05-03,Emergency,D002,5938,Admitted,Preventive
+1103,192,86,2022-08-24,2022-08-30,Routine Checkup,D001,3768,Admitted,Mental Health
+1104,77,106,2022-12-04,2022-12-11,Routine Checkup,D007,5596,Admitted,Emergency
+1105,281,76,2023-06-06,2023-06-10,Emergency,D006,1975,Ongoing Treatment,Emergency
+1106,364,40,2022-07-18,2022-07-20,Emergency,D003,8808,Referred,Outpatient
+1107,179,19,2022-02-19,2022-02-20,Specialist Consultation,D001,2965,Recovered,Emergency
+1108,238,47,2022-05-22,2022-05-28,Routine Checkup,D005,6948,Referred,Mental Health
+1109,135,65,2023-06-12,2023-06-21,Emergency,D010,8493,Admitted,Emergency
+1110,877,195,2023-05-29,2023-06-03,Specialist Consultation,D004,5702,Admitted,Outpatient
+1111,902,146,2023-11-01,2023-11-03,Specialist Consultation,D005,3551,Admitted,Inpatient
+1112,280,178,2022-01-30,2022-01-31,Emergency,D001,7324,Referred,Emergency
+1113,19,30,2022-03-23,2022-03-26,Routine Checkup,D001,1652,Ongoing Treatment,Mental Health
+1114,595,126,2022-01-31,2022-02-04,Specialist Consultation,D005,7409,Ongoing Treatment,Mental Health
+1115,740,66,2022-11-29,2022-12-06,Routine Checkup,D006,563,Recovered,Outpatient
+1116,371,5,2023-10-22,2023-10-31,Routine Checkup,D005,8683,Referred,Outpatient
+1117,777,93,2022-06-26,2022-07-04,Specialist Consultation,D002,8242,Ongoing Treatment,Preventive
+1118,112,97,2023-01-05,2023-01-14,Emergency,D009,6551,Recovered,Preventive
+1119,763,170,2023-07-01,2023-07-08,Routine Checkup,D005,952,Admitted,Preventive
+1120,676,94,2023-06-19,2023-06-27,Mental Health,D005,5769,Admitted,Inpatient
+1121,870,106,2022-04-16,2022-04-24,Emergency,D010,9462,Recovered,Mental Health
+1122,680,133,2022-04-07,2022-04-08,Specialist Consultation,D009,8198,Ongoing Treatment,Preventive
+1123,221,178,2022-08-18,2022-08-27,Mental Health,D003,2371,Referred,Mental Health
+1124,920,85,2022-08-15,2022-08-17,Routine Checkup,D005,905,Recovered,Outpatient
+1125,304,58,2023-01-06,2023-01-13,Emergency,D005,1067,Ongoing Treatment,Inpatient
+1126,703,79,2022-04-10,2022-04-15,Mental Health,D002,5329,Recovered,Outpatient
+1127,325,8,2023-03-21,2023-03-25,Emergency,D004,7762,Ongoing Treatment,Mental Health
+1128,437,159,2023-04-13,2023-04-14,Routine Checkup,D002,4730,Admitted,Preventive
+1129,438,12,2022-02-24,2022-02-25,Emergency,D005,7122,Recovered,Outpatient
+1130,170,149,2022-07-14,2022-07-17,Mental Health,D010,6674,Referred,Emergency
+1131,375,94,2023-06-04,2023-06-05,Emergency,D002,245,Recovered,Inpatient
+1132,557,190,2023-02-28,2023-03-08,Specialist Consultation,D010,4744,Admitted,Mental Health
+1133,381,91,2022-11-11,2022-11-14,Specialist Consultation,D009,9574,Admitted,Preventive
+1134,986,33,2022-05-08,2022-05-10,Mental Health,D010,4701,Ongoing Treatment,Outpatient
+1135,14,154,2022-02-01,2022-02-07,Emergency,D006,7041,Admitted,Inpatient
+1136,743,100,2022-04-03,2022-04-07,Mental Health,D008,9759,Ongoing Treatment,Preventive
+1137,669,168,2023-06-03,2023-06-07,Emergency,D009,2747,Admitted,Outpatient
+1138,500,193,2022-09-15,2022-09-17,Routine Checkup,D008,1107,Ongoing Treatment,Mental Health
+1139,646,187,2022-08-08,2022-08-10,Specialist Consultation,D005,5257,Referred,Emergency
+1140,391,15,2022-04-16,2022-04-22,Routine Checkup,D005,2842,Ongoing Treatment,Emergency
+1141,549,114,2023-07-02,2023-07-07,Emergency,D006,470,Ongoing Treatment,Mental Health
+1142,565,129,2023-02-20,2023-03-01,Routine Checkup,D001,2864,Referred,Inpatient
+1143,530,11,2023-07-11,2023-07-15,Mental Health,D008,2890,Ongoing Treatment,Mental Health
+1144,983,55,2022-11-05,2022-11-10,Mental Health,D002,1081,Ongoing Treatment,Outpatient
+1145,492,2,2023-01-01,2023-01-02,Emergency,D006,7689,Referred,Inpatient
+1146,550,65,2023-06-05,2023-06-07,Specialist Consultation,D009,1541,Admitted,Emergency
+1147,699,172,2023-04-04,2023-04-07,Mental Health,D003,5025,Recovered,Outpatient
+1148,385,16,2023-08-22,2023-08-27,Specialist Consultation,D002,4997,Ongoing Treatment,Preventive
+1149,196,150,2023-01-05,2023-01-10,Emergency,D010,559,Admitted,Preventive
+1150,755,106,2022-11-27,2022-12-01,Specialist Consultation,D005,1909,Recovered,Preventive
+1151,300,146,2023-11-20,2023-11-23,Emergency,D009,5111,Referred,Emergency
+1152,815,175,2023-10-04,2023-10-13,Routine Checkup,D006,1908,Ongoing Treatment,Mental Health
+1153,547,30,2023-12-08,2023-12-09,Emergency,D008,9155,Ongoing Treatment,Inpatient
+1154,727,10,2022-01-11,2022-01-17,Routine Checkup,D008,5657,Referred,Emergency
+1155,731,186,2023-05-22,2023-05-29,Emergency,D007,2115,Ongoing Treatment,Outpatient
+1156,828,62,2023-02-23,2023-02-27,Mental Health,D005,3016,Recovered,Outpatient
+1157,602,85,2022-05-02,2022-05-05,Mental Health,D002,6823,Recovered,Preventive
+1158,308,134,2022-08-23,2022-08-31,Specialist Consultation,D010,7942,Referred,Inpatient
+1159,252,67,2022-11-27,2022-12-06,Emergency,D010,9838,Ongoing Treatment,Preventive
+1160,8,41,2023-06-27,2023-06-28,Emergency,D005,4492,Admitted,Outpatient
+1161,768,171,2022-12-14,2022-12-23,Emergency,D007,9297,Ongoing Treatment,Outpatient
+1162,875,18,2023-02-16,2023-02-23,Specialist Consultation,D007,9265,Referred,Mental Health
+1163,208,58,2022-08-12,2022-08-13,Mental Health,D002,3254,Admitted,Mental Health
+1164,937,60,2022-06-02,2022-06-09,Emergency,D007,625,Recovered,Mental Health
+1165,131,88,2022-07-31,2022-08-05,Specialist Consultation,D006,248,Recovered,Preventive
+1166,736,27,2022-04-02,2022-04-09,Emergency,D007,7473,Admitted,Inpatient
+1167,709,68,2022-11-27,2022-12-06,Routine Checkup,D008,1415,Admitted,Mental Health
+1168,980,22,2023-04-12,2023-04-20,Emergency,D004,7884,Referred,Emergency
+1169,654,152,2023-10-03,2023-10-09,Routine Checkup,D001,2048,Ongoing Treatment,Mental Health
+1170,764,40,2023-12-10,2023-12-12,Specialist Consultation,D008,5400,Recovered,Preventive
+1171,608,109,2023-07-08,2023-07-16,Specialist Consultation,D008,6494,Ongoing Treatment,Inpatient
+1172,26,74,2022-08-16,2022-08-20,Mental Health,D003,1066,Recovered,Mental Health
+1173,623,66,2022-07-13,2022-07-21,Emergency,D003,3668,Ongoing Treatment,Inpatient
+1174,454,168,2023-06-14,2023-06-21,Specialist Consultation,D005,75,Recovered,Emergency
+1175,635,6,2022-08-31,2022-09-04,Mental Health,D003,9800,Ongoing Treatment,Outpatient
+1176,186,112,2023-01-24,2023-02-01,Emergency,D005,3774,Referred,Inpatient
+1177,484,18,2022-10-03,2022-10-05,Specialist Consultation,D008,3508,Recovered,Mental Health
+1178,680,81,2023-03-26,2023-04-04,Routine Checkup,D001,6643,Referred,Preventive
+1179,51,102,2023-10-01,2023-10-07,Specialist Consultation,D002,8712,Recovered,Preventive
+1180,891,110,2023-08-10,2023-08-17,Routine Checkup,D002,7330,Recovered,Preventive
+1181,5,30,2023-07-28,2023-07-29,Mental Health,D004,8119,Recovered,Preventive
+1182,589,122,2023-04-23,2023-04-26,Mental Health,D009,4796,Ongoing Treatment,Inpatient
+1183,160,149,2023-04-25,2023-04-30,Emergency,D002,7639,Recovered,Preventive
+1184,208,62,2022-10-15,2022-10-22,Emergency,D009,9127,Referred,Outpatient
+1185,257,138,2023-11-29,2023-11-30,Emergency,D007,7028,Ongoing Treatment,Emergency
+1186,205,120,2023-11-21,2023-11-30,Mental Health,D010,9117,Ongoing Treatment,Inpatient
+1187,767,107,2023-11-09,2023-11-14,Routine Checkup,D008,9183,Recovered,Inpatient
+1188,950,141,2023-11-26,2023-11-29,Emergency,D001,3091,Admitted,Preventive
+1189,11,76,2023-06-24,2023-07-01,Emergency,D005,7815,Ongoing Treatment,Preventive
+1190,949,9,2022-11-26,2022-12-04,Mental Health,D009,5454,Recovered,Inpatient
+1191,8,196,2023-04-15,2023-04-18,Routine Checkup,D004,621,Referred,Preventive
+1192,409,39,2023-06-18,2023-06-25,Specialist Consultation,D002,8846,Admitted,Preventive
+1193,936,24,2023-04-12,2023-04-19,Emergency,D006,5030,Ongoing Treatment,Preventive
+1194,32,125,2023-02-24,2023-02-28,Specialist Consultation,D002,8623,Admitted,Preventive
+1195,984,118,2023-08-31,2023-09-09,Specialist Consultation,D003,1286,Ongoing Treatment,Preventive
+1196,540,34,2022-05-02,2022-05-03,Emergency,D008,2430,Admitted,Mental Health
+1197,718,61,2022-11-04,2022-11-05,Mental Health,D003,7227,Admitted,Mental Health
+1198,387,169,2022-11-30,2022-12-05,Emergency,D002,1567,Referred,Mental Health
+1199,228,133,2023-02-24,2023-02-27,Routine Checkup,D006,1583,Admitted,Inpatient
+1200,640,79,2022-11-22,2022-12-01,Routine Checkup,D003,5937,Referred,Emergency
+1201,767,50,2023-10-11,2023-10-16,Emergency,D001,7909,Recovered,Inpatient
+1202,475,132,2023-07-27,2023-08-03,Specialist Consultation,D003,3539,Ongoing Treatment,Mental Health
+1203,724,51,2022-09-07,2022-09-08,Routine Checkup,D006,4692,Referred,Inpatient
+1204,751,52,2022-04-05,2022-04-07,Routine Checkup,D003,9112,Ongoing Treatment,Emergency
+1205,207,122,2022-10-23,2022-10-27,Emergency,D009,2200,Referred,Preventive
+1206,318,167,2022-07-03,2022-07-12,Emergency,D007,5369,Ongoing Treatment,Outpatient
+1207,795,8,2022-09-17,2022-09-22,Mental Health,D005,3816,Referred,Mental Health
+1208,757,113,2023-10-29,2023-11-03,Emergency,D002,5010,Ongoing Treatment,Mental Health
+1209,557,45,2022-07-05,2022-07-14,Emergency,D009,6111,Recovered,Emergency
+1210,617,88,2023-02-13,2023-02-21,Routine Checkup,D005,5907,Ongoing Treatment,Preventive
+1211,348,28,2022-03-10,2022-03-12,Routine Checkup,D007,4537,Recovered,Preventive
+1212,793,119,2023-09-19,2023-09-26,Routine Checkup,D009,7800,Recovered,Outpatient
+1213,234,107,2022-01-08,2022-01-09,Specialist Consultation,D004,9854,Recovered,Preventive
+1214,701,27,2022-09-22,2022-10-01,Routine Checkup,D009,1127,Admitted,Emergency
+1215,44,193,2023-04-29,2023-05-02,Routine Checkup,D001,1350,Ongoing Treatment,Preventive
+1216,737,162,2023-09-09,2023-09-11,Emergency,D006,6699,Admitted,Emergency
+1217,942,81,2023-01-06,2023-01-10,Mental Health,D002,7231,Admitted,Mental Health
+1218,142,101,2023-11-08,2023-11-12,Routine Checkup,D008,8188,Ongoing Treatment,Mental Health
+1219,648,62,2022-03-24,2022-03-27,Mental Health,D005,2579,Recovered,Mental Health
+1220,176,62,2023-10-08,2023-10-10,Routine Checkup,D003,3310,Admitted,Inpatient
+1221,654,166,2022-07-30,2022-08-04,Routine Checkup,D002,413,Admitted,Mental Health
+1222,449,26,2022-11-09,2022-11-13,Mental Health,D008,895,Referred,Emergency
+1223,592,121,2023-08-27,2023-09-01,Emergency,D007,3082,Ongoing Treatment,Outpatient
+1224,82,24,2022-12-03,2022-12-11,Routine Checkup,D009,1377,Admitted,Preventive
+1225,135,39,2023-05-05,2023-05-07,Mental Health,D008,8633,Ongoing Treatment,Mental Health
+1226,719,124,2023-02-07,2023-02-16,Routine Checkup,D004,3305,Ongoing Treatment,Inpatient
+1227,856,21,2023-10-01,2023-10-02,Specialist Consultation,D002,5186,Admitted,Inpatient
+1228,177,94,2022-07-10,2022-07-18,Specialist Consultation,D002,7158,Ongoing Treatment,Emergency
+1229,383,175,2023-11-02,2023-11-07,Specialist Consultation,D002,3287,Recovered,Outpatient
+1230,243,115,2022-12-01,2022-12-03,Specialist Consultation,D006,9547,Admitted,Mental Health
+1231,567,176,2023-06-06,2023-06-14,Emergency,D007,5718,Admitted,Mental Health
+1232,141,121,2023-09-11,2023-09-16,Specialist Consultation,D006,6362,Admitted,Inpatient
+1233,457,13,2022-03-28,2022-03-31,Mental Health,D002,9006,Referred,Emergency
+1234,440,131,2023-08-02,2023-08-09,Routine Checkup,D004,5515,Referred,Inpatient
+1235,56,160,2022-03-03,2022-03-07,Mental Health,D003,548,Referred,Inpatient
+1236,527,163,2023-01-22,2023-01-28,Specialist Consultation,D004,6112,Referred,Outpatient
+1237,697,19,2022-05-26,2022-06-03,Emergency,D005,2994,Admitted,Emergency
+1238,826,142,2022-06-02,2022-06-03,Specialist Consultation,D007,8002,Recovered,Outpatient
+1239,419,176,2023-09-11,2023-09-13,Specialist Consultation,D009,5906,Ongoing Treatment,Emergency
+1240,88,81,2023-10-22,2023-10-30,Emergency,D002,7888,Ongoing Treatment,Mental Health
+1241,609,123,2023-11-29,2023-12-06,Emergency,D008,6127,Admitted,Preventive
+1242,656,68,2022-12-15,2022-12-24,Emergency,D003,185,Recovered,Preventive
+1243,8,173,2022-06-27,2022-06-29,Emergency,D009,9342,Ongoing Treatment,Emergency
+1244,477,19,2023-05-02,2023-05-10,Emergency,D010,4083,Recovered,Preventive
+1245,215,64,2023-10-23,2023-10-29,Emergency,D004,6750,Admitted,Inpatient
+1246,685,101,2022-09-04,2022-09-05,Routine Checkup,D003,4163,Referred,Mental Health
+1247,735,66,2022-09-11,2022-09-15,Specialist Consultation,D010,6596,Recovered,Mental Health
+1248,552,66,2023-05-15,2023-05-17,Specialist Consultation,D006,8446,Ongoing Treatment,Preventive
+1249,497,75,2023-06-25,2023-07-02,Emergency,D010,4644,Ongoing Treatment,Emergency
+1250,694,45,2022-12-18,2022-12-27,Mental Health,D009,611,Ongoing Treatment,Inpatient
+1251,503,87,2023-05-27,2023-06-02,Emergency,D007,5450,Referred,Emergency
+1252,782,67,2022-01-13,2022-01-17,Routine Checkup,D004,7383,Recovered,Preventive
+1253,699,197,2023-07-13,2023-07-18,Mental Health,D003,3364,Recovered,Mental Health
+1254,245,3,2022-05-31,2022-06-01,Routine Checkup,D010,4010,Ongoing Treatment,Mental Health
+1255,478,166,2022-02-19,2022-02-23,Mental Health,D004,2261,Recovered,Emergency
+1256,309,170,2022-08-03,2022-08-06,Mental Health,D003,2421,Ongoing Treatment,Outpatient
+1257,231,168,2023-10-06,2023-10-15,Emergency,D003,7024,Recovered,Emergency
+1258,383,178,2023-01-07,2023-01-13,Routine Checkup,D009,2731,Referred,Outpatient
+1259,155,163,2022-04-23,2022-04-27,Mental Health,D004,2856,Referred,Emergency
+1260,175,24,2022-09-09,2022-09-12,Routine Checkup,D009,2305,Admitted,Outpatient
+1261,848,88,2022-12-07,2022-12-11,Emergency,D010,9142,Admitted,Outpatient
+1262,115,17,2022-02-22,2022-03-02,Emergency,D005,6432,Admitted,Outpatient
+1263,390,40,2022-05-10,2022-05-15,Emergency,D007,9992,Recovered,Outpatient
+1264,311,194,2022-07-12,2022-07-13,Emergency,D005,4949,Referred,Inpatient
+1265,993,172,2023-08-14,2023-08-19,Specialist Consultation,D001,3209,Referred,Outpatient
+1266,300,151,2022-02-26,2022-03-06,Mental Health,D002,5706,Referred,Outpatient
+1267,18,6,2022-04-07,2022-04-11,Specialist Consultation,D005,1502,Ongoing Treatment,Mental Health
+1268,784,194,2022-07-17,2022-07-19,Emergency,D006,9485,Recovered,Inpatient
+1269,12,149,2023-10-09,2023-10-12,Mental Health,D007,2372,Recovered,Outpatient
+1270,404,119,2022-05-27,2022-06-05,Mental Health,D002,9912,Admitted,Preventive
+1271,813,120,2023-11-15,2023-11-22,Routine Checkup,D010,7147,Ongoing Treatment,Inpatient
+1272,704,35,2023-07-29,2023-08-01,Emergency,D009,1818,Ongoing Treatment,Mental Health
+1273,232,113,2023-07-31,2023-08-05,Specialist Consultation,D006,6146,Referred,Emergency
+1274,955,29,2022-10-22,2022-10-25,Routine Checkup,D002,5235,Admitted,Mental Health
+1275,605,7,2023-12-24,2023-12-28,Mental Health,D002,1219,Recovered,Mental Health
+1276,990,53,2023-09-13,2023-09-21,Specialist Consultation,D003,4760,Ongoing Treatment,Inpatient
+1277,730,165,2023-11-15,2023-11-18,Emergency,D001,6640,Referred,Inpatient
+1278,278,23,2022-01-12,2022-01-15,Specialist Consultation,D009,436,Recovered,Preventive
+1279,353,97,2022-11-29,2022-12-07,Specialist Consultation,D010,2480,Referred,Preventive
+1280,999,136,2022-08-08,2022-08-15,Specialist Consultation,D004,1455,Recovered,Inpatient
+1281,303,76,2023-02-02,2023-02-09,Routine Checkup,D005,173,Referred,Inpatient
+1282,541,176,2022-12-08,2022-12-10,Mental Health,D007,4047,Recovered,Inpatient
+1283,470,10,2023-05-27,2023-06-03,Specialist Consultation,D001,5959,Admitted,Emergency
+1284,813,117,2022-06-21,2022-06-24,Mental Health,D003,3946,Recovered,Mental Health
+1285,77,24,2023-04-13,2023-04-20,Routine Checkup,D003,9866,Recovered,Preventive
+1286,521,175,2022-06-15,2022-06-19,Emergency,D002,8116,Recovered,Preventive
+1287,24,181,2023-11-30,2023-12-08,Emergency,D008,9423,Referred,Outpatient
+1288,15,39,2022-06-19,2022-06-27,Specialist Consultation,D005,777,Ongoing Treatment,Emergency
+1289,676,195,2023-07-18,2023-07-24,Routine Checkup,D001,7089,Recovered,Inpatient
+1290,525,66,2023-05-27,2023-05-30,Emergency,D002,7765,Recovered,Inpatient
+1291,347,6,2022-07-08,2022-07-14,Routine Checkup,D001,3720,Admitted,Emergency
+1292,172,21,2022-04-30,2022-05-06,Routine Checkup,D006,1191,Recovered,Preventive
+1293,869,73,2022-04-15,2022-04-18,Specialist Consultation,D009,4081,Admitted,Inpatient
+1294,327,74,2023-11-05,2023-11-09,Specialist Consultation,D007,8600,Recovered,Outpatient
+1295,712,36,2022-02-10,2022-02-12,Routine Checkup,D005,3792,Referred,Preventive
+1296,485,131,2023-11-08,2023-11-09,Routine Checkup,D003,2894,Ongoing Treatment,Mental Health
+1297,489,170,2022-11-17,2022-11-19,Specialist Consultation,D008,2261,Ongoing Treatment,Emergency
+1298,462,173,2022-12-01,2022-12-08,Routine Checkup,D010,1022,Ongoing Treatment,Preventive
+1299,378,44,2022-06-09,2022-06-14,Specialist Consultation,D004,410,Referred,Mental Health
+1300,588,91,2022-09-21,2022-09-30,Mental Health,D009,2682,Admitted,Outpatient
+1301,164,161,2023-06-14,2023-06-17,Routine Checkup,D005,3240,Ongoing Treatment,Emergency
+1302,372,60,2023-11-16,2023-11-18,Specialist Consultation,D006,4998,Referred,Inpatient
+1303,573,93,2023-04-22,2023-04-26,Routine Checkup,D005,1674,Referred,Inpatient
+1304,1000,83,2022-12-18,2022-12-20,Specialist Consultation,D010,1806,Recovered,Mental Health
+1305,977,198,2023-06-29,2023-07-06,Routine Checkup,D007,7868,Admitted,Preventive
+1306,424,83,2022-07-29,2022-08-04,Emergency,D007,5169,Referred,Outpatient
+1307,757,77,2023-05-11,2023-05-19,Emergency,D001,6076,Admitted,Mental Health
+1308,477,26,2023-01-17,2023-01-22,Routine Checkup,D002,8482,Ongoing Treatment,Outpatient
+1309,382,21,2023-11-07,2023-11-09,Emergency,D007,7025,Ongoing Treatment,Outpatient
+1310,155,120,2023-04-26,2023-04-30,Routine Checkup,D008,1025,Ongoing Treatment,Outpatient
+1311,257,130,2022-01-05,2022-01-06,Routine Checkup,D004,4368,Recovered,Emergency
+1312,756,175,2022-02-03,2022-02-05,Mental Health,D006,5973,Recovered,Mental Health
+1313,674,108,2022-05-25,2022-05-29,Mental Health,D010,2363,Admitted,Emergency
+1314,68,158,2022-12-17,2022-12-23,Emergency,D003,9547,Admitted,Preventive
+1315,344,27,2023-08-06,2023-08-10,Mental Health,D007,837,Recovered,Preventive
+1316,277,71,2023-04-10,2023-04-14,Mental Health,D003,2478,Referred,Inpatient
+1317,673,148,2022-12-14,2022-12-16,Routine Checkup,D007,8797,Admitted,Inpatient
+1318,391,50,2022-05-05,2022-05-14,Specialist Consultation,D008,6714,Admitted,Inpatient
+1319,449,95,2022-09-28,2022-10-06,Routine Checkup,D003,9801,Ongoing Treatment,Preventive
+1320,259,23,2022-12-23,2022-12-31,Mental Health,D002,7533,Admitted,Outpatient
+1321,307,141,2023-06-11,2023-06-16,Routine Checkup,D006,1413,Admitted,Outpatient
+1322,847,81,2023-05-13,2023-05-16,Emergency,D004,4009,Referred,Mental Health
+1323,95,132,2022-06-02,2022-06-08,Specialist Consultation,D008,8831,Admitted,Preventive
+1324,950,142,2022-02-22,2022-03-03,Mental Health,D002,1799,Referred,Inpatient
+1325,464,20,2022-05-29,2022-06-06,Mental Health,D004,6721,Ongoing Treatment,Preventive
+1326,970,124,2023-05-18,2023-05-25,Routine Checkup,D002,590,Recovered,Outpatient
+1327,246,13,2023-03-26,2023-04-03,Routine Checkup,D002,7684,Ongoing Treatment,Outpatient
+1328,733,3,2022-08-07,2022-08-11,Routine Checkup,D002,8532,Referred,Emergency
+1329,635,175,2023-09-17,2023-09-23,Routine Checkup,D001,3985,Referred,Emergency
+1330,187,131,2022-10-04,2022-10-09,Mental Health,D004,4008,Admitted,Mental Health
+1331,774,129,2023-03-28,2023-03-30,Routine Checkup,D002,3909,Admitted,Preventive
+1332,925,90,2023-03-04,2023-03-12,Mental Health,D009,8100,Recovered,Emergency
+1333,785,152,2022-03-24,2022-03-27,Routine Checkup,D009,9497,Referred,Emergency
+1334,373,35,2022-08-06,2022-08-11,Specialist Consultation,D007,5381,Referred,Preventive
+1335,572,14,2023-06-11,2023-06-19,Specialist Consultation,D006,8249,Ongoing Treatment,Outpatient
+1336,406,195,2023-02-08,2023-02-17,Routine Checkup,D003,1707,Recovered,Mental Health
+1337,408,141,2022-10-17,2022-10-26,Routine Checkup,D007,6235,Ongoing Treatment,Mental Health
+1338,125,175,2023-02-24,2023-03-01,Emergency,D001,4478,Admitted,Mental Health
+1339,337,50,2022-12-05,2022-12-07,Specialist Consultation,D009,9498,Admitted,Emergency
+1340,341,78,2023-12-12,2023-12-19,Mental Health,D004,7287,Ongoing Treatment,Outpatient
+1341,563,154,2023-11-01,2023-11-08,Specialist Consultation,D006,1089,Admitted,Mental Health
+1342,178,3,2023-02-23,2023-03-03,Mental Health,D006,2166,Ongoing Treatment,Preventive
+1343,651,179,2022-07-26,2022-08-03,Routine Checkup,D003,8926,Referred,Mental Health
+1344,952,40,2023-11-17,2023-11-22,Specialist Consultation,D004,4068,Referred,Inpatient
+1345,839,196,2023-11-27,2023-11-28,Specialist Consultation,D010,7596,Admitted,Outpatient
+1346,170,164,2022-09-22,2022-09-26,Emergency,D003,1874,Recovered,Inpatient
+1347,39,51,2022-02-05,2022-02-09,Emergency,D006,3584,Referred,Outpatient
+1348,69,1,2023-01-08,2023-01-11,Specialist Consultation,D001,6720,Admitted,Preventive
+1349,236,104,2023-05-03,2023-05-11,Specialist Consultation,D008,8304,Recovered,Emergency
+1350,560,161,2022-09-16,2022-09-19,Specialist Consultation,D008,8502,Admitted,Emergency
+1351,381,135,2023-06-15,2023-06-20,Mental Health,D009,3621,Ongoing Treatment,Outpatient
+1352,57,117,2022-01-23,2022-01-25,Routine Checkup,D006,3242,Admitted,Mental Health
+1353,277,116,2022-04-14,2022-04-20,Emergency,D001,5003,Ongoing Treatment,Inpatient
+1354,850,52,2022-08-29,2022-09-04,Routine Checkup,D003,9730,Referred,Preventive
+1355,99,120,2023-12-17,2023-12-25,Emergency,D001,9372,Referred,Mental Health
+1356,916,139,2022-09-10,2022-09-18,Emergency,D005,4325,Admitted,Emergency
+1357,527,155,2022-05-22,2022-05-23,Emergency,D003,404,Recovered,Mental Health
+1358,325,142,2023-10-17,2023-10-22,Specialist Consultation,D002,5079,Admitted,Inpatient
+1359,461,86,2023-03-27,2023-03-29,Emergency,D003,2824,Admitted,Emergency
+1360,179,46,2022-11-03,2022-11-08,Routine Checkup,D009,638,Referred,Outpatient
+1361,844,76,2023-05-15,2023-05-24,Emergency,D008,654,Referred,Preventive
+1362,574,10,2023-09-14,2023-09-18,Routine Checkup,D003,8415,Admitted,Preventive
+1363,119,152,2022-01-08,2022-01-16,Emergency,D002,403,Referred,Emergency
+1364,469,61,2022-03-10,2022-03-11,Emergency,D005,5484,Ongoing Treatment,Outpatient
+1365,549,18,2023-12-03,2023-12-11,Specialist Consultation,D001,483,Admitted,Inpatient
+1366,646,86,2023-11-22,2023-11-28,Routine Checkup,D004,8500,Referred,Preventive
+1367,455,137,2023-07-29,2023-08-06,Emergency,D008,917,Admitted,Emergency
+1368,26,145,2022-03-09,2022-03-15,Emergency,D001,8837,Referred,Preventive
+1369,490,128,2023-12-19,2023-12-22,Routine Checkup,D005,5814,Ongoing Treatment,Outpatient
+1370,8,104,2023-02-12,2023-02-20,Emergency,D004,443,Ongoing Treatment,Inpatient
+1371,969,186,2023-06-02,2023-06-07,Mental Health,D006,3804,Admitted,Outpatient
+1372,987,141,2022-04-29,2022-05-04,Specialist Consultation,D007,4420,Ongoing Treatment,Mental Health
+1373,516,178,2022-01-31,2022-02-07,Routine Checkup,D009,4571,Ongoing Treatment,Outpatient
+1374,533,101,2023-06-02,2023-06-08,Specialist Consultation,D001,7749,Referred,Outpatient
+1375,927,6,2023-04-28,2023-05-07,Mental Health,D010,4628,Admitted,Preventive
+1376,149,85,2022-07-26,2022-08-02,Mental Health,D004,8455,Referred,Outpatient
+1377,488,51,2023-10-31,2023-11-03,Mental Health,D006,2176,Referred,Emergency
+1378,25,36,2023-08-02,2023-08-07,Routine Checkup,D010,8380,Recovered,Preventive
+1379,999,71,2023-01-22,2023-01-31,Mental Health,D007,4243,Ongoing Treatment,Preventive
+1380,655,100,2023-02-16,2023-02-18,Routine Checkup,D007,4010,Referred,Mental Health
+1381,757,25,2023-01-05,2023-01-06,Routine Checkup,D008,713,Referred,Emergency
+1382,931,139,2022-12-19,2022-12-27,Emergency,D010,2882,Referred,Outpatient
+1383,945,44,2022-12-02,2022-12-10,Routine Checkup,D008,9315,Ongoing Treatment,Mental Health
+1384,555,14,2022-10-16,2022-10-18,Mental Health,D008,4624,Ongoing Treatment,Emergency
+1385,425,29,2022-05-20,2022-05-28,Routine Checkup,D008,6421,Ongoing Treatment,Mental Health
+1386,293,74,2022-10-27,2022-11-01,Routine Checkup,D008,7674,Admitted,Inpatient
+1387,185,50,2022-01-13,2022-01-15,Specialist Consultation,D006,6342,Referred,Outpatient
+1388,554,5,2023-10-26,2023-11-02,Mental Health,D009,5227,Ongoing Treatment,Mental Health
+1389,431,200,2023-03-04,2023-03-11,Routine Checkup,D003,8403,Referred,Inpatient
+1390,604,110,2023-02-04,2023-02-07,Emergency,D006,7056,Admitted,Outpatient
+1391,317,197,2022-04-19,2022-04-20,Routine Checkup,D005,9742,Recovered,Mental Health
+1392,398,122,2023-04-30,2023-05-04,Routine Checkup,D008,3228,Admitted,Mental Health
+1393,324,88,2022-12-22,2022-12-24,Specialist Consultation,D004,5596,Ongoing Treatment,Mental Health
+1394,565,57,2022-05-29,2022-06-02,Mental Health,D004,4540,Ongoing Treatment,Mental Health
+1395,596,26,2023-12-17,2023-12-25,Mental Health,D010,4946,Admitted,Preventive
+1396,546,6,2022-11-03,2022-11-05,Emergency,D010,235,Referred,Mental Health
+1397,76,144,2023-06-17,2023-06-18,Emergency,D005,4703,Ongoing Treatment,Preventive
+1398,865,60,2022-03-01,2022-03-04,Emergency,D006,2030,Ongoing Treatment,Preventive
+1399,920,100,2023-03-11,2023-03-18,Routine Checkup,D004,4591,Admitted,Inpatient
+1400,916,12,2022-01-21,2022-01-27,Routine Checkup,D002,7858,Referred,Outpatient
+1401,709,75,2023-01-17,2023-01-23,Emergency,D002,879,Admitted,Preventive
+1402,486,3,2022-09-02,2022-09-09,Mental Health,D003,3569,Admitted,Emergency
+1403,798,63,2022-03-14,2022-03-22,Mental Health,D002,8058,Referred,Preventive
+1404,88,192,2023-03-25,2023-03-28,Emergency,D001,5959,Referred,Emergency
+1405,747,190,2022-03-17,2022-03-20,Specialist Consultation,D008,1275,Recovered,Inpatient
+1406,232,134,2023-11-29,2023-12-07,Mental Health,D005,5824,Admitted,Emergency
+1407,7,19,2023-08-13,2023-08-20,Mental Health,D010,2894,Referred,Inpatient
+1408,804,18,2023-01-25,2023-01-30,Emergency,D001,7397,Ongoing Treatment,Inpatient
+1409,550,80,2023-07-31,2023-08-04,Mental Health,D009,2783,Recovered,Inpatient
+1410,976,171,2022-12-08,2022-12-14,Routine Checkup,D008,4470,Admitted,Emergency
+1411,52,73,2022-10-17,2022-10-26,Routine Checkup,D004,4046,Referred,Emergency
+1412,655,131,2023-07-22,2023-07-28,Mental Health,D008,9740,Recovered,Inpatient
+1413,942,126,2022-11-27,2022-12-05,Routine Checkup,D010,1738,Recovered,Inpatient
+1414,919,72,2022-09-16,2022-09-17,Specialist Consultation,D007,2497,Ongoing Treatment,Outpatient
+1415,396,38,2023-03-02,2023-03-08,Mental Health,D007,917,Recovered,Inpatient
+1416,221,68,2023-12-03,2023-12-05,Emergency,D001,7002,Admitted,Mental Health
+1417,428,172,2022-01-06,2022-01-09,Routine Checkup,D006,6134,Referred,Outpatient
+1418,752,80,2022-01-06,2022-01-12,Specialist Consultation,D004,8481,Recovered,Outpatient
+1419,143,191,2022-07-10,2022-07-12,Specialist Consultation,D010,5355,Recovered,Outpatient
+1420,861,42,2022-05-28,2022-06-01,Routine Checkup,D010,8289,Admitted,Mental Health
+1421,363,64,2023-02-09,2023-02-15,Specialist Consultation,D010,4099,Ongoing Treatment,Outpatient
+1422,382,182,2022-09-15,2022-09-20,Mental Health,D002,3507,Ongoing Treatment,Outpatient
+1423,561,78,2023-12-31,2024-01-06,Specialist Consultation,D010,3278,Referred,Emergency
+1424,277,127,2023-04-24,2023-04-30,Routine Checkup,D007,1298,Admitted,Emergency
+1425,271,105,2022-03-31,2022-04-08,Specialist Consultation,D009,1217,Ongoing Treatment,Inpatient
+1426,14,199,2022-01-10,2022-01-19,Routine Checkup,D005,3540,Referred,Inpatient
+1427,298,76,2022-03-28,2022-04-02,Routine Checkup,D008,1947,Referred,Preventive
+1428,464,165,2022-05-31,2022-06-06,Specialist Consultation,D005,2229,Ongoing Treatment,Mental Health
+1429,527,132,2023-09-17,2023-09-23,Routine Checkup,D007,6005,Admitted,Emergency
+1430,234,130,2022-01-30,2022-02-05,Routine Checkup,D007,2770,Recovered,Inpatient
+1431,575,122,2022-05-08,2022-05-10,Emergency,D009,1993,Ongoing Treatment,Mental Health
+1432,708,44,2022-03-19,2022-03-23,Mental Health,D003,5962,Recovered,Outpatient
+1433,27,195,2023-02-25,2023-02-26,Routine Checkup,D001,7736,Recovered,Mental Health
+1434,471,196,2022-02-24,2022-02-25,Mental Health,D002,3746,Admitted,Emergency
+1435,93,102,2023-04-25,2023-04-26,Emergency,D006,2875,Admitted,Preventive
+1436,617,62,2022-11-01,2022-11-08,Emergency,D010,8464,Referred,Emergency
+1437,309,1,2023-06-30,2023-07-01,Emergency,D010,1796,Admitted,Inpatient
+1438,52,17,2022-04-15,2022-04-21,Emergency,D009,579,Referred,Inpatient
+1439,319,16,2022-06-21,2022-06-23,Mental Health,D003,6434,Ongoing Treatment,Mental Health
+1440,969,9,2023-05-14,2023-05-20,Specialist Consultation,D010,8375,Recovered,Emergency
+1441,181,181,2022-01-22,2022-01-28,Specialist Consultation,D002,4536,Admitted,Inpatient
+1442,569,59,2022-10-14,2022-10-17,Mental Health,D001,151,Ongoing Treatment,Outpatient
+1443,120,119,2023-01-26,2023-02-03,Routine Checkup,D002,3773,Referred,Outpatient
+1444,820,137,2023-09-09,2023-09-13,Mental Health,D003,2778,Admitted,Preventive
+1445,875,140,2022-05-29,2022-06-05,Routine Checkup,D007,2595,Recovered,Mental Health
+1446,43,119,2022-09-29,2022-10-03,Routine Checkup,D002,2608,Ongoing Treatment,Inpatient
+1447,647,41,2022-10-26,2022-10-27,Specialist Consultation,D005,6896,Admitted,Preventive
+1448,885,143,2022-06-21,2022-06-27,Emergency,D002,998,Admitted,Outpatient
+1449,938,66,2022-02-16,2022-02-21,Specialist Consultation,D007,9810,Ongoing Treatment,Preventive
+1450,260,75,2023-09-18,2023-09-27,Specialist Consultation,D010,4986,Referred,Preventive
+1451,197,11,2022-07-26,2022-08-04,Mental Health,D008,2103,Referred,Inpatient
+1452,645,8,2023-03-29,2023-04-06,Mental Health,D008,243,Admitted,Inpatient
+1453,971,183,2023-01-30,2023-02-06,Routine Checkup,D008,8983,Referred,Inpatient
+1454,255,134,2022-10-28,2022-10-30,Mental Health,D010,7354,Referred,Mental Health
+1455,732,181,2023-12-09,2023-12-17,Routine Checkup,D009,3009,Ongoing Treatment,Preventive
+1456,336,148,2023-11-07,2023-11-10,Routine Checkup,D001,8224,Referred,Preventive
+1457,553,167,2022-06-25,2022-07-01,Emergency,D001,2973,Referred,Mental Health
+1458,502,99,2022-04-20,2022-04-27,Emergency,D010,3289,Ongoing Treatment,Outpatient
+1459,990,72,2023-11-15,2023-11-21,Specialist Consultation,D002,3915,Admitted,Emergency
+1460,900,113,2022-07-21,2022-07-26,Emergency,D006,8279,Admitted,Outpatient
+1461,255,107,2022-06-17,2022-06-21,Routine Checkup,D001,9940,Ongoing Treatment,Mental Health
+1462,514,34,2023-09-06,2023-09-08,Mental Health,D005,4616,Recovered,Preventive
+1463,707,57,2022-03-27,2022-04-05,Emergency,D005,6645,Ongoing Treatment,Preventive
+1464,242,117,2023-10-16,2023-10-23,Emergency,D004,5659,Recovered,Inpatient
+1465,149,120,2023-12-26,2024-01-02,Emergency,D005,3263,Referred,Inpatient
+1466,710,147,2022-02-20,2022-02-24,Emergency,D001,5158,Admitted,Preventive
+1467,299,71,2022-04-22,2022-04-27,Routine Checkup,D006,1833,Recovered,Preventive
+1468,757,159,2023-04-08,2023-04-14,Routine Checkup,D007,8344,Recovered,Inpatient
+1469,850,40,2023-03-18,2023-03-20,Specialist Consultation,D008,5880,Referred,Inpatient
+1470,620,142,2022-09-28,2022-10-02,Mental Health,D002,5881,Admitted,Outpatient
+1471,453,103,2023-07-31,2023-08-04,Specialist Consultation,D007,91,Referred,Preventive
+1472,393,124,2022-12-10,2022-12-14,Specialist Consultation,D006,6259,Admitted,Preventive
+1473,212,123,2022-07-02,2022-07-09,Emergency,D009,1111,Admitted,Mental Health
+1474,668,100,2023-05-18,2023-05-25,Mental Health,D008,9918,Referred,Outpatient
+1475,538,165,2022-01-10,2022-01-17,Emergency,D004,3739,Recovered,Emergency
+1476,594,172,2023-05-09,2023-05-16,Routine Checkup,D009,7645,Ongoing Treatment,Emergency
+1477,595,137,2022-08-22,2022-08-24,Specialist Consultation,D001,6857,Admitted,Emergency
+1478,131,58,2022-10-25,2022-10-30,Mental Health,D006,4047,Admitted,Inpatient
+1479,329,148,2022-09-01,2022-09-03,Routine Checkup,D008,375,Ongoing Treatment,Emergency
+1480,612,109,2023-05-24,2023-05-29,Specialist Consultation,D004,7255,Ongoing Treatment,Mental Health
+1481,256,121,2022-12-17,2022-12-23,Mental Health,D002,1170,Referred,Inpatient
+1482,479,92,2022-09-24,2022-09-27,Specialist Consultation,D002,157,Admitted,Inpatient
+1483,561,50,2023-09-22,2023-09-28,Mental Health,D010,6344,Referred,Emergency
+1484,913,148,2023-10-18,2023-10-23,Specialist Consultation,D001,5243,Ongoing Treatment,Inpatient
+1485,63,105,2022-07-20,2022-07-24,Emergency,D005,7274,Referred,Outpatient
+1486,311,164,2022-08-27,2022-09-05,Specialist Consultation,D006,8576,Admitted,Outpatient
+1487,407,117,2022-11-30,2022-12-08,Specialist Consultation,D004,2089,Recovered,Emergency
+1488,802,27,2023-02-19,2023-02-26,Mental Health,D004,853,Recovered,Mental Health
+1489,105,200,2023-04-29,2023-04-30,Mental Health,D005,816,Admitted,Inpatient
+1490,617,32,2023-03-13,2023-03-22,Emergency,D005,3577,Referred,Preventive
+1491,837,1,2022-09-03,2022-09-12,Mental Health,D009,2356,Ongoing Treatment,Emergency
+1492,15,17,2022-01-08,2022-01-14,Specialist Consultation,D008,1538,Ongoing Treatment,Inpatient
+1493,687,137,2022-06-01,2022-06-08,Mental Health,D009,4179,Recovered,Emergency
+1494,259,84,2023-01-27,2023-01-30,Mental Health,D003,2423,Referred,Emergency
+1495,723,45,2022-07-30,2022-08-04,Mental Health,D003,9078,Ongoing Treatment,Mental Health
+1496,412,66,2023-01-02,2023-01-09,Emergency,D001,3359,Ongoing Treatment,Preventive
+1497,259,32,2023-11-01,2023-11-02,Emergency,D010,6884,Admitted,Inpatient
+1498,614,45,2023-07-24,2023-07-25,Routine Checkup,D006,5785,Referred,Emergency
+1499,260,9,2022-03-27,2022-04-01,Emergency,D004,4884,Referred,Emergency
+1500,856,30,2022-02-24,2022-03-05,Emergency,D008,7040,Ongoing Treatment,Inpatient
+1501,671,84,2023-12-14,2023-12-21,Emergency,D002,4033,Referred,Emergency
+1502,45,166,2023-09-26,2023-09-27,Specialist Consultation,D002,3818,Referred,Emergency
+1503,955,60,2023-03-22,2023-03-27,Routine Checkup,D007,1554,Referred,Emergency
+1504,813,1,2023-09-12,2023-09-20,Specialist Consultation,D005,6843,Admitted,Outpatient
+1505,763,5,2022-10-31,2022-11-08,Emergency,D001,2500,Ongoing Treatment,Outpatient
+1506,331,63,2022-05-12,2022-05-14,Emergency,D007,2083,Recovered,Preventive
+1507,165,164,2023-02-25,2023-03-04,Routine Checkup,D007,8052,Referred,Mental Health
+1508,193,65,2023-01-20,2023-01-25,Routine Checkup,D010,9941,Ongoing Treatment,Inpatient
+1509,521,78,2022-07-17,2022-07-26,Mental Health,D006,6069,Recovered,Mental Health
+1510,401,152,2022-02-16,2022-02-19,Emergency,D004,1357,Admitted,Mental Health
+1511,374,132,2022-07-22,2022-07-23,Emergency,D008,1025,Ongoing Treatment,Outpatient
+1512,65,114,2022-09-18,2022-09-22,Specialist Consultation,D002,4989,Admitted,Preventive
+1513,387,196,2023-11-21,2023-11-28,Mental Health,D002,3783,Ongoing Treatment,Mental Health
+1514,495,25,2022-01-24,2022-01-25,Emergency,D002,8601,Admitted,Mental Health
+1515,794,135,2023-11-18,2023-11-20,Specialist Consultation,D003,2273,Ongoing Treatment,Emergency
+1516,693,141,2022-12-06,2022-12-11,Routine Checkup,D006,534,Admitted,Inpatient
+1517,415,196,2023-02-16,2023-02-25,Specialist Consultation,D001,1478,Recovered,Preventive
+1518,794,43,2022-09-18,2022-09-19,Emergency,D002,2130,Ongoing Treatment,Inpatient
+1519,791,57,2022-10-13,2022-10-17,Specialist Consultation,D010,745,Recovered,Outpatient
+1520,30,164,2023-05-28,2023-05-31,Specialist Consultation,D002,6350,Referred,Mental Health
+1521,266,142,2022-03-27,2022-04-01,Mental Health,D001,4710,Recovered,Mental Health
+1522,328,72,2023-03-06,2023-03-11,Mental Health,D003,251,Ongoing Treatment,Inpatient
+1523,492,27,2023-08-04,2023-08-06,Routine Checkup,D010,9440,Recovered,Outpatient
+1524,217,128,2022-01-31,2022-02-05,Mental Health,D007,9509,Ongoing Treatment,Emergency
+1525,320,106,2023-12-11,2023-12-20,Specialist Consultation,D001,8315,Admitted,Emergency
+1526,918,165,2023-08-26,2023-08-31,Mental Health,D007,8337,Referred,Mental Health
+1527,399,71,2023-03-16,2023-03-18,Emergency,D005,3527,Recovered,Mental Health
+1528,891,153,2022-12-15,2022-12-22,Specialist Consultation,D009,2252,Referred,Preventive
+1529,105,67,2023-02-16,2023-02-22,Specialist Consultation,D002,7540,Recovered,Inpatient
+1530,696,90,2023-06-12,2023-06-19,Specialist Consultation,D001,8499,Ongoing Treatment,Mental Health
+1531,330,4,2022-11-06,2022-11-14,Emergency,D009,6367,Recovered,Outpatient
+1532,660,106,2023-01-31,2023-02-05,Specialist Consultation,D008,4475,Referred,Inpatient
+1533,617,79,2022-12-04,2022-12-06,Mental Health,D010,5400,Recovered,Preventive
+1534,47,96,2023-11-05,2023-11-12,Emergency,D006,2856,Referred,Emergency
+1535,599,93,2023-03-13,2023-03-20,Specialist Consultation,D005,7213,Referred,Preventive
+1536,821,74,2023-12-05,2023-12-13,Mental Health,D008,235,Ongoing Treatment,Inpatient
+1537,949,126,2023-10-25,2023-11-01,Mental Health,D008,8120,Admitted,Emergency
+1538,641,16,2022-12-31,2023-01-07,Routine Checkup,D005,8384,Admitted,Outpatient
+1539,770,147,2022-04-23,2022-05-02,Mental Health,D007,7100,Recovered,Emergency
+1540,314,157,2022-06-25,2022-07-03,Mental Health,D001,8881,Referred,Emergency
+1541,147,116,2022-05-29,2022-05-31,Routine Checkup,D004,2124,Ongoing Treatment,Outpatient
+1542,958,179,2022-06-27,2022-06-29,Routine Checkup,D002,7704,Admitted,Mental Health
+1543,462,18,2023-01-17,2023-01-24,Emergency,D010,251,Ongoing Treatment,Mental Health
+1544,584,186,2022-08-11,2022-08-14,Mental Health,D003,5760,Ongoing Treatment,Emergency
+1545,486,172,2022-09-16,2022-09-17,Emergency,D001,3215,Referred,Emergency
+1546,652,16,2022-07-08,2022-07-17,Emergency,D002,2152,Recovered,Preventive
+1547,410,193,2022-11-02,2022-11-05,Specialist Consultation,D001,9152,Referred,Mental Health
+1548,27,130,2023-01-13,2023-01-14,Emergency,D008,1621,Admitted,Outpatient
+1549,29,56,2023-08-25,2023-08-31,Emergency,D004,5175,Admitted,Emergency
+1550,271,79,2022-12-09,2022-12-13,Emergency,D003,6747,Ongoing Treatment,Emergency
+1551,686,103,2022-06-05,2022-06-06,Emergency,D001,5219,Referred,Preventive
+1552,501,28,2023-12-13,2023-12-17,Routine Checkup,D002,2209,Referred,Preventive
+1553,253,193,2022-02-24,2022-03-04,Mental Health,D003,1379,Ongoing Treatment,Preventive
+1554,385,5,2023-03-18,2023-03-25,Specialist Consultation,D003,3663,Recovered,Inpatient
+1555,60,106,2023-11-16,2023-11-17,Routine Checkup,D006,8702,Ongoing Treatment,Outpatient
+1556,107,22,2022-07-19,2022-07-28,Specialist Consultation,D010,9048,Ongoing Treatment,Inpatient
+1557,220,117,2023-02-07,2023-02-13,Specialist Consultation,D008,3749,Admitted,Emergency
+1558,441,100,2023-09-06,2023-09-08,Routine Checkup,D006,6077,Referred,Preventive
+1559,771,13,2023-10-25,2023-10-28,Emergency,D002,2323,Admitted,Preventive
+1560,883,65,2023-09-15,2023-09-22,Routine Checkup,D002,8300,Ongoing Treatment,Preventive
+1561,658,144,2023-08-26,2023-08-29,Specialist Consultation,D007,4873,Referred,Mental Health
+1562,564,86,2022-06-26,2022-06-29,Specialist Consultation,D001,9397,Ongoing Treatment,Outpatient
+1563,572,64,2023-03-25,2023-03-30,Emergency,D001,7125,Ongoing Treatment,Inpatient
+1564,546,32,2023-06-25,2023-06-28,Routine Checkup,D007,547,Recovered,Outpatient
+1565,96,80,2022-10-28,2022-10-31,Mental Health,D009,7009,Admitted,Preventive
+1566,989,51,2023-12-08,2023-12-13,Specialist Consultation,D005,6260,Admitted,Emergency
+1567,89,79,2022-11-03,2022-11-08,Routine Checkup,D001,7176,Ongoing Treatment,Mental Health
+1568,828,186,2022-09-24,2022-10-03,Emergency,D005,4026,Recovered,Outpatient
+1569,922,174,2022-08-02,2022-08-03,Emergency,D001,6470,Ongoing Treatment,Emergency
+1570,231,180,2023-08-17,2023-08-18,Mental Health,D010,1657,Ongoing Treatment,Preventive
+1571,968,106,2023-10-02,2023-10-11,Specialist Consultation,D009,8962,Ongoing Treatment,Preventive
+1572,275,63,2023-04-28,2023-05-03,Mental Health,D004,1324,Recovered,Preventive
+1573,246,76,2022-09-19,2022-09-23,Mental Health,D009,740,Referred,Preventive
+1574,111,60,2022-03-08,2022-03-10,Mental Health,D002,4073,Recovered,Mental Health
+1575,234,65,2023-07-28,2023-08-06,Mental Health,D007,7297,Ongoing Treatment,Mental Health
+1576,278,117,2022-05-13,2022-05-19,Emergency,D002,3487,Referred,Outpatient
+1577,477,81,2023-10-11,2023-10-20,Specialist Consultation,D004,2405,Ongoing Treatment,Preventive
+1578,417,105,2023-06-24,2023-06-29,Mental Health,D006,5631,Recovered,Mental Health
+1579,678,128,2023-05-27,2023-05-31,Specialist Consultation,D002,799,Recovered,Emergency
+1580,128,183,2022-07-30,2022-08-06,Emergency,D002,3101,Referred,Mental Health
+1581,237,185,2023-12-18,2023-12-23,Emergency,D002,7813,Recovered,Mental Health
+1582,803,71,2022-09-10,2022-09-18,Routine Checkup,D003,3614,Ongoing Treatment,Outpatient
+1583,619,86,2022-02-07,2022-02-15,Routine Checkup,D005,5808,Referred,Mental Health
+1584,128,154,2022-02-12,2022-02-14,Specialist Consultation,D009,1754,Admitted,Emergency
+1585,707,140,2023-09-21,2023-09-26,Routine Checkup,D006,6124,Ongoing Treatment,Preventive
+1586,851,71,2023-02-09,2023-02-17,Mental Health,D009,2427,Admitted,Inpatient
+1587,394,46,2023-12-03,2023-12-06,Specialist Consultation,D010,8069,Referred,Outpatient
+1588,475,47,2022-02-15,2022-02-22,Emergency,D005,5324,Referred,Emergency
+1589,655,79,2023-03-30,2023-04-02,Emergency,D006,3281,Ongoing Treatment,Outpatient
+1590,395,166,2023-11-09,2023-11-15,Mental Health,D010,6459,Recovered,Preventive
+1591,111,149,2022-11-01,2022-11-03,Routine Checkup,D008,2265,Ongoing Treatment,Mental Health
+1592,90,142,2023-12-16,2023-12-22,Specialist Consultation,D003,6338,Recovered,Mental Health
+1593,763,130,2022-08-21,2022-08-27,Specialist Consultation,D002,6379,Recovered,Emergency
+1594,280,200,2022-09-02,2022-09-10,Mental Health,D003,935,Ongoing Treatment,Preventive
+1595,333,127,2023-12-22,2023-12-27,Routine Checkup,D009,914,Referred,Inpatient
+1596,224,109,2022-10-22,2022-10-23,Specialist Consultation,D006,6967,Ongoing Treatment,Inpatient
+1597,101,119,2023-01-18,2023-01-26,Mental Health,D010,3104,Admitted,Mental Health
+1598,132,198,2022-06-07,2022-06-16,Specialist Consultation,D004,9027,Referred,Preventive
+1599,13,101,2023-02-09,2023-02-10,Emergency,D010,8698,Recovered,Preventive
+1600,457,161,2022-01-01,2022-01-06,Specialist Consultation,D003,8586,Referred,Emergency
+1601,441,6,2022-08-05,2022-08-11,Specialist Consultation,D002,603,Ongoing Treatment,Inpatient
+1602,98,126,2023-05-22,2023-05-26,Specialist Consultation,D004,5166,Referred,Emergency
+1603,120,103,2023-08-04,2023-08-06,Routine Checkup,D009,7733,Recovered,Outpatient
+1604,293,37,2022-01-30,2022-02-04,Routine Checkup,D004,837,Recovered,Preventive
+1605,816,142,2023-09-19,2023-09-23,Mental Health,D005,8946,Referred,Inpatient
+1606,711,37,2023-06-04,2023-06-11,Routine Checkup,D008,4957,Admitted,Emergency
+1607,1,8,2022-10-02,2022-10-08,Specialist Consultation,D002,7240,Recovered,Mental Health
+1608,572,77,2023-05-07,2023-05-10,Specialist Consultation,D003,9194,Admitted,Outpatient
+1609,250,141,2022-02-05,2022-02-14,Routine Checkup,D006,864,Recovered,Emergency
+1610,652,40,2022-11-07,2022-11-11,Routine Checkup,D007,9790,Referred,Mental Health
+1611,149,107,2022-02-13,2022-02-18,Specialist Consultation,D004,8385,Recovered,Inpatient
+1612,395,92,2022-06-04,2022-06-07,Specialist Consultation,D001,2827,Admitted,Inpatient
+1613,44,186,2022-03-18,2022-03-26,Emergency,D007,3816,Admitted,Outpatient
+1614,883,18,2023-08-13,2023-08-20,Mental Health,D009,5008,Referred,Mental Health
+1615,698,57,2023-09-05,2023-09-12,Routine Checkup,D001,3875,Admitted,Preventive
+1616,620,83,2023-03-14,2023-03-22,Mental Health,D001,1266,Admitted,Inpatient
+1617,44,166,2023-03-08,2023-03-15,Specialist Consultation,D001,4520,Referred,Preventive
+1618,78,32,2023-06-26,2023-06-29,Mental Health,D010,6822,Recovered,Preventive
+1619,226,194,2022-02-08,2022-02-11,Routine Checkup,D007,9531,Referred,Emergency
+1620,162,25,2022-08-27,2022-08-29,Routine Checkup,D009,7767,Recovered,Emergency
+1621,793,186,2022-01-13,2022-01-14,Mental Health,D003,8797,Recovered,Inpatient
+1622,253,33,2022-05-02,2022-05-07,Routine Checkup,D008,912,Recovered,Preventive
+1623,132,88,2022-05-24,2022-05-28,Emergency,D009,6267,Ongoing Treatment,Emergency
+1624,448,194,2023-11-15,2023-11-17,Specialist Consultation,D003,5988,Recovered,Mental Health
+1625,884,158,2023-03-31,2023-04-01,Specialist Consultation,D003,2405,Referred,Mental Health
+1626,887,104,2023-01-03,2023-01-06,Routine Checkup,D001,9207,Referred,Mental Health
+1627,474,34,2022-09-04,2022-09-10,Specialist Consultation,D002,2445,Referred,Mental Health
+1628,656,102,2022-02-14,2022-02-16,Emergency,D007,8717,Ongoing Treatment,Preventive
+1629,778,127,2023-01-10,2023-01-17,Routine Checkup,D003,9580,Admitted,Mental Health
+1630,109,69,2022-10-18,2022-10-25,Emergency,D007,574,Ongoing Treatment,Preventive
+1631,706,176,2022-07-26,2022-07-29,Emergency,D005,611,Referred,Inpatient
+1632,35,40,2023-06-03,2023-06-04,Specialist Consultation,D010,8217,Referred,Inpatient
+1633,467,179,2022-08-30,2022-09-08,Specialist Consultation,D008,8163,Admitted,Mental Health
+1634,902,80,2023-09-14,2023-09-19,Mental Health,D005,7466,Ongoing Treatment,Mental Health
+1635,275,141,2022-04-24,2022-04-26,Emergency,D003,4714,Referred,Mental Health
+1636,187,31,2022-10-29,2022-11-06,Specialist Consultation,D009,1255,Recovered,Inpatient
+1637,949,116,2022-10-03,2022-10-07,Emergency,D007,2288,Recovered,Emergency
+1638,243,167,2022-04-06,2022-04-13,Mental Health,D005,1210,Referred,Inpatient
+1639,264,63,2022-10-21,2022-10-26,Emergency,D007,5289,Recovered,Mental Health
+1640,974,48,2023-12-02,2023-12-05,Routine Checkup,D010,7024,Admitted,Emergency
+1641,522,87,2022-12-26,2023-01-03,Mental Health,D009,121,Referred,Emergency
+1642,963,48,2022-10-15,2022-10-17,Mental Health,D005,804,Ongoing Treatment,Outpatient
+1643,678,61,2022-06-03,2022-06-04,Emergency,D007,7348,Referred,Preventive
+1644,541,140,2023-07-24,2023-07-29,Emergency,D009,6650,Admitted,Mental Health
+1645,783,78,2023-02-27,2023-03-03,Specialist Consultation,D001,9146,Ongoing Treatment,Preventive
+1646,87,184,2022-02-19,2022-02-26,Routine Checkup,D004,8202,Admitted,Outpatient
+1647,535,18,2022-07-26,2022-08-04,Mental Health,D001,8293,Recovered,Preventive
+1648,210,155,2023-07-18,2023-07-24,Mental Health,D008,2671,Recovered,Mental Health
+1649,46,28,2023-10-24,2023-10-25,Mental Health,D003,3240,Recovered,Outpatient
+1650,467,80,2023-07-19,2023-07-27,Specialist Consultation,D002,3998,Admitted,Preventive
+1651,540,180,2022-08-01,2022-08-03,Routine Checkup,D004,1337,Admitted,Inpatient
+1652,26,16,2022-03-07,2022-03-11,Mental Health,D003,5408,Referred,Emergency
+1653,266,77,2022-08-20,2022-08-23,Mental Health,D005,7568,Ongoing Treatment,Outpatient
+1654,175,186,2023-10-25,2023-10-31,Specialist Consultation,D008,7086,Ongoing Treatment,Inpatient
+1655,516,137,2023-12-18,2023-12-20,Emergency,D010,4830,Admitted,Mental Health
+1656,311,26,2022-11-16,2022-11-21,Mental Health,D008,1822,Admitted,Emergency
+1657,322,28,2022-05-17,2022-05-26,Routine Checkup,D007,3952,Recovered,Outpatient
+1658,579,105,2023-10-09,2023-10-12,Routine Checkup,D008,5776,Admitted,Emergency
+1659,135,77,2023-07-20,2023-07-22,Routine Checkup,D005,6250,Recovered,Outpatient
+1660,55,164,2022-03-06,2022-03-08,Routine Checkup,D010,9191,Admitted,Outpatient
+1661,976,9,2023-05-29,2023-06-07,Specialist Consultation,D010,3188,Ongoing Treatment,Preventive
+1662,543,175,2022-05-12,2022-05-18,Mental Health,D006,7263,Referred,Emergency
+1663,586,51,2022-11-30,2022-12-02,Specialist Consultation,D008,2466,Admitted,Emergency
+1664,531,76,2022-02-01,2022-02-04,Routine Checkup,D001,9667,Recovered,Inpatient
+1665,156,122,2023-05-13,2023-05-14,Routine Checkup,D006,7101,Referred,Mental Health
+1666,849,185,2022-08-31,2022-09-02,Routine Checkup,D006,1634,Recovered,Inpatient
+1667,668,32,2022-07-11,2022-07-13,Specialist Consultation,D005,1096,Recovered,Preventive
+1668,147,195,2022-05-22,2022-05-24,Routine Checkup,D004,7034,Referred,Outpatient
+1669,485,57,2023-10-22,2023-10-29,Mental Health,D001,2215,Referred,Preventive
+1670,599,54,2023-08-24,2023-08-27,Routine Checkup,D010,5769,Referred,Preventive
+1671,20,116,2023-07-15,2023-07-19,Mental Health,D008,7272,Admitted,Inpatient
+1672,269,144,2023-10-10,2023-10-12,Mental Health,D006,1226,Referred,Outpatient
+1673,333,62,2022-07-10,2022-07-15,Routine Checkup,D003,6461,Admitted,Mental Health
+1674,555,84,2022-05-29,2022-06-07,Specialist Consultation,D003,8124,Ongoing Treatment,Preventive
+1675,907,56,2023-08-22,2023-08-31,Emergency,D006,9273,Ongoing Treatment,Mental Health
+1676,944,23,2023-02-20,2023-02-27,Emergency,D007,3338,Recovered,Outpatient
+1677,911,17,2023-06-04,2023-06-12,Mental Health,D008,1365,Recovered,Outpatient
+1678,401,166,2022-01-16,2022-01-21,Specialist Consultation,D005,942,Admitted,Inpatient
+1679,950,200,2022-04-16,2022-04-21,Emergency,D010,5219,Recovered,Emergency
+1680,306,158,2022-10-10,2022-10-13,Routine Checkup,D006,8348,Ongoing Treatment,Inpatient
+1681,28,186,2022-04-14,2022-04-20,Routine Checkup,D001,3130,Admitted,Mental Health
+1682,467,78,2022-12-27,2022-12-28,Mental Health,D006,8986,Admitted,Inpatient
+1683,260,22,2023-10-20,2023-10-23,Specialist Consultation,D009,6516,Referred,Outpatient
+1684,534,108,2022-02-04,2022-02-06,Specialist Consultation,D010,8863,Admitted,Preventive
+1685,982,17,2022-04-23,2022-04-30,Emergency,D004,5140,Recovered,Emergency
+1686,887,15,2022-11-04,2022-11-13,Emergency,D010,4290,Ongoing Treatment,Outpatient
+1687,101,114,2022-02-22,2022-02-26,Routine Checkup,D001,9062,Recovered,Preventive
+1688,551,48,2022-03-22,2022-03-29,Mental Health,D009,461,Ongoing Treatment,Mental Health
+1689,802,160,2023-09-08,2023-09-16,Specialist Consultation,D004,8355,Referred,Mental Health
+1690,353,113,2023-01-04,2023-01-06,Emergency,D002,2496,Ongoing Treatment,Mental Health
+1691,300,168,2022-08-30,2022-09-06,Emergency,D001,3396,Referred,Inpatient
+1692,682,97,2022-01-31,2022-02-03,Mental Health,D003,135,Recovered,Mental Health
+1693,296,185,2023-12-05,2023-12-13,Mental Health,D007,7799,Referred,Mental Health
+1694,353,186,2022-12-27,2023-01-02,Routine Checkup,D010,4192,Admitted,Inpatient
+1695,908,91,2022-08-21,2022-08-24,Mental Health,D002,7137,Admitted,Preventive
+1696,130,16,2023-09-02,2023-09-10,Routine Checkup,D009,7418,Ongoing Treatment,Outpatient
+1697,156,156,2022-02-03,2022-02-06,Routine Checkup,D002,9814,Recovered,Emergency
+1698,74,98,2022-08-31,2022-09-09,Mental Health,D005,5884,Recovered,Mental Health
+1699,342,111,2022-02-28,2022-03-03,Mental Health,D008,853,Ongoing Treatment,Mental Health
+1700,465,1,2023-06-13,2023-06-14,Mental Health,D010,6769,Admitted,Mental Health
+1701,90,41,2022-03-19,2022-03-21,Mental Health,D008,6135,Referred,Inpatient
+1702,579,48,2023-12-19,2023-12-23,Mental Health,D003,9311,Ongoing Treatment,Inpatient
+1703,455,159,2022-10-29,2022-10-31,Routine Checkup,D002,4232,Referred,Inpatient
+1704,748,164,2023-11-09,2023-11-13,Emergency,D009,9650,Referred,Emergency
+1705,712,108,2022-04-22,2022-04-26,Specialist Consultation,D003,314,Recovered,Outpatient
+1706,980,161,2023-02-17,2023-02-21,Specialist Consultation,D008,3143,Admitted,Mental Health
+1707,332,161,2022-11-13,2022-11-14,Routine Checkup,D002,4848,Referred,Preventive
+1708,739,103,2022-05-25,2022-06-03,Routine Checkup,D003,9715,Admitted,Mental Health
+1709,977,128,2023-10-30,2023-11-06,Emergency,D001,8193,Recovered,Mental Health
+1710,348,151,2023-11-21,2023-11-23,Mental Health,D006,375,Ongoing Treatment,Mental Health
+1711,233,188,2023-10-10,2023-10-13,Routine Checkup,D007,1256,Ongoing Treatment,Mental Health
+1712,778,30,2022-01-18,2022-01-26,Specialist Consultation,D004,9746,Recovered,Outpatient
+1713,598,45,2022-12-17,2022-12-24,Mental Health,D001,1490,Recovered,Preventive
+1714,102,80,2022-06-04,2022-06-08,Routine Checkup,D003,5234,Referred,Inpatient
+1715,953,39,2023-05-21,2023-05-25,Mental Health,D009,9197,Recovered,Preventive
+1716,481,45,2022-12-26,2023-01-04,Specialist Consultation,D005,8796,Ongoing Treatment,Mental Health
+1717,214,78,2022-11-28,2022-12-03,Mental Health,D006,5186,Admitted,Preventive
+1718,108,81,2023-06-12,2023-06-17,Routine Checkup,D004,8190,Admitted,Mental Health
+1719,165,140,2022-01-12,2022-01-19,Routine Checkup,D001,5869,Admitted,Preventive
+1720,973,93,2022-03-16,2022-03-17,Specialist Consultation,D005,8119,Admitted,Emergency
+1721,603,32,2022-07-31,2022-08-03,Emergency,D005,2086,Recovered,Preventive
+1722,704,184,2023-11-22,2023-11-24,Emergency,D005,9528,Recovered,Inpatient
+1723,335,24,2023-10-03,2023-10-09,Mental Health,D006,9439,Admitted,Inpatient
+1724,86,116,2022-10-10,2022-10-16,Routine Checkup,D002,5610,Recovered,Preventive
+1725,734,13,2022-07-14,2022-07-15,Routine Checkup,D001,3679,Referred,Preventive
+1726,875,148,2022-01-30,2022-02-05,Specialist Consultation,D002,9013,Recovered,Outpatient
+1727,424,79,2022-01-09,2022-01-11,Specialist Consultation,D010,5364,Referred,Preventive
+1728,613,56,2022-11-05,2022-11-09,Routine Checkup,D006,2506,Referred,Inpatient
+1729,738,53,2023-03-21,2023-03-27,Specialist Consultation,D005,8712,Recovered,Emergency
+1730,364,68,2022-11-06,2022-11-09,Emergency,D005,1420,Admitted,Inpatient
+1731,60,182,2023-11-08,2023-11-11,Emergency,D006,7679,Referred,Outpatient
+1732,482,34,2023-12-06,2023-12-09,Mental Health,D010,8913,Recovered,Preventive
+1733,250,28,2023-03-02,2023-03-06,Specialist Consultation,D007,1224,Ongoing Treatment,Emergency
+1734,560,50,2023-12-05,2023-12-14,Mental Health,D009,160,Admitted,Inpatient
+1735,117,130,2023-08-14,2023-08-18,Specialist Consultation,D007,3609,Ongoing Treatment,Emergency
+1736,739,111,2023-11-22,2023-11-26,Specialist Consultation,D002,6742,Referred,Mental Health
+1737,874,94,2022-04-01,2022-04-05,Emergency,D006,9268,Ongoing Treatment,Inpatient
+1738,915,154,2023-04-01,2023-04-08,Routine Checkup,D009,3283,Recovered,Mental Health
+1739,968,179,2023-03-20,2023-03-25,Specialist Consultation,D007,1522,Admitted,Emergency
+1740,999,47,2023-12-28,2023-12-30,Specialist Consultation,D002,4922,Referred,Preventive
+1741,545,26,2022-03-20,2022-03-27,Specialist Consultation,D003,4803,Recovered,Preventive
+1742,44,84,2023-04-20,2023-04-23,Routine Checkup,D008,1883,Admitted,Preventive
+1743,509,106,2022-04-13,2022-04-14,Mental Health,D009,5978,Referred,Mental Health
+1744,988,92,2023-09-15,2023-09-24,Mental Health,D004,8695,Referred,Preventive
+1745,165,120,2023-04-01,2023-04-06,Specialist Consultation,D009,6866,Referred,Outpatient
+1746,368,75,2022-11-10,2022-11-11,Specialist Consultation,D002,790,Referred,Inpatient
+1747,857,122,2022-09-04,2022-09-05,Mental Health,D005,7306,Ongoing Treatment,Inpatient
+1748,292,189,2022-08-22,2022-08-23,Mental Health,D002,2430,Ongoing Treatment,Emergency
+1749,849,151,2023-08-17,2023-08-26,Emergency,D001,9685,Ongoing Treatment,Mental Health
+1750,856,165,2023-10-06,2023-10-14,Specialist Consultation,D005,3730,Referred,Inpatient
+1751,917,41,2022-08-23,2022-08-29,Mental Health,D002,9990,Ongoing Treatment,Mental Health
+1752,898,52,2023-01-22,2023-01-28,Emergency,D007,2451,Admitted,Emergency
+1753,799,82,2023-09-03,2023-09-09,Routine Checkup,D008,7227,Referred,Preventive
+1754,876,177,2022-02-07,2022-02-11,Specialist Consultation,D002,2056,Admitted,Emergency
+1755,737,155,2022-06-10,2022-06-15,Mental Health,D007,1459,Admitted,Outpatient
+1756,286,134,2023-04-07,2023-04-10,Specialist Consultation,D004,1812,Ongoing Treatment,Preventive
+1757,204,74,2023-03-25,2023-03-28,Emergency,D001,959,Referred,Preventive
+1758,684,66,2022-04-27,2022-05-04,Mental Health,D003,810,Ongoing Treatment,Preventive
+1759,524,24,2022-08-29,2022-09-03,Routine Checkup,D001,6688,Ongoing Treatment,Emergency
+1760,819,166,2022-01-26,2022-02-03,Routine Checkup,D005,5662,Ongoing Treatment,Outpatient
+1761,121,28,2023-10-10,2023-10-15,Emergency,D008,3290,Referred,Mental Health
+1762,945,156,2023-07-16,2023-07-20,Routine Checkup,D001,580,Referred,Emergency
+1763,756,117,2022-10-25,2022-10-28,Routine Checkup,D009,9601,Ongoing Treatment,Inpatient
+1764,664,114,2022-06-03,2022-06-05,Routine Checkup,D003,2610,Admitted,Inpatient
+1765,664,194,2023-10-14,2023-10-17,Routine Checkup,D005,2227,Admitted,Emergency
+1766,188,61,2023-04-13,2023-04-20,Routine Checkup,D009,5153,Referred,Mental Health
+1767,907,174,2022-02-18,2022-02-26,Routine Checkup,D005,7756,Recovered,Inpatient
+1768,13,69,2023-10-16,2023-10-21,Routine Checkup,D009,1587,Ongoing Treatment,Mental Health
+1769,603,114,2022-02-15,2022-02-16,Mental Health,D010,9515,Ongoing Treatment,Preventive
+1770,200,75,2023-11-06,2023-11-09,Routine Checkup,D008,2831,Recovered,Emergency
+1771,586,171,2022-10-12,2022-10-16,Mental Health,D007,996,Referred,Preventive
+1772,768,59,2023-09-20,2023-09-24,Specialist Consultation,D001,5307,Admitted,Inpatient
+1773,456,130,2022-03-23,2022-03-24,Emergency,D004,9540,Referred,Mental Health
+1774,448,15,2022-02-13,2022-02-22,Routine Checkup,D009,5147,Admitted,Preventive
+1775,788,105,2023-12-07,2023-12-11,Emergency,D010,2561,Admitted,Inpatient
+1776,840,165,2022-09-30,2022-10-02,Routine Checkup,D008,2238,Referred,Outpatient
+1777,841,199,2023-01-29,2023-02-07,Mental Health,D004,6113,Ongoing Treatment,Preventive
+1778,71,148,2023-08-18,2023-08-22,Routine Checkup,D001,931,Ongoing Treatment,Outpatient
+1779,590,98,2022-02-27,2022-03-03,Specialist Consultation,D010,1897,Ongoing Treatment,Outpatient
+1780,796,35,2023-07-19,2023-07-25,Emergency,D004,6649,Admitted,Inpatient
+1781,130,162,2022-01-01,2022-01-09,Emergency,D003,2025,Ongoing Treatment,Emergency
+1782,889,31,2022-08-04,2022-08-09,Specialist Consultation,D006,6627,Admitted,Mental Health
+1783,43,127,2022-11-13,2022-11-21,Mental Health,D005,5776,Ongoing Treatment,Inpatient
+1784,520,19,2022-08-16,2022-08-17,Mental Health,D005,4618,Referred,Preventive
+1785,13,196,2023-04-18,2023-04-22,Specialist Consultation,D002,7213,Recovered,Mental Health
+1786,725,24,2023-04-29,2023-04-30,Emergency,D003,6632,Admitted,Emergency
+1787,623,84,2023-11-02,2023-11-05,Routine Checkup,D006,8739,Referred,Inpatient
+1788,988,167,2022-10-14,2022-10-21,Mental Health,D002,2266,Admitted,Emergency
+1789,803,92,2023-05-26,2023-05-27,Routine Checkup,D004,9230,Admitted,Preventive
+1790,535,182,2023-08-01,2023-08-06,Emergency,D002,5751,Referred,Inpatient
+1791,302,167,2023-04-03,2023-04-04,Routine Checkup,D009,8067,Ongoing Treatment,Preventive
+1792,766,145,2022-04-05,2022-04-11,Specialist Consultation,D003,2658,Admitted,Mental Health
+1793,527,147,2023-05-08,2023-05-17,Mental Health,D010,9612,Recovered,Mental Health
+1794,642,118,2022-05-30,2022-06-02,Mental Health,D010,4859,Recovered,Emergency
+1795,573,176,2022-01-23,2022-01-29,Specialist Consultation,D006,6395,Referred,Emergency
+1796,115,163,2022-08-03,2022-08-07,Specialist Consultation,D001,228,Recovered,Mental Health
+1797,460,160,2023-02-03,2023-02-09,Mental Health,D010,7821,Referred,Outpatient
+1798,832,175,2023-02-14,2023-02-16,Mental Health,D003,8021,Referred,Mental Health
+1799,505,47,2022-05-11,2022-05-15,Mental Health,D008,1979,Admitted,Inpatient
+1800,308,192,2022-05-28,2022-06-04,Emergency,D005,2598,Referred,Preventive
+1801,932,174,2023-01-16,2023-01-22,Emergency,D008,4884,Referred,Mental Health
+1802,963,103,2022-04-19,2022-04-28,Emergency,D002,161,Ongoing Treatment,Mental Health
+1803,325,121,2023-07-06,2023-07-13,Routine Checkup,D007,7998,Admitted,Preventive
+1804,579,163,2022-05-01,2022-05-02,Emergency,D009,764,Recovered,Preventive
+1805,761,94,2022-10-22,2022-10-28,Mental Health,D007,9643,Ongoing Treatment,Inpatient
+1806,175,145,2022-04-30,2022-05-03,Emergency,D003,6084,Ongoing Treatment,Preventive
+1807,851,42,2023-04-01,2023-04-09,Mental Health,D007,1431,Admitted,Emergency
+1808,514,111,2023-06-14,2023-06-15,Specialist Consultation,D008,3177,Admitted,Mental Health
+1809,172,29,2022-06-18,2022-06-20,Routine Checkup,D001,7533,Ongoing Treatment,Preventive
+1810,997,198,2023-12-11,2023-12-14,Routine Checkup,D003,1258,Admitted,Inpatient
+1811,960,124,2022-05-23,2022-05-26,Specialist Consultation,D005,86,Admitted,Preventive
+1812,502,17,2022-02-06,2022-02-13,Mental Health,D006,1878,Referred,Mental Health
+1813,977,14,2023-11-29,2023-12-07,Routine Checkup,D003,3391,Admitted,Outpatient
+1814,334,152,2022-09-18,2022-09-27,Emergency,D004,7056,Referred,Preventive
+1815,284,185,2022-08-19,2022-08-26,Mental Health,D005,7725,Ongoing Treatment,Emergency
+1816,475,50,2022-09-11,2022-09-19,Routine Checkup,D003,5397,Ongoing Treatment,Mental Health
+1817,54,57,2022-11-25,2022-12-01,Specialist Consultation,D004,7940,Recovered,Inpatient
+1818,458,189,2022-10-24,2022-10-26,Mental Health,D005,859,Admitted,Mental Health
+1819,579,104,2022-01-10,2022-01-11,Routine Checkup,D002,4168,Ongoing Treatment,Outpatient
+1820,420,39,2023-03-22,2023-03-25,Specialist Consultation,D010,1576,Referred,Inpatient
+1821,614,183,2022-08-18,2022-08-27,Mental Health,D009,545,Ongoing Treatment,Outpatient
+1822,632,96,2023-06-20,2023-06-27,Emergency,D010,474,Admitted,Outpatient
+1823,703,36,2022-03-19,2022-03-21,Mental Health,D008,2797,Recovered,Emergency
+1824,409,114,2023-03-01,2023-03-02,Emergency,D006,2032,Recovered,Preventive
+1825,982,37,2022-07-12,2022-07-14,Mental Health,D010,1518,Ongoing Treatment,Emergency
+1826,304,14,2023-02-05,2023-02-08,Specialist Consultation,D003,7778,Recovered,Emergency
+1827,935,155,2022-04-19,2022-04-25,Emergency,D002,6820,Admitted,Emergency
+1828,559,123,2022-09-20,2022-09-29,Emergency,D007,1283,Admitted,Inpatient
+1829,222,83,2022-11-25,2022-12-03,Mental Health,D008,8806,Recovered,Preventive
+1830,533,159,2022-12-29,2023-01-07,Routine Checkup,D010,3069,Referred,Preventive
+1831,158,73,2023-01-13,2023-01-21,Emergency,D001,1354,Recovered,Inpatient
+1832,348,102,2022-12-07,2022-12-14,Mental Health,D006,8084,Recovered,Emergency
+1833,159,81,2022-09-16,2022-09-22,Specialist Consultation,D007,182,Ongoing Treatment,Emergency
+1834,889,83,2022-12-01,2022-12-09,Mental Health,D009,498,Referred,Outpatient
+1835,884,44,2022-03-26,2022-04-01,Mental Health,D003,6457,Recovered,Outpatient
+1836,922,68,2023-06-06,2023-06-08,Emergency,D002,899,Ongoing Treatment,Mental Health
+1837,235,48,2023-07-25,2023-08-03,Routine Checkup,D005,5407,Ongoing Treatment,Outpatient
+1838,662,57,2022-11-04,2022-11-13,Specialist Consultation,D010,4012,Ongoing Treatment,Preventive
+1839,405,75,2022-09-19,2022-09-22,Emergency,D001,9722,Admitted,Inpatient
+1840,257,22,2023-09-23,2023-10-02,Emergency,D006,9142,Ongoing Treatment,Emergency
+1841,677,132,2023-11-11,2023-11-13,Emergency,D009,4904,Ongoing Treatment,Mental Health
+1842,589,200,2023-12-02,2023-12-05,Specialist Consultation,D010,1589,Admitted,Outpatient
+1843,597,46,2023-03-28,2023-04-03,Routine Checkup,D009,1949,Admitted,Mental Health
+1844,558,187,2022-09-08,2022-09-12,Specialist Consultation,D007,2994,Ongoing Treatment,Inpatient
+1845,905,162,2022-11-20,2022-11-28,Specialist Consultation,D007,5007,Recovered,Inpatient
+1846,913,11,2022-08-17,2022-08-18,Routine Checkup,D008,5993,Referred,Mental Health
+1847,47,31,2023-12-03,2023-12-09,Specialist Consultation,D010,3294,Admitted,Mental Health
+1848,213,139,2023-09-28,2023-09-30,Mental Health,D002,6386,Referred,Mental Health
+1849,479,120,2023-08-19,2023-08-25,Specialist Consultation,D006,8756,Admitted,Emergency
+1850,487,56,2022-10-24,2022-10-25,Emergency,D005,1641,Ongoing Treatment,Preventive
+1851,571,38,2023-12-28,2023-12-30,Specialist Consultation,D005,8003,Admitted,Outpatient
+1852,566,21,2022-08-25,2022-09-03,Emergency,D003,7905,Ongoing Treatment,Outpatient
+1853,342,110,2023-09-17,2023-09-23,Specialist Consultation,D003,7845,Referred,Outpatient
+1854,524,94,2022-08-05,2022-08-13,Emergency,D006,8325,Recovered,Mental Health
+1855,704,138,2022-09-03,2022-09-10,Emergency,D010,3792,Ongoing Treatment,Mental Health
+1856,503,154,2023-03-24,2023-04-02,Emergency,D010,2177,Referred,Mental Health
+1857,6,136,2022-11-15,2022-11-24,Routine Checkup,D007,1651,Referred,Emergency
+1858,821,8,2023-03-08,2023-03-12,Specialist Consultation,D001,1272,Admitted,Emergency
+1859,144,188,2023-02-08,2023-02-15,Specialist Consultation,D003,5740,Ongoing Treatment,Emergency
+1860,858,72,2022-02-06,2022-02-11,Mental Health,D001,1892,Referred,Emergency
+1861,261,119,2023-07-30,2023-08-06,Mental Health,D010,8108,Recovered,Inpatient
+1862,585,34,2022-12-08,2022-12-12,Mental Health,D003,9831,Admitted,Emergency
+1863,686,144,2023-01-24,2023-01-25,Specialist Consultation,D005,5615,Admitted,Emergency
+1864,232,105,2022-02-03,2022-02-07,Routine Checkup,D009,4538,Referred,Emergency
+1865,270,141,2022-02-08,2022-02-11,Emergency,D003,8250,Ongoing Treatment,Outpatient
+1866,940,87,2023-08-02,2023-08-11,Specialist Consultation,D010,7000,Admitted,Outpatient
+1867,447,150,2022-07-28,2022-08-02,Routine Checkup,D010,8956,Ongoing Treatment,Outpatient
+1868,874,155,2022-06-01,2022-06-05,Routine Checkup,D009,1977,Referred,Preventive
+1869,222,64,2022-12-31,2023-01-08,Specialist Consultation,D001,8351,Referred,Inpatient
+1870,52,2,2022-07-18,2022-07-23,Emergency,D006,4979,Ongoing Treatment,Mental Health
+1871,116,109,2023-08-24,2023-08-27,Routine Checkup,D009,8507,Recovered,Emergency
+1872,538,26,2022-03-20,2022-03-22,Specialist Consultation,D005,5542,Admitted,Outpatient
+1873,565,83,2023-04-22,2023-04-30,Emergency,D010,3273,Referred,Inpatient
+1874,877,107,2023-03-10,2023-03-12,Mental Health,D002,6177,Recovered,Emergency
+1875,541,69,2022-02-01,2022-02-09,Routine Checkup,D005,5121,Recovered,Preventive
+1876,19,97,2022-03-28,2022-04-02,Routine Checkup,D001,1004,Ongoing Treatment,Mental Health
+1877,815,30,2023-07-05,2023-07-13,Specialist Consultation,D009,7100,Ongoing Treatment,Emergency
+1878,392,8,2023-01-28,2023-02-02,Specialist Consultation,D010,9591,Ongoing Treatment,Mental Health
+1879,791,38,2023-09-05,2023-09-06,Emergency,D010,1624,Recovered,Emergency
+1880,629,189,2022-09-01,2022-09-03,Mental Health,D009,6718,Admitted,Preventive
+1881,618,81,2022-08-20,2022-08-26,Mental Health,D006,7145,Ongoing Treatment,Inpatient
+1882,419,108,2023-08-03,2023-08-06,Specialist Consultation,D009,7770,Admitted,Mental Health
+1883,991,65,2022-07-11,2022-07-19,Specialist Consultation,D003,3305,Ongoing Treatment,Mental Health
+1884,309,67,2023-06-24,2023-06-29,Emergency,D004,1108,Recovered,Inpatient
+1885,739,174,2022-09-27,2022-09-30,Specialist Consultation,D006,2007,Admitted,Mental Health
+1886,864,90,2022-03-18,2022-03-25,Emergency,D004,6698,Admitted,Outpatient
+1887,186,95,2022-06-16,2022-06-24,Emergency,D001,4994,Recovered,Inpatient
+1888,261,72,2022-10-11,2022-10-15,Mental Health,D007,5108,Admitted,Preventive
+1889,528,43,2023-12-05,2023-12-14,Emergency,D005,2569,Recovered,Emergency
+1890,273,187,2022-03-30,2022-04-05,Mental Health,D008,7963,Recovered,Emergency
+1891,160,46,2023-06-28,2023-06-29,Mental Health,D009,2620,Referred,Inpatient
+1892,870,200,2023-10-11,2023-10-16,Mental Health,D005,7500,Ongoing Treatment,Outpatient
+1893,762,125,2022-06-05,2022-06-10,Specialist Consultation,D008,3937,Referred,Preventive
+1894,224,163,2022-09-07,2022-09-14,Mental Health,D001,7753,Recovered,Emergency
+1895,256,39,2022-04-05,2022-04-12,Emergency,D001,6467,Recovered,Emergency
+1896,180,51,2022-01-17,2022-01-23,Specialist Consultation,D007,9129,Admitted,Outpatient
+1897,20,4,2022-04-27,2022-05-05,Emergency,D006,794,Recovered,Mental Health
+1898,624,121,2022-11-29,2022-12-01,Specialist Consultation,D005,6470,Recovered,Inpatient
+1899,632,80,2023-06-06,2023-06-13,Emergency,D005,3564,Recovered,Outpatient
+1900,706,77,2022-03-21,2022-03-28,Routine Checkup,D009,2980,Ongoing Treatment,Outpatient
+1901,468,179,2023-10-08,2023-10-12,Routine Checkup,D001,5587,Referred,Outpatient
+1902,623,133,2023-03-08,2023-03-10,Routine Checkup,D008,6763,Referred,Outpatient
+1903,210,55,2022-07-22,2022-07-26,Emergency,D002,225,Ongoing Treatment,Mental Health
+1904,513,20,2022-04-26,2022-04-30,Specialist Consultation,D007,615,Ongoing Treatment,Preventive
+1905,58,152,2022-08-08,2022-08-14,Mental Health,D006,3267,Ongoing Treatment,Outpatient
+1906,93,164,2022-09-10,2022-09-17,Mental Health,D010,4407,Referred,Outpatient
+1907,221,34,2022-06-18,2022-06-21,Emergency,D002,6023,Referred,Inpatient
+1908,723,122,2022-11-12,2022-11-13,Emergency,D003,9636,Recovered,Emergency
+1909,940,109,2023-12-18,2023-12-21,Emergency,D004,5852,Referred,Mental Health
+1910,232,126,2023-01-07,2023-01-16,Emergency,D007,7084,Admitted,Outpatient
+1911,774,54,2023-08-06,2023-08-07,Mental Health,D008,9462,Referred,Preventive
+1912,364,162,2022-06-05,2022-06-13,Specialist Consultation,D002,997,Ongoing Treatment,Preventive
+1913,615,145,2023-09-06,2023-09-08,Mental Health,D008,8826,Referred,Preventive
+1914,562,133,2022-01-13,2022-01-19,Emergency,D009,9862,Recovered,Inpatient
+1915,374,89,2023-05-23,2023-05-26,Routine Checkup,D007,3405,Referred,Preventive
+1916,622,146,2023-04-10,2023-04-17,Mental Health,D001,5301,Ongoing Treatment,Inpatient
+1917,456,183,2022-08-08,2022-08-10,Routine Checkup,D006,3241,Admitted,Mental Health
+1918,88,53,2022-01-15,2022-01-19,Routine Checkup,D008,5897,Ongoing Treatment,Preventive
+1919,20,50,2022-04-27,2022-05-06,Emergency,D005,6766,Admitted,Emergency
+1920,14,72,2022-11-27,2022-12-03,Mental Health,D002,581,Recovered,Outpatient
+1921,133,173,2022-02-25,2022-03-01,Specialist Consultation,D005,1281,Recovered,Mental Health
+1922,937,141,2022-12-17,2022-12-19,Mental Health,D008,1747,Referred,Emergency
+1923,808,16,2022-05-12,2022-05-21,Specialist Consultation,D002,3420,Recovered,Mental Health
+1924,34,13,2022-08-14,2022-08-18,Specialist Consultation,D001,1595,Recovered,Preventive
+1925,892,20,2022-11-04,2022-11-13,Emergency,D004,1487,Ongoing Treatment,Mental Health
+1926,208,66,2023-04-20,2023-04-22,Specialist Consultation,D004,8612,Ongoing Treatment,Mental Health
+1927,813,47,2022-08-10,2022-08-17,Mental Health,D009,4554,Referred,Mental Health
+1928,199,147,2022-06-22,2022-06-27,Mental Health,D003,5552,Referred,Inpatient
+1929,592,173,2022-12-06,2022-12-14,Routine Checkup,D004,7658,Referred,Emergency
+1930,583,165,2023-05-21,2023-05-29,Specialist Consultation,D003,6047,Referred,Preventive
+1931,155,122,2022-06-06,2022-06-10,Emergency,D002,5616,Ongoing Treatment,Outpatient
+1932,590,54,2022-05-31,2022-06-04,Emergency,D004,7836,Referred,Preventive
+1933,78,6,2023-11-28,2023-12-06,Mental Health,D008,8858,Referred,Preventive
+1934,172,14,2022-06-27,2022-06-30,Specialist Consultation,D001,4216,Recovered,Inpatient
+1935,289,132,2023-06-17,2023-06-24,Emergency,D008,4064,Referred,Inpatient
+1936,545,86,2022-04-22,2022-04-30,Specialist Consultation,D008,2306,Admitted,Mental Health
+1937,812,183,2023-11-14,2023-11-22,Specialist Consultation,D003,4404,Recovered,Preventive
+1938,788,162,2022-05-18,2022-05-22,Routine Checkup,D010,3360,Ongoing Treatment,Emergency
+1939,879,27,2022-08-21,2022-08-30,Emergency,D010,7449,Admitted,Inpatient
+1940,420,7,2022-11-28,2022-12-02,Routine Checkup,D006,981,Referred,Inpatient
+1941,7,131,2023-06-26,2023-07-04,Emergency,D004,2379,Recovered,Emergency
+1942,160,175,2022-11-03,2022-11-09,Specialist Consultation,D001,443,Referred,Inpatient
+1943,240,2,2022-06-10,2022-06-15,Emergency,D001,2515,Recovered,Emergency
+1944,963,80,2023-02-06,2023-02-10,Mental Health,D005,3327,Referred,Outpatient
+1945,423,153,2023-08-13,2023-08-18,Specialist Consultation,D008,5480,Admitted,Emergency
+1946,989,60,2022-10-05,2022-10-06,Emergency,D001,7052,Ongoing Treatment,Outpatient
+1947,536,24,2022-11-16,2022-11-23,Routine Checkup,D002,8867,Admitted,Mental Health
+1948,726,15,2023-06-17,2023-06-25,Routine Checkup,D007,6038,Admitted,Mental Health
+1949,70,95,2023-05-12,2023-05-21,Specialist Consultation,D008,7559,Ongoing Treatment,Inpatient
+1950,880,142,2022-12-29,2023-01-01,Routine Checkup,D003,5982,Recovered,Emergency
+1951,216,182,2023-01-07,2023-01-16,Specialist Consultation,D008,9407,Recovered,Inpatient
+1952,104,134,2023-10-17,2023-10-22,Specialist Consultation,D001,2831,Ongoing Treatment,Emergency
+1953,727,81,2022-02-05,2022-02-11,Specialist Consultation,D009,1689,Referred,Inpatient
+1954,54,18,2022-10-30,2022-10-31,Emergency,D002,9023,Recovered,Mental Health
+1955,806,20,2023-03-14,2023-03-23,Specialist Consultation,D002,2324,Admitted,Mental Health
+1956,330,115,2023-12-27,2024-01-05,Routine Checkup,D004,2530,Ongoing Treatment,Inpatient
+1957,848,190,2022-02-01,2022-02-07,Mental Health,D010,6849,Admitted,Emergency
+1958,203,40,2022-07-05,2022-07-13,Emergency,D003,8597,Recovered,Preventive
+1959,288,39,2022-06-23,2022-06-27,Routine Checkup,D004,4724,Ongoing Treatment,Emergency
+1960,45,180,2023-07-20,2023-07-25,Specialist Consultation,D006,3572,Ongoing Treatment,Inpatient
+1961,829,32,2023-11-04,2023-11-09,Specialist Consultation,D007,6154,Recovered,Emergency
+1962,198,124,2022-09-07,2022-09-14,Mental Health,D005,5869,Recovered,Outpatient
+1963,216,108,2022-10-06,2022-10-13,Routine Checkup,D002,213,Ongoing Treatment,Emergency
+1964,481,27,2023-11-14,2023-11-21,Emergency,D003,6972,Referred,Mental Health
+1965,309,110,2023-11-26,2023-12-01,Routine Checkup,D010,3431,Ongoing Treatment,Mental Health
+1966,896,180,2022-01-02,2022-01-06,Specialist Consultation,D003,2114,Referred,Outpatient
+1967,435,97,2022-07-13,2022-07-21,Emergency,D005,6639,Admitted,Emergency
+1968,332,191,2022-06-15,2022-06-16,Specialist Consultation,D005,7497,Referred,Preventive
+1969,696,74,2022-04-20,2022-04-21,Specialist Consultation,D004,4034,Referred,Emergency
+1970,27,191,2023-01-15,2023-01-21,Routine Checkup,D008,3937,Recovered,Mental Health
+1971,166,17,2023-08-06,2023-08-08,Mental Health,D006,389,Ongoing Treatment,Mental Health
+1972,318,49,2023-11-07,2023-11-10,Specialist Consultation,D006,4871,Admitted,Inpatient
+1973,274,81,2022-10-12,2022-10-16,Routine Checkup,D001,3831,Ongoing Treatment,Mental Health
+1974,383,116,2023-02-25,2023-02-27,Emergency,D006,3640,Referred,Inpatient
+1975,365,23,2022-04-23,2022-04-30,Mental Health,D003,5180,Referred,Mental Health
+1976,103,98,2022-08-16,2022-08-17,Specialist Consultation,D006,7741,Referred,Mental Health
+1977,960,72,2023-04-16,2023-04-19,Specialist Consultation,D010,9887,Ongoing Treatment,Preventive
+1978,503,141,2023-06-12,2023-06-14,Emergency,D006,7365,Referred,Inpatient
+1979,845,151,2023-05-11,2023-05-20,Routine Checkup,D002,7783,Ongoing Treatment,Inpatient
+1980,373,57,2022-01-31,2022-02-08,Specialist Consultation,D001,5099,Admitted,Mental Health
+1981,616,190,2022-06-11,2022-06-14,Emergency,D003,4754,Admitted,Inpatient
+1982,926,182,2023-12-06,2023-12-11,Specialist Consultation,D005,688,Ongoing Treatment,Mental Health
+1983,245,148,2023-12-23,2023-12-26,Routine Checkup,D004,7759,Admitted,Mental Health
+1984,817,86,2023-01-13,2023-01-19,Mental Health,D007,5193,Recovered,Emergency
+1985,169,180,2023-03-22,2023-03-27,Routine Checkup,D004,1274,Referred,Inpatient
+1986,628,23,2023-03-03,2023-03-05,Routine Checkup,D008,4295,Referred,Outpatient
+1987,653,105,2023-11-27,2023-12-05,Routine Checkup,D007,9791,Referred,Inpatient
+1988,418,163,2023-05-19,2023-05-25,Emergency,D010,5473,Recovered,Inpatient
+1989,356,67,2023-06-11,2023-06-14,Specialist Consultation,D009,6657,Referred,Preventive
+1990,478,34,2023-12-22,2023-12-23,Mental Health,D001,7457,Ongoing Treatment,Outpatient
+1991,125,33,2023-11-15,2023-11-20,Emergency,D005,9747,Referred,Outpatient
+1992,537,46,2023-06-16,2023-06-18,Routine Checkup,D004,8123,Ongoing Treatment,Preventive
+1993,706,81,2023-08-05,2023-08-07,Mental Health,D006,8202,Admitted,Preventive
+1994,896,173,2023-06-04,2023-06-13,Routine Checkup,D001,9617,Ongoing Treatment,Inpatient
+1995,612,147,2022-02-03,2022-02-10,Routine Checkup,D006,8909,Ongoing Treatment,Emergency
+1996,402,87,2023-11-22,2023-11-28,Routine Checkup,D001,5818,Ongoing Treatment,Preventive
+1997,517,15,2023-05-05,2023-05-06,Mental Health,D001,2424,Referred,Outpatient
+1998,531,123,2023-09-12,2023-09-14,Specialist Consultation,D008,4140,Recovered,Outpatient
+1999,682,121,2023-02-27,2023-03-06,Routine Checkup,D002,1065,Recovered,Inpatient
+2000,786,78,2023-04-13,2023-04-16,Specialist Consultation,D010,385,Ongoing Treatment,Emergency
